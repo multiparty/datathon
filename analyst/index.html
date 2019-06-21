@@ -16,7 +16,7 @@
         color: #FF0000;
     }
     </style>
-    <script src="../jiff/lib/socket.io/socket.io.js"></script>
+    <script src="http://socket.io/socket.io.js"></script>
     <script src="../jiff/lib/sodium.js"></script>
     <script src="../jiff/lib/jiff-client.js"></script>
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
@@ -49,7 +49,7 @@ std("time_since_diagnosis", "northeast")
 correlate("region", "death flag")
                         </textarea>
                         <br>
-                        <button style="width: 190px" class="btn btn-primary" id="resetButton" id="connectButton" onclick="connect();">Connect to Data Servers</button>&nbsp;&nbsp;
+                        <button style="width: 190px" class="btn btn-primary" id="connectButton" onclick="connect();">Connect to Data Servers</button>&nbsp;&nbsp;
                         <button style="width: 100px" class="btn btn-primary" id="compareBtn1"  onclick="submit();" disabled="true">Run Query</button>&nbsp;&nbsp;
                         <button style="width: 100px" class="btn btn-primary" id="resetButton" onclick="reset();" disabled="true">Disconnect</button>
                     </div>

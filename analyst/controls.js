@@ -46,17 +46,13 @@ function disconnectServer(n) {
 
 // eslint-disable-next-line no-unused-vars
 function connect() {
-    $('#connectButton').prop('disabled', true);
-    $('#resetButton').prop('disabled', false);
     var computation_id = $('#computation_id').val();
     var party_count = 2;
 
-    if (isNaN(party_count)) {
-        $('#output').append('<p class="error">Party count must be a valid number!</p>');
-        $('#connectButton').prop('disabled', false);
-    } else {
-        // connect?
-    }
+    $('#compareBtn1').prop('disabled', false);
+    $('#connectButton').prop('disabled', true);
+    $('#resetButton').prop('disabled', false);
+    $('textarea').val()
 }
 
 function och() {
