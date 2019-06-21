@@ -7,6 +7,10 @@ def combine(path_to_files, primary_key, output_path):
     for filename in glob.glob(path_to_files):
         print(filename)
         df = pd.read_csv(filename, index_col=False)
+        if filename == "../synthetic_data/trial_2\syn_adef.csv":
+            print(len(df))
+            df = df[df["PARAMCD"] == "TIME2DTH"]
+            print(len(df))
         sub_li = []
         for col_name in list(df):
             sub_df = df.groupby([primary_key])[col_name].apply(list)
@@ -20,7 +24,7 @@ def combine(path_to_files, primary_key, output_path):
 
     frame = pd.concat(li, axis=1)
     del frame[primary_key]
-
+    frame = frame.dropna()
     frame.to_csv(output_path)
 
 if __name__ == "__main__":
