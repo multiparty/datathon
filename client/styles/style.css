@@ -332,3 +332,14 @@ span.success {
 .flip {
   transform: scaleY(-1);
 }
+
+
+
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+
+.fileIcon {
+  width: 20px;
+}
