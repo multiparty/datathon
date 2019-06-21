@@ -4,9 +4,8 @@
   <meta charset="utf-8">
   <title>Vivli Data Upload</title>
 
-  <script data-main="app/index" src="app/vendor/require.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-  <script type="text/javascript" src="app/helper/array.reduce-polyfill.min.js"></script>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
         integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -22,6 +21,7 @@
         integrity="sha256-d7VZTlP9P3ZTCZ3Bkl8aGZ/+Vs4i+bpcOGNfibU7+LU=" crossorigin="anonymous"/>
 
   <link rel="stylesheet" href="styles/style.css">
+  <script src="client.js"></script>
 
 </head>
 <body>
@@ -79,12 +79,37 @@
         </div>
         <div class="col-md-6">
           <div id="drop-area">
-            Drag and drop your completed template file here
+
+              <form class="md-form">
+
+                <div class="input-group">
+                    <label class="input-group-btn">
+                        <span class="btn btn-primary">
+                            Browse&hellip; <input type="file" style="display: none;" multiple>
+                        </span>
+                    </label>
+                    <input type="text" class="form-control" readonly>
+                </div>    
+                
+                
+                
+                
+                <!-- <div class="file-field">
+                    <div class="btn btn-primary btn-sm float-left">
+                      <span>Choose file</span>
+                      <input type="file">
+                    </div>
+                    <div class="file-path-wrapper">
+                      <input class="file-path validate" type="text" placeholder="Upload your file">
+                    </div>
+                  </div> -->
+                </form>
+            <!-- Drag and drop your completed template file here
             <br/>
             <p>&mdash;or&mdash;</p><br/>
-            <button id="choose-file-button" class="btn btn-primary">Choose file</button>
+            <button id="choose-file-button" class="btn btn-primary">Choose file</button> -->
           </div>
-          <input type="file" id="choose-file" accept=".xlsx,.xls">
+          <!-- <input type="file" id="choose-file" accept=".xlsx,.xls"> -->
         </div>
       </div>
     </section>
@@ -110,12 +135,6 @@
           </form>
         </div>
         <div class="col-md-6">
-          <div id="errors">
-            <h4>Errors</h4>
-            <ul id="validation-errors" class="has-error">
-              <li>No Errors!</li>
-            </ul>
-          </div>
           <h4>Submission history</h4>
           <ul id="submission-history">
             <li>You have not submitted yet</li>
