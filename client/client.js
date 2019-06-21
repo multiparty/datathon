@@ -1,7 +1,5 @@
 
 $(function() {
-
-  // We can attach the `fileselect` event to all file inputs on the page
   $(document).on('change', ':file', function() {
     var input = $(this),
         files = input.get(0).files
@@ -11,32 +9,29 @@ $(function() {
       fileNames.push(f.name);
     }
 
-    console.log(fileNames);
+    for (var i = 0; i < fileNames.length; i++) {
 
-    var inputLabel = $(this).parents('.input-group').find(':text');
-    var nameString = fileNames.join('\n\n');
-    console.log(nameString);
+      var tableBody = document.getElementById('tableBody');
 
-    inputLabel.val(fileNames.join('\n\n'));
+      var tr = document.createElement('tr');
+      var numCell = document.createElement('td');
+      numCell.innerText = i;
+      var nameCell = document.createElement('td');
+      nameCell.innerText = fileNames[i];
 
-        // label = input.val().replace(/\\/g, '/').replace(/.*\//, '');
-    // input.trigger('fileselect', [files]);
-  });
+      var iconCell = document.createElement('td');
+      var icon = document.createElement('img');
+      icon.setAttribute('src', 'images/file_icon.png');
+      icon.setAttribute('class', 'fileIcon');
 
-  // We can watch for our custom `fileselect` event like this
-  $(document).ready( function() {
-      // $(':file').on('fileselect', function(event, files) {
+      iconCell.append(icon);
 
-
-      //     var input = $(this).parents('.input-group').find(':text');
-              // log = numFiles > 1 ? numFiles + ' files selected' : label;
-
-          // if( input.length ) {
-          //     input.val(log);
-          // } else {
-          //     if( log ) alert(log);
-          // }
-      // });
+      tr.append(numCell);
+      tr.append(nameCell);
+      tr.append(iconCell);
+      tableBody.append(tr);
+    
+    }
   });
 });
 
