@@ -1,0 +1,4639 @@
+"MASK_ID","PARNAM1C","PARNAM1A","PARUNT1C","LABRSL1N"
+1,"CREA","Creatinine","mg/dL",10
+1,"PLAT2","Platelet Count","thous/mm3",207
+1,"SGOT","AST","U/L",49
+1,"SGPT","ALT","U/L",184
+1,"TBIL","Total Bilirubin","mg/dL",4
+1,"WBC","WBC","thous/mm3",375
+2,"CREA","Creatinine","mg/dL",11
+2,"PLAT2","Platelet Count","thous/mm3",207
+2,"SGOT","AST","U/L",82
+2,"SGPT","ALT","U/L",92
+2,"TBIL","Total Bilirubin","mg/dL",5
+2,"WBC","WBC","thous/mm3",447
+3,"CREA","Creatinine","mg/dL",11
+3,"PLAT2","Platelet Count","thous/mm3",236
+3,"SGOT","AST","U/L",119
+3,"SGPT","ALT","U/L",119
+3,"TBIL","Total Bilirubin","mg/dL",6
+3,"WBC","WBC","thous/mm3",419
+4,"CREA","Creatinine","mg/dL",14
+4,"PLAT2","Platelet Count","thous/mm3",230
+4,"SGOT","AST","U/L",92
+4,"SGPT","ALT","U/L",60
+4,"TBIL","Total Bilirubin","mg/dL",12
+4,"WBC","WBC","thous/mm3",415
+5,"CREA","Creatinine","mg/dL",9
+5,"PLAT2","Platelet Count","thous/mm3",244
+5,"SGOT","AST","U/L",109
+5,"SGPT","ALT","U/L",150
+5,"TBIL","Total Bilirubin","mg/dL",4
+5,"WBC","WBC","thous/mm3",478
+6,"CREA","Creatinine","mg/dL",10
+6,"PLAT2","Platelet Count","thous/mm3",399
+6,"SGOT","AST","U/L",109
+6,"SGPT","ALT","U/L",358
+6,"TBIL","Total Bilirubin","mg/dL",4
+6,"WBC","WBC","thous/mm3",465
+7,"CREA","Creatinine","mg/dL",9
+7,"PLAT2","Platelet Count","thous/mm3",185
+7,"SGOT","AST","U/L",109
+7,"SGPT","ALT","U/L",49
+7,"TBIL","Total Bilirubin","mg/dL",4
+7,"WBC","WBC","thous/mm3",419
+8,"CREA","Creatinine","mg/dL",10
+8,"PLAT2","Platelet Count","thous/mm3",291
+8,"SGOT","AST","U/L",161
+8,"SGPT","ALT","U/L",454
+8,"TBIL","Total Bilirubin","mg/dL",3
+8,"WBC","WBC","thous/mm3",449
+9,"CREA","Creatinine","mg/dL",13
+9,"PLAT2","Platelet Count","thous/mm3",212
+9,"SGOT","AST","U/L",82
+9,"SGPT","ALT","U/L",109
+9,"TBIL","Total Bilirubin","mg/dL",6
+9,"WBC","WBC","thous/mm3",381
+10,"CREA","Creatinine","mg/dL",9
+10,"PLAT2","Platelet Count","thous/mm3",238
+10,"SGOT","AST","U/L",119
+10,"SGPT","ALT","U/L",206
+10,"TBIL","Total Bilirubin","mg/dL",5
+10,"WBC","WBC","thous/mm3",33
+11,"CREA","Creatinine","mg/dL",10
+11,"PLAT2","Platelet Count","thous/mm3",154
+11,"SGOT","AST","U/L",82
+11,"SGPT","ALT","U/L",161
+11,"TBIL","Total Bilirubin","mg/dL",4
+11,"WBC","WBC","thous/mm3",381
+12,"CREA","Creatinine","mg/dL",8
+12,"PLAT2","Platelet Count","thous/mm3",169
+12,"SGOT","AST","U/L",129
+12,"SGPT","ALT","U/L",256
+12,"TBIL","Total Bilirubin","mg/dL",10
+12,"WBC","WBC","thous/mm3",467
+13,"CREA","Creatinine","mg/dL",9
+13,"PLAT2","Platelet Count","thous/mm3",255
+13,"SGOT","AST","U/L",66
+13,"SGPT","ALT","U/L",195
+13,"TBIL","Total Bilirubin","mg/dL",3
+13,"WBC","WBC","thous/mm3",446
+14,"CREA","Creatinine","mg/dL",10
+14,"PLAT2","Platelet Count","thous/mm3",145
+14,"SGOT","AST","U/L",139
+14,"SGPT","ALT","U/L",41
+14,"TBIL","Total Bilirubin","mg/dL",8
+14,"WBC","WBC","thous/mm3",443
+15,"CREA","Creatinine","mg/dL",7
+15,"PLAT2","Platelet Count","thous/mm3",272
+15,"SGOT","AST","U/L",82
+15,"SGPT","ALT","U/L",389
+15,"TBIL","Total Bilirubin","mg/dL",5
+15,"WBC","WBC","thous/mm3",375
+16,"CREA","Creatinine","mg/dL",15
+16,"PLAT2","Platelet Count","thous/mm3",136
+16,"SGOT","AST","U/L",139
+16,"SGPT","ALT","U/L",172
+16,"TBIL","Total Bilirubin","mg/dL",9
+16,"WBC","WBC","thous/mm3",419
+17,"CREA","Creatinine","mg/dL",8
+17,"PLAT2","Platelet Count","thous/mm3",201
+17,"SGOT","AST","U/L",246
+17,"SGPT","ALT","U/L",206
+17,"TBIL","Total Bilirubin","mg/dL",4
+17,"WBC","WBC","thous/mm3",381
+18,"CREA","Creatinine","mg/dL",11
+18,"PLAT2","Platelet Count","thous/mm3",181
+18,"SGOT","AST","U/L",139
+18,"SGPT","ALT","U/L",172
+18,"TBIL","Total Bilirubin","mg/dL",5
+18,"WBC","WBC","thous/mm3",444
+19,"CREA","Creatinine","mg/dL",13
+19,"PLAT2","Platelet Count","thous/mm3",154
+19,"SGOT","AST","U/L",32
+19,"SGPT","ALT","U/L",300
+19,"TBIL","Total Bilirubin","mg/dL",6
+19,"WBC","WBC","thous/mm3",381
+20,"CREA","Creatinine","mg/dL",10
+20,"PLAT2","Platelet Count","thous/mm3",402
+20,"SGOT","AST","U/L",82
+20,"SGPT","ALT","U/L",66
+20,"TBIL","Total Bilirubin","mg/dL",3
+20,"WBC","WBC","thous/mm3",32
+21,"CREA","Creatinine","mg/dL",9
+21,"PLAT2","Platelet Count","thous/mm3",168
+21,"SGOT","AST","U/L",109
+21,"SGPT","ALT","U/L",92
+21,"TBIL","Total Bilirubin","mg/dL",5
+21,"WBC","WBC","thous/mm3",312
+22,"CREA","Creatinine","mg/dL",11
+22,"PLAT2","Platelet Count","thous/mm3",214
+22,"SGOT","AST","U/L",109
+22,"SGPT","ALT","U/L",139
+22,"TBIL","Total Bilirubin","mg/dL",5
+22,"WBC","WBC","thous/mm3",447
+23,"CREA","Creatinine","mg/dL",11
+23,"PLAT2","Platelet Count","thous/mm3",275
+23,"SGOT","AST","U/L",73
+23,"SGPT","ALT","U/L",150
+23,"TBIL","Total Bilirubin","mg/dL",7
+23,"WBC","WBC","thous/mm3",449
+24,"CREA","Creatinine","mg/dL",10
+24,"PLAT2","Platelet Count","thous/mm3",174
+24,"SGOT","AST","U/L",109
+24,"SGPT","ALT","U/L",195
+24,"TBIL","Total Bilirubin","mg/dL",4
+24,"WBC","WBC","thous/mm3",423
+25,"CREA","Creatinine","mg/dL",8
+25,"PLAT2","Platelet Count","thous/mm3",241
+25,"SGOT","AST","U/L",129
+25,"SGPT","ALT","U/L",341
+25,"TBIL","Total Bilirubin","mg/dL",3
+25,"WBC","WBC","thous/mm3",445
+26,"CREA","Creatinine","mg/dL",9
+26,"PLAT2","Platelet Count","thous/mm3",170
+26,"SGOT","AST","U/L",73
+26,"SGPT","ALT","U/L",415
+26,"TBIL","Total Bilirubin","mg/dL",6
+26,"WBC","WBC","thous/mm3",373
+27,"CREA","Creatinine","mg/dL",13
+27,"PLAT2","Platelet Count","thous/mm3",164
+27,"SGOT","AST","U/L",41
+27,"SGPT","ALT","U/L",161
+27,"TBIL","Total Bilirubin","mg/dL",4
+27,"WBC","WBC","thous/mm3",445
+28,"CREA","Creatinine","mg/dL",9
+28,"PLAT2","Platelet Count","thous/mm3",122
+28,"SGOT","AST","U/L",119
+28,"SGPT","ALT","U/L",119
+28,"TBIL","Total Bilirubin","mg/dL",7
+28,"WBC","WBC","thous/mm3",381
+29,"CREA","Creatinine","mg/dL",10
+29,"PLAT2","Platelet Count","thous/mm3",202
+29,"SGOT","AST","U/L",82
+29,"SGPT","ALT","U/L",276
+29,"TBIL","Total Bilirubin","mg/dL",6
+29,"WBC","WBC","thous/mm3",381
+30,"CREA","Creatinine","mg/dL",17
+30,"PLAT2","Platelet Count","thous/mm3",152
+30,"SGOT","AST","U/L",92
+30,"SGPT","ALT","U/L",333
+30,"TBIL","Total Bilirubin","mg/dL",4
+30,"WBC","WBC","thous/mm3",314
+31,"CREA","Creatinine","mg/dL",7
+31,"PLAT2","Platelet Count","thous/mm3",252
+31,"SGOT","AST","U/L",32
+31,"SGPT","ALT","U/L",442
+31,"TBIL","Total Bilirubin","mg/dL",9
+31,"WBC","WBC","thous/mm3",422
+32,"CREA","Creatinine","mg/dL",11
+32,"PLAT2","Platelet Count","thous/mm3",59
+32,"SGOT","AST","U/L",283
+32,"SGPT","ALT","U/L",21
+32,"TBIL","Total Bilirubin","mg/dL",9
+32,"WBC","WBC","thous/mm3",219
+33,"CREA","Creatinine","mg/dL",8
+33,"PLAT2","Platelet Count","thous/mm3",212
+33,"SGOT","AST","U/L",82
+33,"SGPT","ALT","U/L",161
+33,"TBIL","Total Bilirubin","mg/dL",5
+33,"WBC","WBC","thous/mm3",316
+34,"CREA","Creatinine","mg/dL",11
+34,"PLAT2","Platelet Count","thous/mm3",301
+34,"SGOT","AST","U/L",352
+34,"SGPT","ALT","U/L",82
+34,"TBIL","Total Bilirubin","mg/dL",4
+34,"WBC","WBC","thous/mm3",446
+35,"CREA","Creatinine","mg/dL",8
+35,"PLAT2","Platelet Count","thous/mm3",253
+35,"SGOT","AST","U/L",82
+35,"SGPT","ALT","U/L",139
+35,"TBIL","Total Bilirubin","mg/dL",11
+35,"WBC","WBC","thous/mm3",448
+36,"CREA","Creatinine","mg/dL",10
+36,"PLAT2","Platelet Count","thous/mm3",156
+36,"SGOT","AST","U/L",49
+36,"SGPT","ALT","U/L",49
+36,"TBIL","Total Bilirubin","mg/dL",6
+36,"WBC","WBC","thous/mm3",316
+37,"CREA","Creatinine","mg/dL",10
+37,"PLAT2","Platelet Count","thous/mm3",321
+37,"SGOT","AST","U/L",246
+37,"SGPT","ALT","U/L",109
+37,"TBIL","Total Bilirubin","mg/dL",7
+37,"WBC","WBC","thous/mm3",465
+38,"CREA","Creatinine","mg/dL",11
+38,"PLAT2","Platelet Count","thous/mm3",324
+38,"SGOT","AST","U/L",66
+38,"SGPT","ALT","U/L",267
+38,"TBIL","Total Bilirubin","mg/dL",7
+38,"WBC","WBC","thous/mm3",460
+39,"CREA","Creatinine","mg/dL",15
+39,"PLAT2","Platelet Count","thous/mm3",152
+39,"SGOT","AST","U/L",172
+39,"SGPT","ALT","U/L",32
+39,"TBIL","Total Bilirubin","mg/dL",7
+39,"WBC","WBC","thous/mm3",421
+40,"CREA","Creatinine","mg/dL",7
+40,"PLAT2","Platelet Count","thous/mm3",176
+40,"SGOT","AST","U/L",60
+40,"SGPT","ALT","U/L",415
+40,"TBIL","Total Bilirubin","mg/dL",6
+40,"WBC","WBC","thous/mm3",221
+41,"CREA","Creatinine","mg/dL",13
+41,"PLAT2","Platelet Count","thous/mm3",229
+41,"SGOT","AST","U/L",82
+41,"SGPT","ALT","U/L",66
+41,"TBIL","Total Bilirubin","mg/dL",4
+41,"WBC","WBC","thous/mm3",311
+42,"CREA","Creatinine","mg/dL",12
+42,"PLAT2","Platelet Count","thous/mm3",240
+42,"SGOT","AST","U/L",246
+42,"SGPT","ALT","U/L",267
+42,"TBIL","Total Bilirubin","mg/dL",6
+42,"WBC","WBC","thous/mm3",462
+43,"CREA","Creatinine","mg/dL",12
+43,"PLAT2","Platelet Count","thous/mm3",338
+43,"SGOT","AST","U/L",82
+43,"SGPT","ALT","U/L",55
+43,"TBIL","Total Bilirubin","mg/dL",2
+43,"WBC","WBC","thous/mm3",315
+44,"CREA","Creatinine","mg/dL",9
+44,"PLAT2","Platelet Count","thous/mm3",239
+44,"SGOT","AST","U/L",92
+44,"SGPT","ALT","U/L",161
+44,"TBIL","Total Bilirubin","mg/dL",6
+44,"WBC","WBC","thous/mm3",468
+45,"CREA","Creatinine","mg/dL",10
+45,"PLAT2","Platelet Count","thous/mm3",181
+45,"SGOT","AST","U/L",119
+45,"SGPT","ALT","U/L",129
+45,"TBIL","Total Bilirubin","mg/dL",4
+45,"WBC","WBC","thous/mm3",24
+46,"CREA","Creatinine","mg/dL",13
+46,"PLAT2","Platelet Count","thous/mm3",85
+46,"SGOT","AST","U/L",150
+46,"SGPT","ALT","U/L",150
+46,"TBIL","Total Bilirubin","mg/dL",9
+46,"WBC","WBC","thous/mm3",419
+47,"CREA","Creatinine","mg/dL",8
+47,"PLAT2","Platelet Count","thous/mm3",145
+47,"SGOT","AST","U/L",246
+47,"SGPT","ALT","U/L",82
+47,"TBIL","Total Bilirubin","mg/dL",10
+47,"WBC","WBC","thous/mm3",417
+48,"CREA","Creatinine","mg/dL",10
+48,"PLAT2","Platelet Count","thous/mm3",201
+48,"SGOT","AST","U/L",139
+48,"SGPT","ALT","U/L",60
+48,"TBIL","Total Bilirubin","mg/dL",5
+48,"WBC","WBC","thous/mm3",375
+49,"CREA","Creatinine","mg/dL",10
+49,"PLAT2","Platelet Count","thous/mm3",170
+49,"SGOT","AST","U/L",73
+49,"SGPT","ALT","U/L",60
+49,"TBIL","Total Bilirubin","mg/dL",104
+49,"WBC","WBC","thous/mm3",446
+50,"CREA","Creatinine","mg/dL",12
+50,"PLAT2","Platelet Count","thous/mm3",125
+50,"SGOT","AST","U/L",246
+50,"SGPT","ALT","U/L",73
+50,"TBIL","Total Bilirubin","mg/dL",7
+50,"WBC","WBC","thous/mm3",33
+51,"CREA","Creatinine","mg/dL",7
+51,"PLAT2","Platelet Count","thous/mm3",189
+51,"SGOT","AST","U/L",49
+51,"SGPT","ALT","U/L",66
+51,"TBIL","Total Bilirubin","mg/dL",6
+51,"WBC","WBC","thous/mm3",316
+52,"CREA","Creatinine","mg/dL",8
+52,"PLAT2","Platelet Count","thous/mm3",340
+52,"SGOT","AST","U/L",119
+52,"SGPT","ALT","U/L",161
+52,"TBIL","Total Bilirubin","mg/dL",5
+52,"WBC","WBC","thous/mm3",449
+53,"CREA","Creatinine","mg/dL",10
+53,"PLAT2","Platelet Count","thous/mm3",70
+53,"SGOT","AST","U/L",184
+53,"SGPT","ALT","U/L",225
+53,"TBIL","Total Bilirubin","mg/dL",7
+53,"WBC","WBC","thous/mm3",309
+54,"CREA","Creatinine","mg/dL",10
+54,"PLAT2","Platelet Count","thous/mm3",153
+54,"SGOT","AST","U/L",73
+54,"SGPT","ALT","U/L",60
+54,"TBIL","Total Bilirubin","mg/dL",5
+54,"WBC","WBC","thous/mm3",223
+55,"CREA","Creatinine","mg/dL",11
+55,"PLAT2","Platelet Count","thous/mm3",99
+55,"SGOT","AST","U/L",139
+55,"SGPT","ALT","U/L",435
+55,"TBIL","Total Bilirubin","mg/dL",6
+55,"WBC","WBC","thous/mm3",27
+56,"CREA","Creatinine","mg/dL",13
+56,"PLAT2","Platelet Count","thous/mm3",65
+56,"SGOT","AST","U/L",82
+56,"SGPT","ALT","U/L",283
+56,"TBIL","Total Bilirubin","mg/dL",9
+56,"WBC","WBC","thous/mm3",33
+57,"CREA","Creatinine","mg/dL",9
+57,"PLAT2","Platelet Count","thous/mm3",134
+57,"SGOT","AST","U/L",66
+57,"SGPT","ALT","U/L",428
+57,"TBIL","Total Bilirubin","mg/dL",6
+57,"WBC","WBC","thous/mm3",381
+58,"CREA","Creatinine","mg/dL",8
+58,"PLAT2","Platelet Count","thous/mm3",210
+58,"SGOT","AST","U/L",82
+58,"SGPT","ALT","U/L",60
+58,"TBIL","Total Bilirubin","mg/dL",4
+58,"WBC","WBC","thous/mm3",377
+59,"CREA","Creatinine","mg/dL",7
+59,"PLAT2","Platelet Count","thous/mm3",277
+59,"SGOT","AST","U/L",82
+59,"SGPT","ALT","U/L",66
+59,"TBIL","Total Bilirubin","mg/dL",6
+59,"WBC","WBC","thous/mm3",380
+60,"CREA","Creatinine","mg/dL",8
+60,"PLAT2","Platelet Count","thous/mm3",130
+60,"SGOT","AST","U/L",82
+60,"SGPT","ALT","U/L",21
+60,"TBIL","Total Bilirubin","mg/dL",7
+60,"WBC","WBC","thous/mm3",423
+61,"CREA","Creatinine","mg/dL",11
+61,"PLAT2","Platelet Count","thous/mm3",230
+61,"SGOT","AST","U/L",139
+61,"SGPT","ALT","U/L",333
+61,"TBIL","Total Bilirubin","mg/dL",8
+61,"WBC","WBC","thous/mm3",220
+62,"CREA","Creatinine","mg/dL",12
+62,"PLAT2","Platelet Count","thous/mm3",385
+62,"SGOT","AST","U/L",391
+62,"SGPT","ALT","U/L",60
+62,"TBIL","Total Bilirubin","mg/dL",6
+62,"WBC","WBC","thous/mm3",30
+63,"CREA","Creatinine","mg/dL",7
+63,"PLAT2","Platelet Count","thous/mm3",128
+63,"SGOT","AST","U/L",195
+63,"SGPT","ALT","U/L",32
+63,"TBIL","Total Bilirubin","mg/dL",6
+63,"WBC","WBC","thous/mm3",421
+64,"CREA","Creatinine","mg/dL",10
+64,"PLAT2","Platelet Count","thous/mm3",185
+64,"SGOT","AST","U/L",184
+64,"SGPT","ALT","U/L",49
+64,"TBIL","Total Bilirubin","mg/dL",10
+64,"WBC","WBC","thous/mm3",482
+65,"CREA","Creatinine","mg/dL",11
+65,"PLAT2","Platelet Count","thous/mm3",362
+65,"SGOT","AST","U/L",109
+65,"SGPT","ALT","U/L",129
+65,"TBIL","Total Bilirubin","mg/dL",6
+65,"WBC","WBC","thous/mm3",444
+66,"CREA","Creatinine","mg/dL",10
+66,"PLAT2","Platelet Count","thous/mm3",236
+66,"SGOT","AST","U/L",84
+66,"SGPT","ALT","U/L",139
+66,"TBIL","Total Bilirubin","mg/dL",7
+66,"WBC","WBC","thous/mm3",444
+67,"CREA","Creatinine","mg/dL",9
+67,"PLAT2","Platelet Count","thous/mm3",403
+67,"SGOT","AST","U/L",73
+67,"SGPT","ALT","U/L",73
+67,"TBIL","Total Bilirubin","mg/dL",5
+67,"WBC","WBC","thous/mm3",30
+68,"CREA","Creatinine","mg/dL",9
+68,"PLAT2","Platelet Count","thous/mm3",140
+68,"SGOT","AST","U/L",82
+68,"SGPT","ALT","U/L",55
+68,"TBIL","Total Bilirubin","mg/dL",11
+68,"WBC","WBC","thous/mm3",424
+69,"CREA","Creatinine","mg/dL",11
+69,"PLAT2","Platelet Count","thous/mm3",111
+69,"SGOT","AST","U/L",60
+69,"SGPT","ALT","U/L",225
+69,"TBIL","Total Bilirubin","mg/dL",5
+69,"WBC","WBC","thous/mm3",422
+70,"CREA","Creatinine","mg/dL",9
+70,"PLAT2","Platelet Count","thous/mm3",118
+70,"SGOT","AST","U/L",401
+70,"SGPT","ALT","U/L",341
+70,"TBIL","Total Bilirubin","mg/dL",7
+70,"WBC","WBC","thous/mm3",312
+71,"CREA","Creatinine","mg/dL",10
+71,"PLAT2","Platelet Count","thous/mm3",113
+71,"SGOT","AST","U/L",184
+71,"SGPT","ALT","U/L",109
+71,"TBIL","Total Bilirubin","mg/dL",15
+71,"WBC","WBC","thous/mm3",313
+72,"CREA","Creatinine","mg/dL",10
+72,"PLAT2","Platelet Count","thous/mm3",153
+72,"SGOT","AST","U/L",109
+72,"SGPT","ALT","U/L",150
+72,"TBIL","Total Bilirubin","mg/dL",6
+72,"WBC","WBC","thous/mm3",424
+73,"CREA","Creatinine","mg/dL",10
+73,"PLAT2","Platelet Count","thous/mm3",89
+73,"SGOT","AST","U/L",82
+73,"SGPT","ALT","U/L",325
+73,"TBIL","Total Bilirubin","mg/dL",9
+73,"WBC","WBC","thous/mm3",445
+74,"CREA","Creatinine","mg/dL",8
+74,"PLAT2","Platelet Count","thous/mm3",255
+74,"SGOT","AST","U/L",139
+74,"SGPT","ALT","U/L",206
+74,"TBIL","Total Bilirubin","mg/dL",5
+74,"WBC","WBC","thous/mm3",476
+75,"CREA","Creatinine","mg/dL",12
+75,"PLAT2","Platelet Count","thous/mm3",188
+75,"SGOT","AST","U/L",172
+75,"SGPT","ALT","U/L",413
+75,"TBIL","Total Bilirubin","mg/dL",3
+75,"WBC","WBC","thous/mm3",450
+76,"CREA","Creatinine","mg/dL",10
+76,"PLAT2","Platelet Count","thous/mm3",57
+76,"SGOT","AST","U/L",73
+76,"SGPT","ALT","U/L",60
+76,"TBIL","Total Bilirubin","mg/dL",5
+76,"WBC","WBC","thous/mm3",446
+77,"CREA","Creatinine","mg/dL",17
+77,"PLAT2","Platelet Count","thous/mm3",196
+77,"SGOT","AST","U/L",139
+77,"SGPT","ALT","U/L",73
+77,"TBIL","Total Bilirubin","mg/dL",9
+77,"WBC","WBC","thous/mm3",416
+78,"CREA","Creatinine","mg/dL",10
+78,"PLAT2","Platelet Count","thous/mm3",291
+78,"SGOT","AST","U/L",73
+78,"SGPT","ALT","U/L",235
+78,"TBIL","Total Bilirubin","mg/dL",6
+78,"WBC","WBC","thous/mm3",416
+79,"CREA","Creatinine","mg/dL",9
+79,"PLAT2","Platelet Count","thous/mm3",157
+79,"SGOT","AST","U/L",73
+79,"SGPT","ALT","U/L",55
+79,"TBIL","Total Bilirubin","mg/dL",3
+79,"WBC","WBC","thous/mm3",377
+80,"CREA","Creatinine","mg/dL",14
+80,"PLAT2","Platelet Count","thous/mm3",154
+80,"SGOT","AST","U/L",92
+80,"SGPT","ALT","U/L",442
+80,"TBIL","Total Bilirubin","mg/dL",7
+80,"WBC","WBC","thous/mm3",373
+81,"CREA","Creatinine","mg/dL",12
+81,"PLAT2","Platelet Count","thous/mm3",124
+81,"SGOT","AST","U/L",150
+81,"SGPT","ALT","U/L",235
+81,"TBIL","Total Bilirubin","mg/dL",9
+81,"WBC","WBC","thous/mm3",314
+82,"CREA","Creatinine","mg/dL",10
+82,"PLAT2","Platelet Count","thous/mm3",144
+82,"SGOT","AST","U/L",129
+82,"SGPT","ALT","U/L",49
+82,"TBIL","Total Bilirubin","mg/dL",5
+82,"WBC","WBC","thous/mm3",418
+83,"CREA","Creatinine","mg/dL",11
+83,"PLAT2","Platelet Count","thous/mm3",181
+83,"SGOT","AST","U/L",235
+83,"SGPT","ALT","U/L",225
+83,"TBIL","Total Bilirubin","mg/dL",7
+83,"WBC","WBC","thous/mm3",423
+84,"CREA","Creatinine","mg/dL",7
+84,"PLAT2","Platelet Count","thous/mm3",145
+84,"SGOT","AST","U/L",184
+84,"SGPT","ALT","U/L",32
+84,"TBIL","Total Bilirubin","mg/dL",5
+84,"WBC","WBC","thous/mm3",313
+85,"CREA","Creatinine","mg/dL",10
+85,"PLAT2","Platelet Count","thous/mm3",54
+85,"SGOT","AST","U/L",49
+85,"SGPT","ALT","U/L",206
+85,"TBIL","Total Bilirubin","mg/dL",9
+85,"WBC","WBC","thous/mm3",313
+86,"CREA","Creatinine","mg/dL",8
+86,"PLAT2","Platelet Count","thous/mm3",332
+86,"SGOT","AST","U/L",150
+86,"SGPT","ALT","U/L",82
+86,"TBIL","Total Bilirubin","mg/dL",5
+86,"WBC","WBC","thous/mm3",444
+87,"CREA","Creatinine","mg/dL",7
+87,"PLAT2","Platelet Count","thous/mm3",231
+87,"SGOT","AST","U/L",82
+87,"SGPT","ALT","U/L",92
+87,"TBIL","Total Bilirubin","mg/dL",12
+87,"WBC","WBC","thous/mm3",485
+88,"CREA","Creatinine","mg/dL",11
+88,"PLAT2","Platelet Count","thous/mm3",226
+88,"SGOT","AST","U/L",276
+88,"SGPT","ALT","U/L",66
+88,"TBIL","Total Bilirubin","mg/dL",6
+88,"WBC","WBC","thous/mm3",373
+89,"CREA","Creatinine","mg/dL",9
+89,"PLAT2","Platelet Count","thous/mm3",318
+89,"SGOT","AST","U/L",119
+89,"SGPT","ALT","U/L",49
+89,"TBIL","Total Bilirubin","mg/dL",7
+89,"WBC","WBC","thous/mm3",416
+90,"CREA","Creatinine","mg/dL",10
+90,"PLAT2","Platelet Count","thous/mm3",122
+90,"SGOT","AST","U/L",82
+90,"SGPT","ALT","U/L",267
+90,"TBIL","Total Bilirubin","mg/dL",9
+90,"WBC","WBC","thous/mm3",443
+91,"CREA","Creatinine","mg/dL",10
+91,"PLAT2","Platelet Count","thous/mm3",212
+91,"SGOT","AST","U/L",139
+91,"SGPT","ALT","U/L",172
+91,"TBIL","Total Bilirubin","mg/dL",11
+91,"WBC","WBC","thous/mm3",445
+92,"CREA","Creatinine","mg/dL",6
+92,"PLAT2","Platelet Count","thous/mm3",138
+92,"SGOT","AST","U/L",330
+92,"SGPT","ALT","U/L",41
+92,"TBIL","Total Bilirubin","mg/dL",7
+92,"WBC","WBC","thous/mm3",314
+93,"CREA","Creatinine","mg/dL",12
+93,"PLAT2","Platelet Count","thous/mm3",275
+93,"SGOT","AST","U/L",195
+93,"SGPT","ALT","U/L",150
+93,"TBIL","Total Bilirubin","mg/dL",7
+93,"WBC","WBC","thous/mm3",450
+94,"CREA","Creatinine","mg/dL",7
+94,"PLAT2","Platelet Count","thous/mm3",242
+94,"SGOT","AST","U/L",161
+94,"SGPT","ALT","U/L",66
+94,"TBIL","Total Bilirubin","mg/dL",4
+94,"WBC","WBC","thous/mm3",381
+95,"CREA","Creatinine","mg/dL",12
+95,"PLAT2","Platelet Count","thous/mm3",144
+95,"SGOT","AST","U/L",409
+95,"SGPT","ALT","U/L",415
+95,"TBIL","Total Bilirubin","mg/dL",8
+95,"WBC","WBC","thous/mm3",420
+96,"CREA","Creatinine","mg/dL",10
+96,"PLAT2","Platelet Count","thous/mm3",137
+96,"SGOT","AST","U/L",119
+96,"SGPT","ALT","U/L",394
+96,"TBIL","Total Bilirubin","mg/dL",5
+96,"WBC","WBC","thous/mm3",448
+97,"CREA","Creatinine","mg/dL",8
+97,"PLAT2","Platelet Count","thous/mm3",76
+97,"SGOT","AST","U/L",60
+97,"SGPT","ALT","U/L",139
+97,"TBIL","Total Bilirubin","mg/dL",8
+97,"WBC","WBC","thous/mm3",312
+98,"CREA","Creatinine","mg/dL",10
+98,"PLAT2","Platelet Count","thous/mm3",335
+98,"SGOT","AST","U/L",66
+98,"SGPT","ALT","U/L",459
+98,"TBIL","Total Bilirubin","mg/dL",2
+98,"WBC","WBC","thous/mm3",459
+99,"CREA","Creatinine","mg/dL",16
+99,"PLAT2","Platelet Count","thous/mm3",77
+99,"SGOT","AST","U/L",92
+99,"SGPT","ALT","U/L",129
+99,"TBIL","Total Bilirubin","mg/dL",5
+99,"WBC","WBC","thous/mm3",448
+100,"CREA","Creatinine","mg/dL",10
+100,"PLAT2","Platelet Count","thous/mm3",343
+100,"SGOT","AST","U/L",109
+100,"SGPT","ALT","U/L",341
+100,"TBIL","Total Bilirubin","mg/dL",5
+100,"WBC","WBC","thous/mm3",34
+101,"CREA","Creatinine","mg/dL",13
+101,"PLAT2","Platelet Count","thous/mm3",149
+101,"SGOT","AST","U/L",109
+101,"SGPT","ALT","U/L",206
+101,"TBIL","Total Bilirubin","mg/dL",9
+101,"WBC","WBC","thous/mm3",381
+102,"CREA","Creatinine","mg/dL",11
+102,"PLAT2","Platelet Count","thous/mm3",238
+102,"SGOT","AST","U/L",109
+102,"SGPT","ALT","U/L",341
+102,"TBIL","Total Bilirubin","mg/dL",5
+102,"WBC","WBC","thous/mm3",449
+103,"CREA","Creatinine","mg/dL",12
+103,"PLAT2","Platelet Count","thous/mm3",304
+103,"SGOT","AST","U/L",92
+103,"SGPT","ALT","U/L",256
+103,"TBIL","Total Bilirubin","mg/dL",4
+103,"WBC","WBC","thous/mm3",482
+104,"CREA","Creatinine","mg/dL",7
+104,"PLAT2","Platelet Count","thous/mm3",273
+104,"SGOT","AST","U/L",184
+104,"SGPT","ALT","U/L",235
+104,"TBIL","Total Bilirubin","mg/dL",5
+104,"WBC","WBC","thous/mm3",424
+105,"CREA","Creatinine","mg/dL",11
+105,"PLAT2","Platelet Count","thous/mm3",187
+105,"SGOT","AST","U/L",235
+105,"SGPT","ALT","U/L",17
+105,"TBIL","Total Bilirubin","mg/dL",8
+105,"WBC","WBC","thous/mm3",217
+106,"CREA","Creatinine","mg/dL",6
+106,"PLAT2","Platelet Count","thous/mm3",88
+106,"SGOT","AST","U/L",172
+106,"SGPT","ALT","U/L",139
+106,"TBIL","Total Bilirubin","mg/dL",6
+106,"WBC","WBC","thous/mm3",218
+107,"CREA","Creatinine","mg/dL",13
+107,"PLAT2","Platelet Count","thous/mm3",441
+107,"SGOT","AST","U/L",109
+107,"SGPT","ALT","U/L",225
+107,"TBIL","Total Bilirubin","mg/dL",9
+107,"WBC","WBC","thous/mm3",55
+108,"CREA","Creatinine","mg/dL",8
+108,"PLAT2","Platelet Count","thous/mm3",186
+108,"SGOT","AST","U/L",195
+108,"SGPT","ALT","U/L",92
+108,"TBIL","Total Bilirubin","mg/dL",7
+108,"WBC","WBC","thous/mm3",309
+109,"CREA","Creatinine","mg/dL",10
+109,"PLAT2","Platelet Count","thous/mm3",156
+109,"SGOT","AST","U/L",66
+109,"SGPT","ALT","U/L",41
+109,"TBIL","Total Bilirubin","mg/dL",3
+109,"WBC","WBC","thous/mm3",417
+110,"CREA","Creatinine","mg/dL",11
+110,"PLAT2","Platelet Count","thous/mm3",214
+110,"SGOT","AST","U/L",60
+110,"SGPT","ALT","U/L",290
+110,"TBIL","Total Bilirubin","mg/dL",6
+110,"WBC","WBC","thous/mm3",450
+111,"CREA","Creatinine","mg/dL",9
+111,"PLAT2","Platelet Count","thous/mm3",111
+111,"SGOT","AST","U/L",139
+111,"SGPT","ALT","U/L",300
+111,"TBIL","Total Bilirubin","mg/dL",8
+111,"WBC","WBC","thous/mm3",307
+112,"CREA","Creatinine","mg/dL",8
+112,"PLAT2","Platelet Count","thous/mm3",359
+112,"SGOT","AST","U/L",139
+112,"SGPT","ALT","U/L",21
+112,"TBIL","Total Bilirubin","mg/dL",6
+112,"WBC","WBC","thous/mm3",449
+113,"CREA","Creatinine","mg/dL",9
+113,"PLAT2","Platelet Count","thous/mm3",138
+113,"SGOT","AST","U/L",276
+113,"SGPT","ALT","U/L",276
+113,"TBIL","Total Bilirubin","mg/dL",4
+113,"WBC","WBC","thous/mm3",462
+114,"CREA","Creatinine","mg/dL",7
+114,"PLAT2","Platelet Count","thous/mm3",390
+114,"SGOT","AST","U/L",161
+114,"SGPT","ALT","U/L",109
+114,"TBIL","Total Bilirubin","mg/dL",9
+114,"WBC","WBC","thous/mm3",313
+115,"CREA","Creatinine","mg/dL",10
+115,"PLAT2","Platelet Count","thous/mm3",194
+115,"SGOT","AST","U/L",66
+115,"SGPT","ALT","U/L",246
+115,"TBIL","Total Bilirubin","mg/dL",5
+115,"WBC","WBC","thous/mm3",421
+116,"CREA","Creatinine","mg/dL",11
+116,"PLAT2","Platelet Count","thous/mm3",226
+116,"SGOT","AST","U/L",150
+116,"SGPT","ALT","U/L",294
+116,"TBIL","Total Bilirubin","mg/dL",10
+116,"WBC","WBC","thous/mm3",381
+117,"CREA","Creatinine","mg/dL",13
+117,"PLAT2","Platelet Count","thous/mm3",173
+117,"SGOT","AST","U/L",60
+117,"SGPT","ALT","U/L",235
+117,"TBIL","Total Bilirubin","mg/dL",3
+117,"WBC","WBC","thous/mm3",381
+118,"CREA","Creatinine","mg/dL",9
+118,"PLAT2","Platelet Count","thous/mm3",70
+118,"SGOT","AST","U/L",60
+118,"SGPT","ALT","U/L",290
+118,"TBIL","Total Bilirubin","mg/dL",9
+118,"WBC","WBC","thous/mm3",33
+119,"CREA","Creatinine","mg/dL",10
+119,"PLAT2","Platelet Count","thous/mm3",152
+119,"SGOT","AST","U/L",333
+119,"SGPT","ALT","U/L",49
+119,"TBIL","Total Bilirubin","mg/dL",5
+119,"WBC","WBC","thous/mm3",418
+120,"CREA","Creatinine","mg/dL",10
+120,"PLAT2","Platelet Count","thous/mm3",165
+120,"SGOT","AST","U/L",105
+120,"SGPT","ALT","U/L",454
+120,"TBIL","Total Bilirubin","mg/dL",5
+120,"WBC","WBC","thous/mm3",447
+121,"CREA","Creatinine","mg/dL",8
+121,"PLAT2","Platelet Count","thous/mm3",166
+121,"SGOT","AST","U/L",129
+121,"SGPT","ALT","U/L",21
+121,"TBIL","Total Bilirubin","mg/dL",5
+121,"WBC","WBC","thous/mm3",443
+122,"CREA","Creatinine","mg/dL",8
+122,"PLAT2","Platelet Count","thous/mm3",111
+122,"SGOT","AST","U/L",195
+122,"SGPT","ALT","U/L",341
+122,"TBIL","Total Bilirubin","mg/dL",6
+122,"WBC","WBC","thous/mm3",418
+123,"CREA","Creatinine","mg/dL",8
+123,"PLAT2","Platelet Count","thous/mm3",210
+123,"SGOT","AST","U/L",55
+123,"SGPT","ALT","U/L",60
+123,"TBIL","Total Bilirubin","mg/dL",6
+123,"WBC","WBC","thous/mm3",372
+124,"CREA","Creatinine","mg/dL",14
+124,"PLAT2","Platelet Count","thous/mm3",164
+124,"SGOT","AST","U/L",66
+124,"SGPT","ALT","U/L",225
+124,"TBIL","Total Bilirubin","mg/dL",5
+124,"WBC","WBC","thous/mm3",378
+125,"CREA","Creatinine","mg/dL",10
+125,"PLAT2","Platelet Count","thous/mm3",75
+125,"SGOT","AST","U/L",129
+125,"SGPT","ALT","U/L",161
+125,"TBIL","Total Bilirubin","mg/dL",7
+125,"WBC","WBC","thous/mm3",380
+126,"CREA","Creatinine","mg/dL",8
+126,"PLAT2","Platelet Count","thous/mm3",181
+126,"SGOT","AST","U/L",150
+126,"SGPT","ALT","U/L",267
+126,"TBIL","Total Bilirubin","mg/dL",5
+126,"WBC","WBC","thous/mm3",24
+127,"CREA","Creatinine","mg/dL",11
+127,"PLAT2","Platelet Count","thous/mm3",324
+127,"SGOT","AST","U/L",161
+127,"SGPT","ALT","U/L",317
+127,"TBIL","Total Bilirubin","mg/dL",5
+127,"WBC","WBC","thous/mm3",421
+128,"CREA","Creatinine","mg/dL",11
+128,"PLAT2","Platelet Count","thous/mm3",236
+128,"SGOT","AST","U/L",139
+128,"SGPT","ALT","U/L",325
+128,"TBIL","Total Bilirubin","mg/dL",5
+128,"WBC","WBC","thous/mm3",442
+129,"CREA","Creatinine","mg/dL",9
+129,"PLAT2","Platelet Count","thous/mm3",110
+129,"SGOT","AST","U/L",55
+129,"SGPT","ALT","U/L",109
+129,"TBIL","Total Bilirubin","mg/dL",8
+129,"WBC","WBC","thous/mm3",376
+130,"CREA","Creatinine","mg/dL",12
+130,"PLAT2","Platelet Count","thous/mm3",68
+130,"SGOT","AST","U/L",161
+130,"SGPT","ALT","U/L",438
+130,"TBIL","Total Bilirubin","mg/dL",12
+130,"WBC","WBC","thous/mm3",443
+131,"CREA","Creatinine","mg/dL",9
+131,"PLAT2","Platelet Count","thous/mm3",162
+131,"SGOT","AST","U/L",92
+131,"SGPT","ALT","U/L",256
+131,"TBIL","Total Bilirubin","mg/dL",4
+131,"WBC","WBC","thous/mm3",50
+132,"CREA","Creatinine","mg/dL",9
+132,"PLAT2","Platelet Count","thous/mm3",253
+132,"SGOT","AST","U/L",119
+132,"SGPT","ALT","U/L",459
+132,"TBIL","Total Bilirubin","mg/dL",5
+132,"WBC","WBC","thous/mm3",442
+133,"CREA","Creatinine","mg/dL",12
+133,"PLAT2","Platelet Count","thous/mm3",188
+133,"SGOT","AST","U/L",119
+133,"SGPT","ALT","U/L",73
+133,"TBIL","Total Bilirubin","mg/dL",7
+133,"WBC","WBC","thous/mm3",420
+134,"CREA","Creatinine","mg/dL",11
+134,"PLAT2","Platelet Count","thous/mm3",231
+134,"SGOT","AST","U/L",367
+134,"SGPT","ALT","U/L",290
+134,"TBIL","Total Bilirubin","mg/dL",5
+134,"WBC","WBC","thous/mm3",464
+135,"CREA","Creatinine","mg/dL",10
+135,"PLAT2","Platelet Count","thous/mm3",207
+135,"SGOT","AST","U/L",139
+135,"SGPT","ALT","U/L",34
+135,"TBIL","Total Bilirubin","mg/dL",7
+135,"WBC","WBC","thous/mm3",422
+136,"CREA","Creatinine","mg/dL",12
+136,"PLAT2","Platelet Count","thous/mm3",185
+136,"SGOT","AST","U/L",55
+136,"SGPT","ALT","U/L",109
+136,"TBIL","Total Bilirubin","mg/dL",6
+136,"WBC","WBC","thous/mm3",419
+137,"CREA","Creatinine","mg/dL",10
+137,"PLAT2","Platelet Count","thous/mm3",99
+137,"SGOT","AST","U/L",82
+137,"SGPT","ALT","U/L",276
+137,"TBIL","Total Bilirubin","mg/dL",4
+137,"WBC","WBC","thous/mm3",381
+138,"CREA","Creatinine","mg/dL",11
+138,"PLAT2","Platelet Count","thous/mm3",203
+138,"SGOT","AST","U/L",82
+138,"SGPT","ALT","U/L",119
+138,"TBIL","Total Bilirubin","mg/dL",4
+138,"WBC","WBC","thous/mm3",461
+139,"CREA","Creatinine","mg/dL",11
+139,"PLAT2","Platelet Count","thous/mm3",368
+139,"SGOT","AST","U/L",195
+139,"SGPT","ALT","U/L",471
+139,"TBIL","Total Bilirubin","mg/dL",5
+139,"WBC","WBC","thous/mm3",313
+140,"CREA","Creatinine","mg/dL",12
+140,"PLAT2","Platelet Count","thous/mm3",203
+140,"SGOT","AST","U/L",73
+140,"SGPT","ALT","U/L",300
+140,"TBIL","Total Bilirubin","mg/dL",4
+140,"WBC","WBC","thous/mm3",373
+141,"CREA","Creatinine","mg/dL",11
+141,"PLAT2","Platelet Count","thous/mm3",244
+141,"SGOT","AST","U/L",82
+141,"SGPT","ALT","U/L",283
+141,"TBIL","Total Bilirubin","mg/dL",6
+141,"WBC","WBC","thous/mm3",308
+142,"CREA","Creatinine","mg/dL",9
+142,"PLAT2","Platelet Count","thous/mm3",157
+142,"SGOT","AST","U/L",109
+142,"SGPT","ALT","U/L",150
+142,"TBIL","Total Bilirubin","mg/dL",8
+142,"WBC","WBC","thous/mm3",377
+143,"CREA","Creatinine","mg/dL",10
+143,"PLAT2","Platelet Count","thous/mm3",260
+143,"SGOT","AST","U/L",109
+143,"SGPT","ALT","U/L",109
+143,"TBIL","Total Bilirubin","mg/dL",6
+143,"WBC","WBC","thous/mm3",424
+144,"CREA","Creatinine","mg/dL",6
+144,"PLAT2","Platelet Count","thous/mm3",412
+144,"SGOT","AST","U/L",195
+144,"SGPT","ALT","U/L",32
+144,"TBIL","Total Bilirubin","mg/dL",3
+144,"WBC","WBC","thous/mm3",422
+145,"CREA","Creatinine","mg/dL",10
+145,"PLAT2","Platelet Count","thous/mm3",165
+145,"SGOT","AST","U/L",276
+145,"SGPT","ALT","U/L",172
+145,"TBIL","Total Bilirubin","mg/dL",10
+145,"WBC","WBC","thous/mm3",418
+146,"CREA","Creatinine","mg/dL",9
+146,"PLAT2","Platelet Count","thous/mm3",153
+146,"SGOT","AST","U/L",172
+146,"SGPT","ALT","U/L",283
+146,"TBIL","Total Bilirubin","mg/dL",4
+146,"WBC","WBC","thous/mm3",420
+147,"CREA","Creatinine","mg/dL",11
+147,"PLAT2","Platelet Count","thous/mm3",149
+147,"SGOT","AST","U/L",60
+147,"SGPT","ALT","U/L",150
+147,"TBIL","Total Bilirubin","mg/dL",5
+147,"WBC","WBC","thous/mm3",373
+148,"CREA","Creatinine","mg/dL",8
+148,"PLAT2","Platelet Count","thous/mm3",94
+148,"SGOT","AST","U/L",92
+148,"SGPT","ALT","U/L",129
+148,"TBIL","Total Bilirubin","mg/dL",8
+148,"WBC","WBC","thous/mm3",443
+149,"CREA","Creatinine","mg/dL",11
+149,"PLAT2","Platelet Count","thous/mm3",165
+149,"SGOT","AST","U/L",195
+149,"SGPT","ALT","U/L",206
+149,"TBIL","Total Bilirubin","mg/dL",8
+149,"WBC","WBC","thous/mm3",423
+150,"CREA","Creatinine","mg/dL",10
+150,"PLAT2","Platelet Count","thous/mm3",126
+150,"SGOT","AST","U/L",184
+150,"SGPT","ALT","U/L",73
+150,"TBIL","Total Bilirubin","mg/dL",6
+150,"WBC","WBC","thous/mm3",424
+151,"CREA","Creatinine","mg/dL",10
+151,"PLAT2","Platelet Count","thous/mm3",152
+151,"SGOT","AST","U/L",161
+151,"SGPT","ALT","U/L",276
+151,"TBIL","Total Bilirubin","mg/dL",4
+151,"WBC","WBC","thous/mm3",445
+152,"CREA","Creatinine","mg/dL",11
+152,"PLAT2","Platelet Count","thous/mm3",180
+152,"SGOT","AST","U/L",49
+152,"SGPT","ALT","U/L",92
+152,"TBIL","Total Bilirubin","mg/dL",5
+152,"WBC","WBC","thous/mm3",483
+153,"CREA","Creatinine","mg/dL",11
+153,"PLAT2","Platelet Count","thous/mm3",287
+153,"SGOT","AST","U/L",235
+153,"SGPT","ALT","U/L",21
+153,"TBIL","Total Bilirubin","mg/dL",5
+153,"WBC","WBC","thous/mm3",379
+154,"CREA","Creatinine","mg/dL",10
+154,"PLAT2","Platelet Count","thous/mm3",145
+154,"SGOT","AST","U/L",73
+154,"SGPT","ALT","U/L",129
+154,"TBIL","Total Bilirubin","mg/dL",7
+154,"WBC","WBC","thous/mm3",447
+155,"CREA","Creatinine","mg/dL",12
+155,"PLAT2","Platelet Count","thous/mm3",147
+155,"SGOT","AST","U/L",82
+155,"SGPT","ALT","U/L",172
+155,"TBIL","Total Bilirubin","mg/dL",7
+155,"WBC","WBC","thous/mm3",373
+156,"CREA","Creatinine","mg/dL",9
+156,"PLAT2","Platelet Count","thous/mm3",86
+156,"SGOT","AST","U/L",172
+156,"SGPT","ALT","U/L",161
+156,"TBIL","Total Bilirubin","mg/dL",5
+156,"WBC","WBC","thous/mm3",448
+157,"CREA","Creatinine","mg/dL",10
+157,"PLAT2","Platelet Count","thous/mm3",338
+157,"SGOT","AST","U/L",73
+157,"SGPT","ALT","U/L",21
+157,"TBIL","Total Bilirubin","mg/dL",2
+157,"WBC","WBC","thous/mm3",447
+158,"CREA","Creatinine","mg/dL",10
+158,"PLAT2","Platelet Count","thous/mm3",170
+158,"SGOT","AST","U/L",82
+158,"SGPT","ALT","U/L",216
+158,"TBIL","Total Bilirubin","mg/dL",5
+158,"WBC","WBC","thous/mm3",375
+159,"CREA","Creatinine","mg/dL",9
+159,"PLAT2","Platelet Count","thous/mm3",327
+159,"SGOT","AST","U/L",139
+159,"SGPT","ALT","U/L",66
+159,"TBIL","Total Bilirubin","mg/dL",5
+159,"WBC","WBC","thous/mm3",380
+160,"CREA","Creatinine","mg/dL",10
+160,"PLAT2","Platelet Count","thous/mm3",194
+160,"SGOT","AST","U/L",84
+160,"SGPT","ALT","U/L",276
+160,"TBIL","Total Bilirubin","mg/dL",6
+160,"WBC","WBC","thous/mm3",221
+161,"CREA","Creatinine","mg/dL",9
+161,"PLAT2","Platelet Count","thous/mm3",189
+161,"SGOT","AST","U/L",73
+161,"SGPT","ALT","U/L",41
+161,"TBIL","Total Bilirubin","mg/dL",3
+161,"WBC","WBC","thous/mm3",424
+162,"CREA","Creatinine","mg/dL",12
+162,"PLAT2","Platelet Count","thous/mm3",343
+162,"SGOT","AST","U/L",109
+162,"SGPT","ALT","U/L",92
+162,"TBIL","Total Bilirubin","mg/dL",2
+162,"WBC","WBC","thous/mm3",459
+163,"CREA","Creatinine","mg/dL",10
+163,"PLAT2","Platelet Count","thous/mm3",247
+163,"SGOT","AST","U/L",82
+163,"SGPT","ALT","U/L",60
+163,"TBIL","Total Bilirubin","mg/dL",3
+163,"WBC","WBC","thous/mm3",315
+164,"CREA","Creatinine","mg/dL",12
+164,"PLAT2","Platelet Count","thous/mm3",169
+164,"SGOT","AST","U/L",109
+164,"SGPT","ALT","U/L",129
+164,"TBIL","Total Bilirubin","mg/dL",4
+164,"WBC","WBC","thous/mm3",316
+165,"CREA","Creatinine","mg/dL",9
+165,"PLAT2","Platelet Count","thous/mm3",166
+165,"SGOT","AST","U/L",172
+165,"SGPT","ALT","U/L",21
+165,"TBIL","Total Bilirubin","mg/dL",6
+165,"WBC","WBC","thous/mm3",378
+166,"CREA","Creatinine","mg/dL",11
+166,"PLAT2","Platelet Count","thous/mm3",145
+166,"SGOT","AST","U/L",73
+166,"SGPT","ALT","U/L",442
+166,"TBIL","Total Bilirubin","mg/dL",6
+166,"WBC","WBC","thous/mm3",443
+167,"CREA","Creatinine","mg/dL",8
+167,"PLAT2","Platelet Count","thous/mm3",268
+167,"SGOT","AST","U/L",256
+167,"SGPT","ALT","U/L",325
+167,"TBIL","Total Bilirubin","mg/dL",13
+167,"WBC","WBC","thous/mm3",217
+168,"CREA","Creatinine","mg/dL",10
+168,"PLAT2","Platelet Count","thous/mm3",152
+168,"SGOT","AST","U/L",300
+168,"SGPT","ALT","U/L",300
+168,"TBIL","Total Bilirubin","mg/dL",4
+168,"WBC","WBC","thous/mm3",223
+169,"CREA","Creatinine","mg/dL",9
+169,"PLAT2","Platelet Count","thous/mm3",384
+169,"SGOT","AST","U/L",119
+169,"SGPT","ALT","U/L",119
+169,"TBIL","Total Bilirubin","mg/dL",6
+169,"WBC","WBC","thous/mm3",460
+170,"CREA","Creatinine","mg/dL",9
+170,"PLAT2","Platelet Count","thous/mm3",180
+170,"SGOT","AST","U/L",109
+170,"SGPT","ALT","U/L",330
+170,"TBIL","Total Bilirubin","mg/dL",8
+170,"WBC","WBC","thous/mm3",309
+171,"CREA","Creatinine","mg/dL",11
+171,"PLAT2","Platelet Count","thous/mm3",116
+171,"SGOT","AST","U/L",119
+171,"SGPT","ALT","U/L",55
+171,"TBIL","Total Bilirubin","mg/dL",7
+171,"WBC","WBC","thous/mm3",443
+172,"CREA","Creatinine","mg/dL",11
+172,"PLAT2","Platelet Count","thous/mm3",248
+172,"SGOT","AST","U/L",82
+172,"SGPT","ALT","U/L",256
+172,"TBIL","Total Bilirubin","mg/dL",4
+172,"WBC","WBC","thous/mm3",448
+173,"CREA","Creatinine","mg/dL",13
+173,"PLAT2","Platelet Count","thous/mm3",234
+173,"SGOT","AST","U/L",161
+173,"SGPT","ALT","U/L",341
+173,"TBIL","Total Bilirubin","mg/dL",4
+173,"WBC","WBC","thous/mm3",424
+174,"CREA","Creatinine","mg/dL",15
+174,"PLAT2","Platelet Count","thous/mm3",183
+174,"SGOT","AST","U/L",66
+174,"SGPT","ALT","U/L",119
+174,"TBIL","Total Bilirubin","mg/dL",5
+174,"WBC","WBC","thous/mm3",378
+175,"CREA","Creatinine","mg/dL",9
+175,"PLAT2","Platelet Count","thous/mm3",360
+175,"SGOT","AST","U/L",73
+175,"SGPT","ALT","U/L",206
+175,"TBIL","Total Bilirubin","mg/dL",7
+175,"WBC","WBC","thous/mm3",442
+176,"CREA","Creatinine","mg/dL",11
+176,"PLAT2","Platelet Count","thous/mm3",182
+176,"SGOT","AST","U/L",206
+176,"SGPT","ALT","U/L",139
+176,"TBIL","Total Bilirubin","mg/dL",5
+176,"WBC","WBC","thous/mm3",375
+177,"CREA","Creatinine","mg/dL",8
+177,"PLAT2","Platelet Count","thous/mm3",148
+177,"SGOT","AST","U/L",66
+177,"SGPT","ALT","U/L",333
+177,"TBIL","Total Bilirubin","mg/dL",3
+177,"WBC","WBC","thous/mm3",449
+178,"CREA","Creatinine","mg/dL",7
+178,"PLAT2","Platelet Count","thous/mm3",98
+178,"SGOT","AST","U/L",487
+178,"SGPT","ALT","U/L",150
+178,"TBIL","Total Bilirubin","mg/dL",6
+178,"WBC","WBC","thous/mm3",416
+179,"CREA","Creatinine","mg/dL",7
+179,"PLAT2","Platelet Count","thous/mm3",263
+179,"SGOT","AST","U/L",109
+179,"SGPT","ALT","U/L",442
+179,"TBIL","Total Bilirubin","mg/dL",5
+179,"WBC","WBC","thous/mm3",376
+180,"CREA","Creatinine","mg/dL",9
+180,"PLAT2","Platelet Count","thous/mm3",272
+180,"SGOT","AST","U/L",109
+180,"SGPT","ALT","U/L",NA
+180,"TBIL","Total Bilirubin","mg/dL",5
+180,"WBC","WBC","thous/mm3",419
+181,"CREA","Creatinine","mg/dL",9
+181,"PLAT2","Platelet Count","thous/mm3",136
+181,"SGOT","AST","U/L",195
+181,"SGPT","ALT","U/L",73
+181,"TBIL","Total Bilirubin","mg/dL",6
+181,"WBC","WBC","thous/mm3",224
+182,"CREA","Creatinine","mg/dL",9
+182,"PLAT2","Platelet Count","thous/mm3",259
+182,"SGOT","AST","U/L",92
+182,"SGPT","ALT","U/L",256
+182,"TBIL","Total Bilirubin","mg/dL",5
+182,"WBC","WBC","thous/mm3",419
+183,"CREA","Creatinine","mg/dL",11
+183,"PLAT2","Platelet Count","thous/mm3",182
+183,"SGOT","AST","U/L",119
+183,"SGPT","ALT","U/L",129
+183,"TBIL","Total Bilirubin","mg/dL",10
+183,"WBC","WBC","thous/mm3",443
+184,"CREA","Creatinine","mg/dL",11
+184,"PLAT2","Platelet Count","thous/mm3",280
+184,"SGOT","AST","U/L",55
+184,"SGPT","ALT","U/L",256
+184,"TBIL","Total Bilirubin","mg/dL",6
+184,"WBC","WBC","thous/mm3",482
+185,"CREA","Creatinine","mg/dL",10
+185,"PLAT2","Platelet Count","thous/mm3",70
+185,"SGOT","AST","U/L",139
+185,"SGPT","ALT","U/L",367
+185,"TBIL","Total Bilirubin","mg/dL",9
+185,"WBC","WBC","thous/mm3",466
+186,"CREA","Creatinine","mg/dL",14
+186,"PLAT2","Platelet Count","thous/mm3",113
+186,"SGOT","AST","U/L",333
+186,"SGPT","ALT","U/L",317
+186,"TBIL","Total Bilirubin","mg/dL",14
+186,"WBC","WBC","thous/mm3",23
+187,"CREA","Creatinine","mg/dL",8
+187,"PLAT2","Platelet Count","thous/mm3",123
+187,"SGOT","AST","U/L",92
+187,"SGPT","ALT","U/L",109
+187,"TBIL","Total Bilirubin","mg/dL",6
+187,"WBC","WBC","thous/mm3",418
+188,"CREA","Creatinine","mg/dL",7
+188,"PLAT2","Platelet Count","thous/mm3",141
+188,"SGOT","AST","U/L",49
+188,"SGPT","ALT","U/L",66
+188,"TBIL","Total Bilirubin","mg/dL",6
+188,"WBC","WBC","thous/mm3",420
+189,"CREA","Creatinine","mg/dL",8
+189,"PLAT2","Platelet Count","thous/mm3",154
+189,"SGOT","AST","U/L",139
+189,"SGPT","ALT","U/L",55
+189,"TBIL","Total Bilirubin","mg/dL",5
+189,"WBC","WBC","thous/mm3",423
+190,"CREA","Creatinine","mg/dL",10
+190,"PLAT2","Platelet Count","thous/mm3",170
+190,"SGOT","AST","U/L",235
+190,"SGPT","ALT","U/L",150
+190,"TBIL","Total Bilirubin","mg/dL",9
+190,"WBC","WBC","thous/mm3",220
+191,"CREA","Creatinine","mg/dL",11
+191,"PLAT2","Platelet Count","thous/mm3",436
+191,"SGOT","AST","U/L",172
+191,"SGPT","ALT","U/L",109
+191,"TBIL","Total Bilirubin","mg/dL",5
+191,"WBC","WBC","thous/mm3",379
+192,"CREA","Creatinine","mg/dL",8
+192,"PLAT2","Platelet Count","thous/mm3",123
+192,"SGOT","AST","U/L",82
+192,"SGPT","ALT","U/L",66
+192,"TBIL","Total Bilirubin","mg/dL",5
+192,"WBC","WBC","thous/mm3",461
+193,"CREA","Creatinine","mg/dL",8
+193,"PLAT2","Platelet Count","thous/mm3",114
+193,"SGOT","AST","U/L",150
+193,"SGPT","ALT","U/L",347
+193,"TBIL","Total Bilirubin","mg/dL",7
+193,"WBC","WBC","thous/mm3",448
+194,"CREA","Creatinine","mg/dL",10
+194,"PLAT2","Platelet Count","thous/mm3",226
+194,"SGOT","AST","U/L",49
+194,"SGPT","ALT","U/L",92
+194,"TBIL","Total Bilirubin","mg/dL",6
+194,"WBC","WBC","thous/mm3",314
+195,"CREA","Creatinine","mg/dL",11
+195,"PLAT2","Platelet Count","thous/mm3",151
+195,"SGOT","AST","U/L",256
+195,"SGPT","ALT","U/L",66
+195,"TBIL","Total Bilirubin","mg/dL",5
+195,"WBC","WBC","thous/mm3",377
+196,"CREA","Creatinine","mg/dL",11
+196,"PLAT2","Platelet Count","thous/mm3",168
+196,"SGOT","AST","U/L",92
+196,"SGPT","ALT","U/L",256
+196,"TBIL","Total Bilirubin","mg/dL",6
+196,"WBC","WBC","thous/mm3",447
+197,"CREA","Creatinine","mg/dL",11
+197,"PLAT2","Platelet Count","thous/mm3",297
+197,"SGOT","AST","U/L",82
+197,"SGPT","ALT","U/L",60
+197,"TBIL","Total Bilirubin","mg/dL",7
+197,"WBC","WBC","thous/mm3",461
+198,"CREA","Creatinine","mg/dL",11
+198,"PLAT2","Platelet Count","thous/mm3",189
+198,"SGOT","AST","U/L",109
+198,"SGPT","ALT","U/L",256
+198,"TBIL","Total Bilirubin","mg/dL",6
+198,"WBC","WBC","thous/mm3",307
+199,"CREA","Creatinine","mg/dL",8
+199,"PLAT2","Platelet Count","thous/mm3",126
+199,"SGOT","AST","U/L",172
+199,"SGPT","ALT","U/L",109
+199,"TBIL","Total Bilirubin","mg/dL",9
+199,"WBC","WBC","thous/mm3",415
+200,"CREA","Creatinine","mg/dL",9
+200,"PLAT2","Platelet Count","thous/mm3",131
+200,"SGOT","AST","U/L",49
+200,"SGPT","ALT","U/L",82
+200,"TBIL","Total Bilirubin","mg/dL",5
+200,"WBC","WBC","thous/mm3",312
+201,"CREA","Creatinine","mg/dL",11
+201,"PLAT2","Platelet Count","thous/mm3",90
+201,"SGOT","AST","U/L",60
+201,"SGPT","ALT","U/L",139
+201,"TBIL","Total Bilirubin","mg/dL",6
+201,"WBC","WBC","thous/mm3",445
+202,"CREA","Creatinine","mg/dL",10
+202,"PLAT2","Platelet Count","thous/mm3",255
+202,"SGOT","AST","U/L",82
+202,"SGPT","ALT","U/L",32
+202,"TBIL","Total Bilirubin","mg/dL",5
+202,"WBC","WBC","thous/mm3",313
+203,"CREA","Creatinine","mg/dL",11
+203,"PLAT2","Platelet Count","thous/mm3",328
+203,"SGOT","AST","U/L",66
+203,"SGPT","ALT","U/L",184
+203,"TBIL","Total Bilirubin","mg/dL",4
+203,"WBC","WBC","thous/mm3",415
+204,"CREA","Creatinine","mg/dL",9
+204,"PLAT2","Platelet Count","thous/mm3",183
+204,"SGOT","AST","U/L",139
+204,"SGPT","ALT","U/L",459
+204,"TBIL","Total Bilirubin","mg/dL",5
+204,"WBC","WBC","thous/mm3",376
+205,"CREA","Creatinine","mg/dL",11
+205,"PLAT2","Platelet Count","thous/mm3",94
+205,"SGOT","AST","U/L",66
+205,"SGPT","ALT","U/L",300
+205,"TBIL","Total Bilirubin","mg/dL",4
+205,"WBC","WBC","thous/mm3",310
+206,"CREA","Creatinine","mg/dL",9
+206,"PLAT2","Platelet Count","thous/mm3",337
+206,"SGOT","AST","U/L",404
+206,"SGPT","ALT","U/L",92
+206,"TBIL","Total Bilirubin","mg/dL",10
+206,"WBC","WBC","thous/mm3",35
+207,"CREA","Creatinine","mg/dL",13
+207,"PLAT2","Platelet Count","thous/mm3",257
+207,"SGOT","AST","U/L",55
+207,"SGPT","ALT","U/L",161
+207,"TBIL","Total Bilirubin","mg/dL",6
+207,"WBC","WBC","thous/mm3",463
+208,"CREA","Creatinine","mg/dL",9
+208,"PLAT2","Platelet Count","thous/mm3",138
+208,"SGOT","AST","U/L",92
+208,"SGPT","ALT","U/L",66
+208,"TBIL","Total Bilirubin","mg/dL",7
+208,"WBC","WBC","thous/mm3",308
+209,"CREA","Creatinine","mg/dL",11
+209,"PLAT2","Platelet Count","thous/mm3",91
+209,"SGOT","AST","U/L",82
+209,"SGPT","ALT","U/L",347
+209,"TBIL","Total Bilirubin","mg/dL",9
+209,"WBC","WBC","thous/mm3",448
+210,"CREA","Creatinine","mg/dL",12
+210,"PLAT2","Platelet Count","thous/mm3",101
+210,"SGOT","AST","U/L",109
+210,"SGPT","ALT","U/L",41
+210,"TBIL","Total Bilirubin","mg/dL",7
+210,"WBC","WBC","thous/mm3",447
+211,"CREA","Creatinine","mg/dL",10
+211,"PLAT2","Platelet Count","thous/mm3",205
+211,"SGOT","AST","U/L",195
+211,"SGPT","ALT","U/L",60
+211,"TBIL","Total Bilirubin","mg/dL",9
+211,"WBC","WBC","thous/mm3",381
+212,"CREA","Creatinine","mg/dL",7
+212,"PLAT2","Platelet Count","thous/mm3",260
+212,"SGOT","AST","U/L",55
+212,"SGPT","ALT","U/L",225
+212,"TBIL","Total Bilirubin","mg/dL",4
+212,"WBC","WBC","thous/mm3",27
+213,"CREA","Creatinine","mg/dL",8
+213,"PLAT2","Platelet Count","thous/mm3",175
+213,"SGOT","AST","U/L",195
+213,"SGPT","ALT","U/L",225
+213,"TBIL","Total Bilirubin","mg/dL",6
+213,"WBC","WBC","thous/mm3",484
+214,"CREA","Creatinine","mg/dL",9
+214,"PLAT2","Platelet Count","thous/mm3",233
+214,"SGOT","AST","U/L",161
+214,"SGPT","ALT","U/L",267
+214,"TBIL","Total Bilirubin","mg/dL",5
+214,"WBC","WBC","thous/mm3",444
+215,"CREA","Creatinine","mg/dL",15
+215,"PLAT2","Platelet Count","thous/mm3",62
+215,"SGOT","AST","U/L",172
+215,"SGPT","ALT","U/L",73
+215,"TBIL","Total Bilirubin","mg/dL",15
+215,"WBC","WBC","thous/mm3",223
+216,"CREA","Creatinine","mg/dL",11
+216,"PLAT2","Platelet Count","thous/mm3",295
+216,"SGOT","AST","U/L",150
+216,"SGPT","ALT","U/L",225
+216,"TBIL","Total Bilirubin","mg/dL",9
+216,"WBC","WBC","thous/mm3",419
+217,"CREA","Creatinine","mg/dL",12
+217,"PLAT2","Platelet Count","thous/mm3",122
+217,"SGOT","AST","U/L",60
+217,"SGPT","ALT","U/L",119
+217,"TBIL","Total Bilirubin","mg/dL",5
+217,"WBC","WBC","thous/mm3",307
+218,"CREA","Creatinine","mg/dL",10
+218,"PLAT2","Platelet Count","thous/mm3",112
+218,"SGOT","AST","U/L",129
+218,"SGPT","ALT","U/L",60
+218,"TBIL","Total Bilirubin","mg/dL",5
+218,"WBC","WBC","thous/mm3",375
+219,"CREA","Creatinine","mg/dL",10
+219,"PLAT2","Platelet Count","thous/mm3",233
+219,"SGOT","AST","U/L",82
+219,"SGPT","ALT","U/L",367
+219,"TBIL","Total Bilirubin","mg/dL",10
+219,"WBC","WBC","thous/mm3",424
+220,"CREA","Creatinine","mg/dL",8
+220,"PLAT2","Platelet Count","thous/mm3",264
+220,"SGOT","AST","U/L",55
+220,"SGPT","ALT","U/L",109
+220,"TBIL","Total Bilirubin","mg/dL",10
+220,"WBC","WBC","thous/mm3",27
+221,"CREA","Creatinine","mg/dL",11
+221,"PLAT2","Platelet Count","thous/mm3",231
+221,"SGOT","AST","U/L",184
+221,"SGPT","ALT","U/L",206
+221,"TBIL","Total Bilirubin","mg/dL",2
+221,"WBC","WBC","thous/mm3",418
+222,"CREA","Creatinine","mg/dL",9
+222,"PLAT2","Platelet Count","thous/mm3",247
+222,"SGOT","AST","U/L",139
+222,"SGPT","ALT","U/L",330
+222,"TBIL","Total Bilirubin","mg/dL",4
+222,"WBC","WBC","thous/mm3",420
+223,"CREA","Creatinine","mg/dL",9
+223,"PLAT2","Platelet Count","thous/mm3",232
+223,"SGOT","AST","U/L",49
+223,"SGPT","ALT","U/L",92
+223,"TBIL","Total Bilirubin","mg/dL",2
+223,"WBC","WBC","thous/mm3",375
+224,"CREA","Creatinine","mg/dL",10
+224,"PLAT2","Platelet Count","thous/mm3",157
+224,"SGOT","AST","U/L",150
+224,"SGPT","ALT","U/L",341
+224,"TBIL","Total Bilirubin","mg/dL",4
+224,"WBC","WBC","thous/mm3",372
+225,"CREA","Creatinine","mg/dL",15
+225,"PLAT2","Platelet Count","thous/mm3",264
+225,"SGOT","AST","U/L",82
+225,"SGPT","ALT","U/L",21
+225,"TBIL","Total Bilirubin","mg/dL",3
+225,"WBC","WBC","thous/mm3",373
+226,"CREA","Creatinine","mg/dL",11
+226,"PLAT2","Platelet Count","thous/mm3",159
+226,"SGOT","AST","U/L",82
+226,"SGPT","ALT","U/L",49
+226,"TBIL","Total Bilirubin","mg/dL",10
+226,"WBC","WBC","thous/mm3",424
+227,"CREA","Creatinine","mg/dL",8
+227,"PLAT2","Platelet Count","thous/mm3",121
+227,"SGOT","AST","U/L",60
+227,"SGPT","ALT","U/L",73
+227,"TBIL","Total Bilirubin","mg/dL",5
+227,"WBC","WBC","thous/mm3",377
+228,"CREA","Creatinine","mg/dL",7
+228,"PLAT2","Platelet Count","thous/mm3",407
+228,"SGOT","AST","U/L",73
+228,"SGPT","ALT","U/L",119
+228,"TBIL","Total Bilirubin","mg/dL",6
+228,"WBC","WBC","thous/mm3",32
+229,"CREA","Creatinine","mg/dL",15
+229,"PLAT2","Platelet Count","thous/mm3",166
+229,"SGOT","AST","U/L",172
+229,"SGPT","ALT","U/L",333
+229,"TBIL","Total Bilirubin","mg/dL",9
+229,"WBC","WBC","thous/mm3",381
+230,"CREA","Creatinine","mg/dL",9
+230,"PLAT2","Platelet Count","thous/mm3",327
+230,"SGOT","AST","U/L",333
+230,"SGPT","ALT","U/L",139
+230,"TBIL","Total Bilirubin","mg/dL",6
+230,"WBC","WBC","thous/mm3",381
+231,"CREA","Creatinine","mg/dL",12
+231,"PLAT2","Platelet Count","thous/mm3",324
+231,"SGOT","AST","U/L",150
+231,"SGPT","ALT","U/L",290
+231,"TBIL","Total Bilirubin","mg/dL",4
+231,"WBC","WBC","thous/mm3",443
+232,"CREA","Creatinine","mg/dL",7
+232,"PLAT2","Platelet Count","thous/mm3",165
+232,"SGOT","AST","U/L",109
+232,"SGPT","ALT","U/L",129
+232,"TBIL","Total Bilirubin","mg/dL",8
+232,"WBC","WBC","thous/mm3",379
+233,"CREA","Creatinine","mg/dL",11
+233,"PLAT2","Platelet Count","thous/mm3",244
+233,"SGOT","AST","U/L",92
+233,"SGPT","ALT","U/L",41
+233,"TBIL","Total Bilirubin","mg/dL",5
+233,"WBC","WBC","thous/mm3",464
+234,"CREA","Creatinine","mg/dL",10
+234,"PLAT2","Platelet Count","thous/mm3",343
+234,"SGOT","AST","U/L",139
+234,"SGPT","ALT","U/L",60
+234,"TBIL","Total Bilirubin","mg/dL",3
+234,"WBC","WBC","thous/mm3",375
+235,"CREA","Creatinine","mg/dL",8
+235,"PLAT2","Platelet Count","thous/mm3",203
+235,"SGOT","AST","U/L",150
+235,"SGPT","ALT","U/L",73
+235,"TBIL","Total Bilirubin","mg/dL",3
+235,"WBC","WBC","thous/mm3",419
+236,"CREA","Creatinine","mg/dL",13
+236,"PLAT2","Platelet Count","thous/mm3",143
+236,"SGOT","AST","U/L",129
+236,"SGPT","ALT","U/L",129
+236,"TBIL","Total Bilirubin","mg/dL",11
+236,"WBC","WBC","thous/mm3",417
+237,"CREA","Creatinine","mg/dL",14
+237,"PLAT2","Platelet Count","thous/mm3",151
+237,"SGOT","AST","U/L",60
+237,"SGPT","ALT","U/L",21
+237,"TBIL","Total Bilirubin","mg/dL",4
+237,"WBC","WBC","thous/mm3",314
+238,"CREA","Creatinine","mg/dL",10
+238,"PLAT2","Platelet Count","thous/mm3",130
+238,"SGOT","AST","U/L",73
+238,"SGPT","ALT","U/L",358
+238,"TBIL","Total Bilirubin","mg/dL",5
+238,"WBC","WBC","thous/mm3",465
+239,"CREA","Creatinine","mg/dL",9
+239,"PLAT2","Platelet Count","thous/mm3",253
+239,"SGOT","AST","U/L",206
+239,"SGPT","ALT","U/L",317
+239,"TBIL","Total Bilirubin","mg/dL",7
+239,"WBC","WBC","thous/mm3",416
+240,"CREA","Creatinine","mg/dL",10
+240,"PLAT2","Platelet Count","thous/mm3",260
+240,"SGOT","AST","U/L",92
+240,"SGPT","ALT","U/L",283
+240,"TBIL","Total Bilirubin","mg/dL",2
+240,"WBC","WBC","thous/mm3",424
+241,"CREA","Creatinine","mg/dL",8
+241,"PLAT2","Platelet Count","thous/mm3",125
+241,"SGOT","AST","U/L",129
+241,"SGPT","ALT","U/L",21
+241,"TBIL","Total Bilirubin","mg/dL",4
+241,"WBC","WBC","thous/mm3",415
+242,"CREA","Creatinine","mg/dL",9
+242,"PLAT2","Platelet Count","thous/mm3",286
+242,"SGOT","AST","U/L",139
+242,"SGPT","ALT","U/L",49
+242,"TBIL","Total Bilirubin","mg/dL",4
+242,"WBC","WBC","thous/mm3",313
+243,"CREA","Creatinine","mg/dL",12
+243,"PLAT2","Platelet Count","thous/mm3",113
+243,"SGOT","AST","U/L",119
+243,"SGPT","ALT","U/L",283
+243,"TBIL","Total Bilirubin","mg/dL",6
+243,"WBC","WBC","thous/mm3",379
+244,"CREA","Creatinine","mg/dL",11
+244,"PLAT2","Platelet Count","thous/mm3",85
+244,"SGOT","AST","U/L",172
+244,"SGPT","ALT","U/L",389
+244,"TBIL","Total Bilirubin","mg/dL",4
+244,"WBC","WBC","thous/mm3",421
+245,"CREA","Creatinine","mg/dL",8
+245,"PLAT2","Platelet Count","thous/mm3",264
+245,"SGOT","AST","U/L",73
+245,"SGPT","ALT","U/L",341
+245,"TBIL","Total Bilirubin","mg/dL",6
+245,"WBC","WBC","thous/mm3",463
+246,"CREA","Creatinine","mg/dL",12
+246,"PLAT2","Platelet Count","thous/mm3",231
+246,"SGOT","AST","U/L",73
+246,"SGPT","ALT","U/L",267
+246,"TBIL","Total Bilirubin","mg/dL",8
+246,"WBC","WBC","thous/mm3",445
+247,"CREA","Creatinine","mg/dL",7
+247,"PLAT2","Platelet Count","thous/mm3",174
+247,"SGOT","AST","U/L",73
+247,"SGPT","ALT","U/L",60
+247,"TBIL","Total Bilirubin","mg/dL",12
+247,"WBC","WBC","thous/mm3",449
+248,"CREA","Creatinine","mg/dL",8
+248,"PLAT2","Platelet Count","thous/mm3",298
+248,"SGOT","AST","U/L",109
+248,"SGPT","ALT","U/L",60
+248,"TBIL","Total Bilirubin","mg/dL",3
+248,"WBC","WBC","thous/mm3",381
+249,"CREA","Creatinine","mg/dL",10
+249,"PLAT2","Platelet Count","thous/mm3",427
+249,"SGOT","AST","U/L",195
+249,"SGPT","ALT","U/L",129
+249,"TBIL","Total Bilirubin","mg/dL",5
+249,"WBC","WBC","thous/mm3",22
+250,"CREA","Creatinine","mg/dL",10
+250,"PLAT2","Platelet Count","thous/mm3",170
+250,"SGOT","AST","U/L",60
+250,"SGPT","ALT","U/L",333
+250,"TBIL","Total Bilirubin","mg/dL",7
+250,"WBC","WBC","thous/mm3",380
+251,"CREA","Creatinine","mg/dL",9
+251,"PLAT2","Platelet Count","thous/mm3",187
+251,"SGOT","AST","U/L",129
+251,"SGPT","ALT","U/L",206
+251,"TBIL","Total Bilirubin","mg/dL",6
+251,"WBC","WBC","thous/mm3",417
+252,"CREA","Creatinine","mg/dL",6
+252,"PLAT2","Platelet Count","thous/mm3",210
+252,"SGOT","AST","U/L",119
+252,"SGPT","ALT","U/L",32
+252,"TBIL","Total Bilirubin","mg/dL",5
+252,"WBC","WBC","thous/mm3",307
+253,"CREA","Creatinine","mg/dL",10
+253,"PLAT2","Platelet Count","thous/mm3",182
+253,"SGOT","AST","U/L",82
+253,"SGPT","ALT","U/L",55
+253,"TBIL","Total Bilirubin","mg/dL",5
+253,"WBC","WBC","thous/mm3",448
+254,"CREA","Creatinine","mg/dL",10
+254,"PLAT2","Platelet Count","thous/mm3",118
+254,"SGOT","AST","U/L",49
+254,"SGPT","ALT","U/L",470
+254,"TBIL","Total Bilirubin","mg/dL",5
+254,"WBC","WBC","thous/mm3",376
+255,"CREA","Creatinine","mg/dL",10
+255,"PLAT2","Platelet Count","thous/mm3",152
+255,"SGOT","AST","U/L",66
+255,"SGPT","ALT","U/L",172
+255,"TBIL","Total Bilirubin","mg/dL",4
+255,"WBC","WBC","thous/mm3",376
+256,"CREA","Creatinine","mg/dL",7
+256,"PLAT2","Platelet Count","thous/mm3",87
+256,"SGOT","AST","U/L",184
+256,"SGPT","ALT","U/L",21
+256,"TBIL","Total Bilirubin","mg/dL",11
+256,"WBC","WBC","thous/mm3",313
+257,"CREA","Creatinine","mg/dL",7
+257,"PLAT2","Platelet Count","thous/mm3",114
+257,"SGOT","AST","U/L",161
+257,"SGPT","ALT","U/L",66
+257,"TBIL","Total Bilirubin","mg/dL",7
+257,"WBC","WBC","thous/mm3",419
+258,"CREA","Creatinine","mg/dL",7
+258,"PLAT2","Platelet Count","thous/mm3",181
+258,"SGOT","AST","U/L",73
+258,"SGPT","ALT","U/L",21
+258,"TBIL","Total Bilirubin","mg/dL",4
+258,"WBC","WBC","thous/mm3",418
+259,"CREA","Creatinine","mg/dL",9
+259,"PLAT2","Platelet Count","thous/mm3",132
+259,"SGOT","AST","U/L",150
+259,"SGPT","ALT","U/L",206
+259,"TBIL","Total Bilirubin","mg/dL",5
+259,"WBC","WBC","thous/mm3",420
+260,"CREA","Creatinine","mg/dL",7
+260,"PLAT2","Platelet Count","thous/mm3",402
+260,"SGOT","AST","U/L",119
+260,"SGPT","ALT","U/L",195
+260,"TBIL","Total Bilirubin","mg/dL",4
+260,"WBC","WBC","thous/mm3",484
+261,"CREA","Creatinine","mg/dL",10
+261,"PLAT2","Platelet Count","thous/mm3",141
+261,"SGOT","AST","U/L",129
+261,"SGPT","ALT","U/L",283
+261,"TBIL","Total Bilirubin","mg/dL",4
+261,"WBC","WBC","thous/mm3",443
+262,"CREA","Creatinine","mg/dL",8
+262,"PLAT2","Platelet Count","thous/mm3",114
+262,"SGOT","AST","U/L",109
+262,"SGPT","ALT","U/L",184
+262,"TBIL","Total Bilirubin","mg/dL",8
+262,"WBC","WBC","thous/mm3",316
+263,"CREA","Creatinine","mg/dL",9
+263,"PLAT2","Platelet Count","thous/mm3",31
+263,"SGOT","AST","U/L",60
+263,"SGPT","ALT","U/L",41
+263,"TBIL","Total Bilirubin","mg/dL",9
+263,"WBC","WBC","thous/mm3",378
+264,"CREA","Creatinine","mg/dL",11
+264,"PLAT2","Platelet Count","thous/mm3",99
+264,"SGOT","AST","U/L",73
+264,"SGPT","ALT","U/L",333
+264,"TBIL","Total Bilirubin","mg/dL",7
+264,"WBC","WBC","thous/mm3",443
+265,"CREA","Creatinine","mg/dL",NA
+265,"PLAT2","Platelet Count","thous/mm3",407
+265,"SGOT","AST","U/L",184
+265,"SGPT","ALT","U/L",452
+265,"TBIL","Total Bilirubin","mg/dL",5
+265,"WBC","WBC","thous/mm3",422
+266,"CREA","Creatinine","mg/dL",11
+266,"PLAT2","Platelet Count","thous/mm3",40
+266,"SGOT","AST","U/L",172
+266,"SGPT","ALT","U/L",476
+266,"TBIL","Total Bilirubin","mg/dL",9
+266,"WBC","WBC","thous/mm3",21
+267,"CREA","Creatinine","mg/dL",11
+267,"PLAT2","Platelet Count","thous/mm3",98
+267,"SGOT","AST","U/L",387
+267,"SGPT","ALT","U/L",129
+267,"TBIL","Total Bilirubin","mg/dL",9
+267,"WBC","WBC","thous/mm3",415
+268,"CREA","Creatinine","mg/dL",8
+268,"PLAT2","Platelet Count","thous/mm3",165
+268,"SGOT","AST","U/L",129
+268,"SGPT","ALT","U/L",66
+268,"TBIL","Total Bilirubin","mg/dL",5
+268,"WBC","WBC","thous/mm3",421
+269,"CREA","Creatinine","mg/dL",12
+269,"PLAT2","Platelet Count","thous/mm3",174
+269,"SGOT","AST","U/L",66
+269,"SGPT","ALT","U/L",330
+269,"TBIL","Total Bilirubin","mg/dL",5
+269,"WBC","WBC","thous/mm3",463
+270,"CREA","Creatinine","mg/dL",8
+270,"PLAT2","Platelet Count","thous/mm3",189
+270,"SGOT","AST","U/L",119
+270,"SGPT","ALT","U/L",150
+270,"TBIL","Total Bilirubin","mg/dL",4
+270,"WBC","WBC","thous/mm3",374
+271,"CREA","Creatinine","mg/dL",14
+271,"PLAT2","Platelet Count","thous/mm3",205
+271,"SGOT","AST","U/L",109
+271,"SGPT","ALT","U/L",276
+271,"TBIL","Total Bilirubin","mg/dL",4
+271,"WBC","WBC","thous/mm3",420
+272,"CREA","Creatinine","mg/dL",11
+272,"PLAT2","Platelet Count","thous/mm3",356
+272,"SGOT","AST","U/L",150
+272,"SGPT","ALT","U/L",109
+272,"TBIL","Total Bilirubin","mg/dL",9
+272,"WBC","WBC","thous/mm3",378
+273,"CREA","Creatinine","mg/dL",9
+273,"PLAT2","Platelet Count","thous/mm3",69
+273,"SGOT","AST","U/L",106
+273,"SGPT","ALT","U/L",41
+273,"TBIL","Total Bilirubin","mg/dL",8
+273,"WBC","WBC","thous/mm3",467
+274,"CREA","Creatinine","mg/dL",7
+274,"PLAT2","Platelet Count","thous/mm3",242
+274,"SGOT","AST","U/L",82
+274,"SGPT","ALT","U/L",150
+274,"TBIL","Total Bilirubin","mg/dL",11
+274,"WBC","WBC","thous/mm3",446
+275,"CREA","Creatinine","mg/dL",9
+275,"PLAT2","Platelet Count","thous/mm3",255
+275,"SGOT","AST","U/L",139
+275,"SGPT","ALT","U/L",92
+275,"TBIL","Total Bilirubin","mg/dL",5
+275,"WBC","WBC","thous/mm3",415
+276,"CREA","Creatinine","mg/dL",7
+276,"PLAT2","Platelet Count","thous/mm3",273
+276,"SGOT","AST","U/L",276
+276,"SGPT","ALT","U/L",246
+276,"TBIL","Total Bilirubin","mg/dL",5
+276,"WBC","WBC","thous/mm3",372
+277,"CREA","Creatinine","mg/dL",8
+277,"PLAT2","Platelet Count","thous/mm3",136
+277,"SGOT","AST","U/L",426
+277,"SGPT","ALT","U/L",267
+277,"TBIL","Total Bilirubin","mg/dL",12
+277,"WBC","WBC","thous/mm3",420
+278,"CREA","Creatinine","mg/dL",9
+278,"PLAT2","Platelet Count","thous/mm3",348
+278,"SGOT","AST","U/L",267
+278,"SGPT","ALT","U/L",129
+278,"TBIL","Total Bilirubin","mg/dL",3
+278,"WBC","WBC","thous/mm3",478
+279,"CREA","Creatinine","mg/dL",12
+279,"PLAT2","Platelet Count","thous/mm3",202
+279,"SGOT","AST","U/L",73
+279,"SGPT","ALT","U/L",109
+279,"TBIL","Total Bilirubin","mg/dL",5
+279,"WBC","WBC","thous/mm3",476
+280,"CREA","Creatinine","mg/dL",12
+280,"PLAT2","Platelet Count","thous/mm3",81
+280,"SGOT","AST","U/L",150
+280,"SGPT","ALT","U/L",195
+280,"TBIL","Total Bilirubin","mg/dL",9
+280,"WBC","WBC","thous/mm3",423
+281,"CREA","Creatinine","mg/dL",10
+281,"PLAT2","Platelet Count","thous/mm3",251
+281,"SGOT","AST","U/L",352
+281,"SGPT","ALT","U/L",184
+281,"TBIL","Total Bilirubin","mg/dL",6
+281,"WBC","WBC","thous/mm3",375
+282,"CREA","Creatinine","mg/dL",8
+282,"PLAT2","Platelet Count","thous/mm3",166
+282,"SGOT","AST","U/L",92
+282,"SGPT","ALT","U/L",55
+282,"TBIL","Total Bilirubin","mg/dL",11
+282,"WBC","WBC","thous/mm3",450
+283,"CREA","Creatinine","mg/dL",7
+283,"PLAT2","Platelet Count","thous/mm3",165
+283,"SGOT","AST","U/L",150
+283,"SGPT","ALT","U/L",267
+283,"TBIL","Total Bilirubin","mg/dL",7
+283,"WBC","WBC","thous/mm3",443
+284,"CREA","Creatinine","mg/dL",8
+284,"PLAT2","Platelet Count","thous/mm3",178
+284,"SGOT","AST","U/L",109
+284,"SGPT","ALT","U/L",413
+284,"TBIL","Total Bilirubin","mg/dL",5
+284,"WBC","WBC","thous/mm3",372
+285,"CREA","Creatinine","mg/dL",8
+285,"PLAT2","Platelet Count","thous/mm3",189
+285,"SGOT","AST","U/L",32
+285,"SGPT","ALT","U/L",246
+285,"TBIL","Total Bilirubin","mg/dL",4
+285,"WBC","WBC","thous/mm3",445
+286,"CREA","Creatinine","mg/dL",12
+286,"PLAT2","Platelet Count","thous/mm3",141
+286,"SGOT","AST","U/L",172
+286,"SGPT","ALT","U/L",60
+286,"TBIL","Total Bilirubin","mg/dL",5
+286,"WBC","WBC","thous/mm3",446
+287,"CREA","Creatinine","mg/dL",11
+287,"PLAT2","Platelet Count","thous/mm3",245
+287,"SGOT","AST","U/L",49
+287,"SGPT","ALT","U/L",109
+287,"TBIL","Total Bilirubin","mg/dL",10
+287,"WBC","WBC","thous/mm3",420
+288,"CREA","Creatinine","mg/dL",10
+288,"PLAT2","Platelet Count","thous/mm3",93
+288,"SGOT","AST","U/L",92
+288,"SGPT","ALT","U/L",109
+288,"TBIL","Total Bilirubin","mg/dL",9
+288,"WBC","WBC","thous/mm3",372
+289,"CREA","Creatinine","mg/dL",8
+289,"PLAT2","Platelet Count","thous/mm3",135
+289,"SGOT","AST","U/L",150
+289,"SGPT","ALT","U/L",73
+289,"TBIL","Total Bilirubin","mg/dL",10
+289,"WBC","WBC","thous/mm3",373
+290,"CREA","Creatinine","mg/dL",8
+290,"PLAT2","Platelet Count","thous/mm3",131
+290,"SGOT","AST","U/L",172
+290,"SGPT","ALT","U/L",413
+290,"TBIL","Total Bilirubin","mg/dL",13
+290,"WBC","WBC","thous/mm3",420
+291,"CREA","Creatinine","mg/dL",11
+291,"PLAT2","Platelet Count","thous/mm3",362
+291,"SGOT","AST","U/L",60
+291,"SGPT","ALT","U/L",60
+291,"TBIL","Total Bilirubin","mg/dL",4
+291,"WBC","WBC","thous/mm3",478
+292,"CREA","Creatinine","mg/dL",6
+292,"PLAT2","Platelet Count","thous/mm3",NA
+292,"SGOT","AST","U/L",129
+292,"SGPT","ALT","U/L",139
+292,"TBIL","Total Bilirubin","mg/dL",5
+292,"WBC","WBC","thous/mm3",372
+293,"CREA","Creatinine","mg/dL",10
+293,"PLAT2","Platelet Count","thous/mm3",343
+293,"SGOT","AST","U/L",184
+293,"SGPT","ALT","U/L",73
+293,"TBIL","Total Bilirubin","mg/dL",4
+293,"WBC","WBC","thous/mm3",NA
+294,"CREA","Creatinine","mg/dL",16
+294,"PLAT2","Platelet Count","thous/mm3",88
+294,"SGOT","AST","U/L",109
+294,"SGPT","ALT","U/L",325
+294,"TBIL","Total Bilirubin","mg/dL",5
+294,"WBC","WBC","thous/mm3",449
+295,"CREA","Creatinine","mg/dL",10
+295,"PLAT2","Platelet Count","thous/mm3",168
+295,"SGOT","AST","U/L",32
+295,"SGPT","ALT","U/L",82
+295,"TBIL","Total Bilirubin","mg/dL",7
+295,"WBC","WBC","thous/mm3",463
+296,"CREA","Creatinine","mg/dL",8
+296,"PLAT2","Platelet Count","thous/mm3",268
+296,"SGOT","AST","U/L",73
+296,"SGPT","ALT","U/L",73
+296,"TBIL","Total Bilirubin","mg/dL",10
+296,"WBC","WBC","thous/mm3",375
+297,"CREA","Creatinine","mg/dL",9
+297,"PLAT2","Platelet Count","thous/mm3",242
+297,"SGOT","AST","U/L",109
+297,"SGPT","ALT","U/L",195
+297,"TBIL","Total Bilirubin","mg/dL",6
+297,"WBC","WBC","thous/mm3",446
+298,"CREA","Creatinine","mg/dL",11
+298,"PLAT2","Platelet Count","thous/mm3",301
+298,"SGOT","AST","U/L",82
+298,"SGPT","ALT","U/L",129
+298,"TBIL","Total Bilirubin","mg/dL",5
+298,"WBC","WBC","thous/mm3",379
+299,"CREA","Creatinine","mg/dL",10
+299,"PLAT2","Platelet Count","thous/mm3",145
+299,"SGOT","AST","U/L",66
+299,"SGPT","ALT","U/L",49
+299,"TBIL","Total Bilirubin","mg/dL",5
+299,"WBC","WBC","thous/mm3",379
+300,"CREA","Creatinine","mg/dL",8
+300,"PLAT2","Platelet Count","thous/mm3",143
+300,"SGOT","AST","U/L",172
+300,"SGPT","ALT","U/L",276
+300,"TBIL","Total Bilirubin","mg/dL",4
+300,"WBC","WBC","thous/mm3",423
+301,"CREA","Creatinine","mg/dL",7
+301,"PLAT2","Platelet Count","thous/mm3",122
+301,"SGOT","AST","U/L",NA
+301,"SGPT","ALT","U/L",92
+301,"TBIL","Total Bilirubin","mg/dL",5
+301,"WBC","WBC","thous/mm3",447
+302,"CREA","Creatinine","mg/dL",10
+302,"PLAT2","Platelet Count","thous/mm3",63
+302,"SGOT","AST","U/L",129
+302,"SGPT","ALT","U/L",55
+302,"TBIL","Total Bilirubin","mg/dL",10
+302,"WBC","WBC","thous/mm3",218
+303,"CREA","Creatinine","mg/dL",12
+303,"PLAT2","Platelet Count","thous/mm3",137
+303,"SGOT","AST","U/L",82
+303,"SGPT","ALT","U/L",184
+303,"TBIL","Total Bilirubin","mg/dL",5
+303,"WBC","WBC","thous/mm3",307
+304,"CREA","Creatinine","mg/dL",10
+304,"PLAT2","Platelet Count","thous/mm3",130
+304,"SGOT","AST","U/L",109
+304,"SGPT","ALT","U/L",21
+304,"TBIL","Total Bilirubin","mg/dL",10
+304,"WBC","WBC","thous/mm3",421
+305,"CREA","Creatinine","mg/dL",12
+305,"PLAT2","Platelet Count","thous/mm3",227
+305,"SGOT","AST","U/L",55
+305,"SGPT","ALT","U/L",367
+305,"TBIL","Total Bilirubin","mg/dL",6
+305,"WBC","WBC","thous/mm3",50
+306,"CREA","Creatinine","mg/dL",9
+306,"PLAT2","Platelet Count","thous/mm3",226
+306,"SGOT","AST","U/L",161
+306,"SGPT","ALT","U/L",317
+306,"TBIL","Total Bilirubin","mg/dL",3
+306,"WBC","WBC","thous/mm3",447
+307,"CREA","Creatinine","mg/dL",10
+307,"PLAT2","Platelet Count","thous/mm3",196
+307,"SGOT","AST","U/L",109
+307,"SGPT","ALT","U/L",41
+307,"TBIL","Total Bilirubin","mg/dL",7
+307,"WBC","WBC","thous/mm3",419
+308,"CREA","Creatinine","mg/dL",NA
+308,"PLAT2","Platelet Count","thous/mm3",275
+308,"SGOT","AST","U/L",119
+308,"SGPT","ALT","U/L",60
+308,"TBIL","Total Bilirubin","mg/dL",10
+308,"WBC","WBC","thous/mm3",477
+309,"CREA","Creatinine","mg/dL",16
+309,"PLAT2","Platelet Count","thous/mm3",130
+309,"SGOT","AST","U/L",195
+309,"SGPT","ALT","U/L",300
+309,"TBIL","Total Bilirubin","mg/dL",5
+309,"WBC","WBC","thous/mm3",417
+310,"CREA","Creatinine","mg/dL",11
+310,"PLAT2","Platelet Count","thous/mm3",259
+310,"SGOT","AST","U/L",109
+310,"SGPT","ALT","U/L",66
+310,"TBIL","Total Bilirubin","mg/dL",7
+310,"WBC","WBC","thous/mm3",464
+311,"CREA","Creatinine","mg/dL",10
+311,"PLAT2","Platelet Count","thous/mm3",63
+311,"SGOT","AST","U/L",367
+311,"SGPT","ALT","U/L",150
+311,"TBIL","Total Bilirubin","mg/dL",9
+311,"WBC","WBC","thous/mm3",310
+312,"CREA","Creatinine","mg/dL",7
+312,"PLAT2","Platelet Count","thous/mm3",140
+312,"SGOT","AST","U/L",92
+312,"SGPT","ALT","U/L",172
+312,"TBIL","Total Bilirubin","mg/dL",3
+312,"WBC","WBC","thous/mm3",374
+313,"CREA","Creatinine","mg/dL",7
+313,"PLAT2","Platelet Count","thous/mm3",412
+313,"SGOT","AST","U/L",92
+313,"SGPT","ALT","U/L",283
+313,"TBIL","Total Bilirubin","mg/dL",9
+313,"WBC","WBC","thous/mm3",42
+314,"CREA","Creatinine","mg/dL",11
+314,"PLAT2","Platelet Count","thous/mm3",162
+314,"SGOT","AST","U/L",60
+314,"SGPT","ALT","U/L",256
+314,"TBIL","Total Bilirubin","mg/dL",6
+314,"WBC","WBC","thous/mm3",310
+315,"CREA","Creatinine","mg/dL",13
+315,"PLAT2","Platelet Count","thous/mm3",207
+315,"SGOT","AST","U/L",55
+315,"SGPT","ALT","U/L",341
+315,"TBIL","Total Bilirubin","mg/dL",7
+315,"WBC","WBC","thous/mm3",374
+316,"CREA","Creatinine","mg/dL",11
+316,"PLAT2","Platelet Count","thous/mm3",168
+316,"SGOT","AST","U/L",119
+316,"SGPT","ALT","U/L",225
+316,"TBIL","Total Bilirubin","mg/dL",4
+316,"WBC","WBC","thous/mm3",372
+317,"CREA","Creatinine","mg/dL",11
+317,"PLAT2","Platelet Count","thous/mm3",384
+317,"SGOT","AST","U/L",55
+317,"SGPT","ALT","U/L",195
+317,"TBIL","Total Bilirubin","mg/dL",3
+317,"WBC","WBC","thous/mm3",460
+318,"CREA","Creatinine","mg/dL",10
+318,"PLAT2","Platelet Count","thous/mm3",149
+318,"SGOT","AST","U/L",195
+318,"SGPT","ALT","U/L",82
+318,"TBIL","Total Bilirubin","mg/dL",3
+318,"WBC","WBC","thous/mm3",315
+319,"CREA","Creatinine","mg/dL",12
+319,"PLAT2","Platelet Count","thous/mm3",176
+319,"SGOT","AST","U/L",195
+319,"SGPT","ALT","U/L",150
+319,"TBIL","Total Bilirubin","mg/dL",6
+319,"WBC","WBC","thous/mm3",372
+320,"CREA","Creatinine","mg/dL",10
+320,"PLAT2","Platelet Count","thous/mm3",81
+320,"SGOT","AST","U/L",172
+320,"SGPT","ALT","U/L",161
+320,"TBIL","Total Bilirubin","mg/dL",12
+320,"WBC","WBC","thous/mm3",442
+321,"CREA","Creatinine","mg/dL",10
+321,"PLAT2","Platelet Count","thous/mm3",143
+321,"SGOT","AST","U/L",150
+321,"SGPT","ALT","U/L",119
+321,"TBIL","Total Bilirubin","mg/dL",4
+321,"WBC","WBC","thous/mm3",467
+322,"CREA","Creatinine","mg/dL",11
+322,"PLAT2","Platelet Count","thous/mm3",254
+322,"SGOT","AST","U/L",352
+322,"SGPT","ALT","U/L",290
+322,"TBIL","Total Bilirubin","mg/dL",12
+322,"WBC","WBC","thous/mm3",468
+323,"CREA","Creatinine","mg/dL",9
+323,"PLAT2","Platelet Count","thous/mm3",262
+323,"SGOT","AST","U/L",139
+323,"SGPT","ALT","U/L",256
+323,"TBIL","Total Bilirubin","mg/dL",3
+323,"WBC","WBC","thous/mm3",418
+324,"CREA","Creatinine","mg/dL",12
+324,"PLAT2","Platelet Count","thous/mm3",183
+324,"SGOT","AST","U/L",119
+324,"SGPT","ALT","U/L",225
+324,"TBIL","Total Bilirubin","mg/dL",5
+324,"WBC","WBC","thous/mm3",379
+325,"CREA","Creatinine","mg/dL",10
+325,"PLAT2","Platelet Count","thous/mm3",166
+325,"SGOT","AST","U/L",60
+325,"SGPT","ALT","U/L",225
+325,"TBIL","Total Bilirubin","mg/dL",3
+325,"WBC","WBC","thous/mm3",449
+326,"CREA","Creatinine","mg/dL",9
+326,"PLAT2","Platelet Count","thous/mm3",157
+326,"SGOT","AST","U/L",172
+326,"SGPT","ALT","U/L",206
+326,"TBIL","Total Bilirubin","mg/dL",6
+326,"WBC","WBC","thous/mm3",377
+327,"CREA","Creatinine","mg/dL",9
+327,"PLAT2","Platelet Count","thous/mm3",241
+327,"SGOT","AST","U/L",41
+327,"SGPT","ALT","U/L",55
+327,"TBIL","Total Bilirubin","mg/dL",4
+327,"WBC","WBC","thous/mm3",21
+328,"CREA","Creatinine","mg/dL",8
+328,"PLAT2","Platelet Count","thous/mm3",411
+328,"SGOT","AST","U/L",341
+328,"SGPT","ALT","U/L",471
+328,"TBIL","Total Bilirubin","mg/dL",5
+328,"WBC","WBC","thous/mm3",38
+329,"CREA","Creatinine","mg/dL",8
+329,"PLAT2","Platelet Count","thous/mm3",123
+329,"SGOT","AST","U/L",82
+329,"SGPT","ALT","U/L",32
+329,"TBIL","Total Bilirubin","mg/dL",5
+329,"WBC","WBC","thous/mm3",421
+330,"CREA","Creatinine","mg/dL",11
+330,"PLAT2","Platelet Count","thous/mm3",231
+330,"SGOT","AST","U/L",55
+330,"SGPT","ALT","U/L",372
+330,"TBIL","Total Bilirubin","mg/dL",5
+330,"WBC","WBC","thous/mm3",419
+331,"CREA","Creatinine","mg/dL",8
+331,"PLAT2","Platelet Count","thous/mm3",282
+331,"SGOT","AST","U/L",161
+331,"SGPT","ALT","U/L",66
+331,"TBIL","Total Bilirubin","mg/dL",2
+331,"WBC","WBC","thous/mm3",312
+332,"CREA","Creatinine","mg/dL",11
+332,"PLAT2","Platelet Count","thous/mm3",407
+332,"SGOT","AST","U/L",139
+332,"SGPT","ALT","U/L",66
+332,"TBIL","Total Bilirubin","mg/dL",4
+332,"WBC","WBC","thous/mm3",42
+333,"CREA","Creatinine","mg/dL",11
+333,"PLAT2","Platelet Count","thous/mm3",71
+333,"SGOT","AST","U/L",184
+333,"SGPT","ALT","U/L",129
+333,"TBIL","Total Bilirubin","mg/dL",13
+333,"WBC","WBC","thous/mm3",381
+334,"CREA","Creatinine","mg/dL",10
+334,"PLAT2","Platelet Count","thous/mm3",157
+334,"SGOT","AST","U/L",129
+334,"SGPT","ALT","U/L",21
+334,"TBIL","Total Bilirubin","mg/dL",6
+334,"WBC","WBC","thous/mm3",449
+335,"CREA","Creatinine","mg/dL",6
+335,"PLAT2","Platelet Count","thous/mm3",189
+335,"SGOT","AST","U/L",109
+335,"SGPT","ALT","U/L",333
+335,"TBIL","Total Bilirubin","mg/dL",9
+335,"WBC","WBC","thous/mm3",421
+336,"CREA","Creatinine","mg/dL",9
+336,"PLAT2","Platelet Count","thous/mm3",273
+336,"SGOT","AST","U/L",73
+336,"SGPT","ALT","U/L",195
+336,"TBIL","Total Bilirubin","mg/dL",6
+336,"WBC","WBC","thous/mm3",416
+337,"CREA","Creatinine","mg/dL",9
+337,"PLAT2","Platelet Count","thous/mm3",253
+337,"SGOT","AST","U/L",139
+337,"SGPT","ALT","U/L",172
+337,"TBIL","Total Bilirubin","mg/dL",6
+337,"WBC","WBC","thous/mm3",446
+338,"CREA","Creatinine","mg/dL",11
+338,"PLAT2","Platelet Count","thous/mm3",182
+338,"SGOT","AST","U/L",150
+338,"SGPT","ALT","U/L",206
+338,"TBIL","Total Bilirubin","mg/dL",4
+338,"WBC","WBC","thous/mm3",459
+339,"CREA","Creatinine","mg/dL",13
+339,"PLAT2","Platelet Count","thous/mm3",280
+339,"SGOT","AST","U/L",82
+339,"SGPT","ALT","U/L",92
+339,"TBIL","Total Bilirubin","mg/dL",8
+339,"WBC","WBC","thous/mm3",466
+340,"CREA","Creatinine","mg/dL",11
+340,"PLAT2","Platelet Count","thous/mm3",141
+340,"SGOT","AST","U/L",73
+340,"SGPT","ALT","U/L",73
+340,"TBIL","Total Bilirubin","mg/dL",4
+340,"WBC","WBC","thous/mm3",420
+341,"CREA","Creatinine","mg/dL",9
+341,"PLAT2","Platelet Count","thous/mm3",130
+341,"SGOT","AST","U/L",109
+341,"SGPT","ALT","U/L",73
+341,"TBIL","Total Bilirubin","mg/dL",5
+341,"WBC","WBC","thous/mm3",421
+342,"CREA","Creatinine","mg/dL",8
+342,"PLAT2","Platelet Count","thous/mm3",148
+342,"SGOT","AST","U/L",66
+342,"SGPT","ALT","U/L",66
+342,"TBIL","Total Bilirubin","mg/dL",6
+342,"WBC","WBC","thous/mm3",374
+343,"CREA","Creatinine","mg/dL",9
+343,"PLAT2","Platelet Count","thous/mm3",264
+343,"SGOT","AST","U/L",119
+343,"SGPT","ALT","U/L",325
+343,"TBIL","Total Bilirubin","mg/dL",10
+343,"WBC","WBC","thous/mm3",219
+344,"CREA","Creatinine","mg/dL",13
+344,"PLAT2","Platelet Count","thous/mm3",152
+344,"SGOT","AST","U/L",66
+344,"SGPT","ALT","U/L",206
+344,"TBIL","Total Bilirubin","mg/dL",3
+344,"WBC","WBC","thous/mm3",311
+345,"CREA","Creatinine","mg/dL",14
+345,"PLAT2","Platelet Count","thous/mm3",337
+345,"SGOT","AST","U/L",82
+345,"SGPT","ALT","U/L",139
+345,"TBIL","Total Bilirubin","mg/dL",4
+345,"WBC","WBC","thous/mm3",419
+346,"CREA","Creatinine","mg/dL",7
+346,"PLAT2","Platelet Count","thous/mm3",322
+346,"SGOT","AST","U/L",139
+346,"SGPT","ALT","U/L",82
+346,"TBIL","Total Bilirubin","mg/dL",5
+346,"WBC","WBC","thous/mm3",381
+347,"CREA","Creatinine","mg/dL",10
+347,"PLAT2","Platelet Count","thous/mm3",145
+347,"SGOT","AST","U/L",172
+347,"SGPT","ALT","U/L",109
+347,"TBIL","Total Bilirubin","mg/dL",5
+347,"WBC","WBC","thous/mm3",443
+348,"CREA","Creatinine","mg/dL",9
+348,"PLAT2","Platelet Count","thous/mm3",130
+348,"SGOT","AST","U/L",60
+348,"SGPT","ALT","U/L",347
+348,"TBIL","Total Bilirubin","mg/dL",6
+348,"WBC","WBC","thous/mm3",33
+349,"CREA","Creatinine","mg/dL",10
+349,"PLAT2","Platelet Count","thous/mm3",250
+349,"SGOT","AST","U/L",73
+349,"SGPT","ALT","U/L",16
+349,"TBIL","Total Bilirubin","mg/dL",5
+349,"WBC","WBC","thous/mm3",314
+350,"CREA","Creatinine","mg/dL",7
+350,"PLAT2","Platelet Count","thous/mm3",138
+350,"SGOT","AST","U/L",404
+350,"SGPT","ALT","U/L",161
+350,"TBIL","Total Bilirubin","mg/dL",7
+350,"WBC","WBC","thous/mm3",307
+351,"CREA","Creatinine","mg/dL",10
+351,"PLAT2","Platelet Count","thous/mm3",441
+351,"SGOT","AST","U/L",66
+351,"SGPT","ALT","U/L",341
+351,"TBIL","Total Bilirubin","mg/dL",6
+351,"WBC","WBC","thous/mm3",483
+352,"CREA","Creatinine","mg/dL",11
+352,"PLAT2","Platelet Count","thous/mm3",89
+352,"SGOT","AST","U/L",150
+352,"SGPT","ALT","U/L",161
+352,"TBIL","Total Bilirubin","mg/dL",9
+352,"WBC","WBC","thous/mm3",476
+353,"CREA","Creatinine","mg/dL",15
+353,"PLAT2","Platelet Count","thous/mm3",212
+353,"SGOT","AST","U/L",256
+353,"SGPT","ALT","U/L",476
+353,"TBIL","Total Bilirubin","mg/dL",7
+353,"WBC","WBC","thous/mm3",37
+354,"CREA","Creatinine","mg/dL",10
+354,"PLAT2","Platelet Count","thous/mm3",239
+354,"SGOT","AST","U/L",66
+354,"SGPT","ALT","U/L",294
+354,"TBIL","Total Bilirubin","mg/dL",3
+354,"WBC","WBC","thous/mm3",416
+355,"CREA","Creatinine","mg/dL",12
+355,"PLAT2","Platelet Count","thous/mm3",226
+355,"SGOT","AST","U/L",139
+355,"SGPT","ALT","U/L",129
+355,"TBIL","Total Bilirubin","mg/dL",5
+355,"WBC","WBC","thous/mm3",373
+356,"CREA","Creatinine","mg/dL",15
+356,"PLAT2","Platelet Count","thous/mm3",141
+356,"SGOT","AST","U/L",32
+356,"SGPT","ALT","U/L",195
+356,"TBIL","Total Bilirubin","mg/dL",4
+356,"WBC","WBC","thous/mm3",316
+357,"CREA","Creatinine","mg/dL",9
+357,"PLAT2","Platelet Count","thous/mm3",197
+357,"SGOT","AST","U/L",109
+357,"SGPT","ALT","U/L",246
+357,"TBIL","Total Bilirubin","mg/dL",5
+357,"WBC","WBC","thous/mm3",444
+358,"CREA","Creatinine","mg/dL",7
+358,"PLAT2","Platelet Count","thous/mm3",231
+358,"SGOT","AST","U/L",119
+358,"SGPT","ALT","U/L",459
+358,"TBIL","Total Bilirubin","mg/dL",4
+358,"WBC","WBC","thous/mm3",443
+359,"CREA","Creatinine","mg/dL",10
+359,"PLAT2","Platelet Count","thous/mm3",177
+359,"SGOT","AST","U/L",66
+359,"SGPT","ALT","U/L",470
+359,"TBIL","Total Bilirubin","mg/dL",5
+359,"WBC","WBC","thous/mm3",485
+360,"CREA","Creatinine","mg/dL",10
+360,"PLAT2","Platelet Count","thous/mm3",242
+360,"SGOT","AST","U/L",172
+360,"SGPT","ALT","U/L",184
+360,"TBIL","Total Bilirubin","mg/dL",7
+360,"WBC","WBC","thous/mm3",381
+361,"CREA","Creatinine","mg/dL",11
+361,"PLAT2","Platelet Count","thous/mm3",327
+361,"SGOT","AST","U/L",82
+361,"SGPT","ALT","U/L",82
+361,"TBIL","Total Bilirubin","mg/dL",11
+361,"WBC","WBC","thous/mm3",416
+362,"CREA","Creatinine","mg/dL",10
+362,"PLAT2","Platelet Count","thous/mm3",116
+362,"SGOT","AST","U/L",55
+362,"SGPT","ALT","U/L",82
+362,"TBIL","Total Bilirubin","mg/dL",11
+362,"WBC","WBC","thous/mm3",308
+363,"CREA","Creatinine","mg/dL",13
+363,"PLAT2","Platelet Count","thous/mm3",356
+363,"SGOT","AST","U/L",352
+363,"SGPT","ALT","U/L",129
+363,"TBIL","Total Bilirubin","mg/dL",4
+363,"WBC","WBC","thous/mm3",449
+364,"CREA","Creatinine","mg/dL",10
+364,"PLAT2","Platelet Count","thous/mm3",95
+364,"SGOT","AST","U/L",55
+364,"SGPT","ALT","U/L",119
+364,"TBIL","Total Bilirubin","mg/dL",9
+364,"WBC","WBC","thous/mm3",443
+365,"CREA","Creatinine","mg/dL",16
+365,"PLAT2","Platelet Count","thous/mm3",147
+365,"SGOT","AST","U/L",129
+365,"SGPT","ALT","U/L",442
+365,"TBIL","Total Bilirubin","mg/dL",13
+365,"WBC","WBC","thous/mm3",375
+366,"CREA","Creatinine","mg/dL",12
+366,"PLAT2","Platelet Count","thous/mm3",248
+366,"SGOT","AST","U/L",73
+366,"SGPT","ALT","U/L",246
+366,"TBIL","Total Bilirubin","mg/dL",5
+366,"WBC","WBC","thous/mm3",422
+367,"CREA","Creatinine","mg/dL",10
+367,"PLAT2","Platelet Count","thous/mm3",253
+367,"SGOT","AST","U/L",60
+367,"SGPT","ALT","U/L",21
+367,"TBIL","Total Bilirubin","mg/dL",10
+367,"WBC","WBC","thous/mm3",446
+368,"CREA","Creatinine","mg/dL",10
+368,"PLAT2","Platelet Count","thous/mm3",238
+368,"SGOT","AST","U/L",NA
+368,"SGPT","ALT","U/L",471
+368,"TBIL","Total Bilirubin","mg/dL",5
+368,"WBC","WBC","thous/mm3",464
+369,"CREA","Creatinine","mg/dL",10
+369,"PLAT2","Platelet Count","thous/mm3",360
+369,"SGOT","AST","U/L",150
+369,"SGPT","ALT","U/L",195
+369,"TBIL","Total Bilirubin","mg/dL",5
+369,"WBC","WBC","thous/mm3",467
+370,"CREA","Creatinine","mg/dL",9
+370,"PLAT2","Platelet Count","thous/mm3",166
+370,"SGOT","AST","U/L",195
+370,"SGPT","ALT","U/L",294
+370,"TBIL","Total Bilirubin","mg/dL",9
+370,"WBC","WBC","thous/mm3",443
+371,"CREA","Creatinine","mg/dL",12
+371,"PLAT2","Platelet Count","thous/mm3",131
+371,"SGOT","AST","U/L",32
+371,"SGPT","ALT","U/L",109
+371,"TBIL","Total Bilirubin","mg/dL",9
+371,"WBC","WBC","thous/mm3",223
+372,"CREA","Creatinine","mg/dL",8
+372,"PLAT2","Platelet Count","thous/mm3",85
+372,"SGOT","AST","U/L",150
+372,"SGPT","ALT","U/L",352
+372,"TBIL","Total Bilirubin","mg/dL",10
+372,"WBC","WBC","thous/mm3",418
+373,"CREA","Creatinine","mg/dL",8
+373,"PLAT2","Platelet Count","thous/mm3",305
+373,"SGOT","AST","U/L",82
+373,"SGPT","ALT","U/L",184
+373,"TBIL","Total Bilirubin","mg/dL",6
+373,"WBC","WBC","thous/mm3",311
+374,"CREA","Creatinine","mg/dL",11
+374,"PLAT2","Platelet Count","thous/mm3",336
+374,"SGOT","AST","U/L",32
+374,"SGPT","ALT","U/L",172
+374,"TBIL","Total Bilirubin","mg/dL",8
+374,"WBC","WBC","thous/mm3",416
+375,"CREA","Creatinine","mg/dL",11
+375,"PLAT2","Platelet Count","thous/mm3",260
+375,"SGOT","AST","U/L",394
+375,"SGPT","ALT","U/L",161
+375,"TBIL","Total Bilirubin","mg/dL",4
+375,"WBC","WBC","thous/mm3",316
+376,"CREA","Creatinine","mg/dL",8
+376,"PLAT2","Platelet Count","thous/mm3",186
+376,"SGOT","AST","U/L",119
+376,"SGPT","ALT","U/L",32
+376,"TBIL","Total Bilirubin","mg/dL",8
+376,"WBC","WBC","thous/mm3",420
+377,"CREA","Creatinine","mg/dL",10
+377,"PLAT2","Platelet Count","thous/mm3",113
+377,"SGOT","AST","U/L",32
+377,"SGPT","ALT","U/L",246
+377,"TBIL","Total Bilirubin","mg/dL",6
+377,"WBC","WBC","thous/mm3",380
+378,"CREA","Creatinine","mg/dL",12
+378,"PLAT2","Platelet Count","thous/mm3",251
+378,"SGOT","AST","U/L",139
+378,"SGPT","ALT","U/L",184
+378,"TBIL","Total Bilirubin","mg/dL",5
+378,"WBC","WBC","thous/mm3",218
+379,"CREA","Creatinine","mg/dL",8
+379,"PLAT2","Platelet Count","thous/mm3",213
+379,"SGOT","AST","U/L",60
+379,"SGPT","ALT","U/L",184
+379,"TBIL","Total Bilirubin","mg/dL",5
+379,"WBC","WBC","thous/mm3",421
+380,"CREA","Creatinine","mg/dL",12
+380,"PLAT2","Platelet Count","thous/mm3",85
+380,"SGOT","AST","U/L",82
+380,"SGPT","ALT","U/L",73
+380,"TBIL","Total Bilirubin","mg/dL",9
+380,"WBC","WBC","thous/mm3",424
+381,"CREA","Creatinine","mg/dL",11
+381,"PLAT2","Platelet Count","thous/mm3",231
+381,"SGOT","AST","U/L",129
+381,"SGPT","ALT","U/L",195
+381,"TBIL","Total Bilirubin","mg/dL",12
+381,"WBC","WBC","thous/mm3",460
+382,"CREA","Creatinine","mg/dL",9
+382,"PLAT2","Platelet Count","thous/mm3",383
+382,"SGOT","AST","U/L",150
+382,"SGPT","ALT","U/L",129
+382,"TBIL","Total Bilirubin","mg/dL",2
+382,"WBC","WBC","thous/mm3",416
+383,"CREA","Creatinine","mg/dL",13
+383,"PLAT2","Platelet Count","thous/mm3",188
+383,"SGOT","AST","U/L",60
+383,"SGPT","ALT","U/L",109
+383,"TBIL","Total Bilirubin","mg/dL",7
+383,"WBC","WBC","thous/mm3",450
+384,"CREA","Creatinine","mg/dL",13
+384,"PLAT2","Platelet Count","thous/mm3",472
+384,"SGOT","AST","U/L",387
+384,"SGPT","ALT","U/L",300
+384,"TBIL","Total Bilirubin","mg/dL",6
+384,"WBC","WBC","thous/mm3",461
+385,"CREA","Creatinine","mg/dL",10
+385,"PLAT2","Platelet Count","thous/mm3",271
+385,"SGOT","AST","U/L",172
+385,"SGPT","ALT","U/L",32
+385,"TBIL","Total Bilirubin","mg/dL",11
+385,"WBC","WBC","thous/mm3",416
+386,"CREA","Creatinine","mg/dL",12
+386,"PLAT2","Platelet Count","thous/mm3",130
+386,"SGOT","AST","U/L",82
+386,"SGPT","ALT","U/L",66
+386,"TBIL","Total Bilirubin","mg/dL",10
+386,"WBC","WBC","thous/mm3",312
+387,"CREA","Creatinine","mg/dL",10
+387,"PLAT2","Platelet Count","thous/mm3",95
+387,"SGOT","AST","U/L",66
+387,"SGPT","ALT","U/L",150
+387,"TBIL","Total Bilirubin","mg/dL",7
+387,"WBC","WBC","thous/mm3",312
+388,"CREA","Creatinine","mg/dL",10
+388,"PLAT2","Platelet Count","thous/mm3",112
+388,"SGOT","AST","U/L",172
+388,"SGPT","ALT","U/L",276
+388,"TBIL","Total Bilirubin","mg/dL",5
+388,"WBC","WBC","thous/mm3",480
+389,"CREA","Creatinine","mg/dL",10
+389,"PLAT2","Platelet Count","thous/mm3",176
+389,"SGOT","AST","U/L",225
+389,"SGPT","ALT","U/L",235
+389,"TBIL","Total Bilirubin","mg/dL",6
+389,"WBC","WBC","thous/mm3",479
+390,"CREA","Creatinine","mg/dL",11
+390,"PLAT2","Platelet Count","thous/mm3",125
+390,"SGOT","AST","U/L",184
+390,"SGPT","ALT","U/L",129
+390,"TBIL","Total Bilirubin","mg/dL",7
+390,"WBC","WBC","thous/mm3",378
+391,"CREA","Creatinine","mg/dL",8
+391,"PLAT2","Platelet Count","thous/mm3",196
+391,"SGOT","AST","U/L",109
+391,"SGPT","ALT","U/L",283
+391,"TBIL","Total Bilirubin","mg/dL",10
+391,"WBC","WBC","thous/mm3",376
+392,"CREA","Creatinine","mg/dL",9
+392,"PLAT2","Platelet Count","thous/mm3",392
+392,"SGOT","AST","U/L",290
+392,"SGPT","ALT","U/L",139
+392,"TBIL","Total Bilirubin","mg/dL",4
+392,"WBC","WBC","thous/mm3",446
+393,"CREA","Creatinine","mg/dL",11
+393,"PLAT2","Platelet Count","thous/mm3",198
+393,"SGOT","AST","U/L",109
+393,"SGPT","ALT","U/L",32
+393,"TBIL","Total Bilirubin","mg/dL",8
+393,"WBC","WBC","thous/mm3",314
+394,"CREA","Creatinine","mg/dL",9
+394,"PLAT2","Platelet Count","thous/mm3",232
+394,"SGOT","AST","U/L",66
+394,"SGPT","ALT","U/L",442
+394,"TBIL","Total Bilirubin","mg/dL",3
+394,"WBC","WBC","thous/mm3",418
+395,"CREA","Creatinine","mg/dL",8
+395,"PLAT2","Platelet Count","thous/mm3",268
+395,"SGOT","AST","U/L",172
+395,"SGPT","ALT","U/L",283
+395,"TBIL","Total Bilirubin","mg/dL",4
+395,"WBC","WBC","thous/mm3",464
+396,"CREA","Creatinine","mg/dL",12
+396,"PLAT2","Platelet Count","thous/mm3",236
+396,"SGOT","AST","U/L",60
+396,"SGPT","ALT","U/L",206
+396,"TBIL","Total Bilirubin","mg/dL",4
+396,"WBC","WBC","thous/mm3",314
+397,"CREA","Creatinine","mg/dL",10
+397,"PLAT2","Platelet Count","thous/mm3",135
+397,"SGOT","AST","U/L",161
+397,"SGPT","ALT","U/L",32
+397,"TBIL","Total Bilirubin","mg/dL",13
+397,"WBC","WBC","thous/mm3",418
+398,"CREA","Creatinine","mg/dL",12
+398,"PLAT2","Platelet Count","thous/mm3",113
+398,"SGOT","AST","U/L",225
+398,"SGPT","ALT","U/L",129
+398,"TBIL","Total Bilirubin","mg/dL",9
+398,"WBC","WBC","thous/mm3",442
+399,"CREA","Creatinine","mg/dL",12
+399,"PLAT2","Platelet Count","thous/mm3",95
+399,"SGOT","AST","U/L",60
+399,"SGPT","ALT","U/L",92
+399,"TBIL","Total Bilirubin","mg/dL",6
+399,"WBC","WBC","thous/mm3",445
+400,"CREA","Creatinine","mg/dL",12
+400,"PLAT2","Platelet Count","thous/mm3",125
+400,"SGOT","AST","U/L",129
+400,"SGPT","ALT","U/L",267
+400,"TBIL","Total Bilirubin","mg/dL",12
+400,"WBC","WBC","thous/mm3",415
+401,"CREA","Creatinine","mg/dL",11
+401,"PLAT2","Platelet Count","thous/mm3",297
+401,"SGOT","AST","U/L",82
+401,"SGPT","ALT","U/L",119
+401,"TBIL","Total Bilirubin","mg/dL",5
+401,"WBC","WBC","thous/mm3",467
+402,"CREA","Creatinine","mg/dL",7
+402,"PLAT2","Platelet Count","thous/mm3",78
+402,"SGOT","AST","U/L",283
+402,"SGPT","ALT","U/L",361
+402,"TBIL","Total Bilirubin","mg/dL",7
+402,"WBC","WBC","thous/mm3",312
+403,"CREA","Creatinine","mg/dL",8
+403,"PLAT2","Platelet Count","thous/mm3",255
+403,"SGOT","AST","U/L",172
+403,"SGPT","ALT","U/L",206
+403,"TBIL","Total Bilirubin","mg/dL",7
+403,"WBC","WBC","thous/mm3",444
+404,"CREA","Creatinine","mg/dL",10
+404,"PLAT2","Platelet Count","thous/mm3",233
+404,"SGOT","AST","U/L",109
+404,"SGPT","ALT","U/L",150
+404,"TBIL","Total Bilirubin","mg/dL",3
+404,"WBC","WBC","thous/mm3",419
+405,"CREA","Creatinine","mg/dL",6
+405,"PLAT2","Platelet Count","thous/mm3",262
+405,"SGOT","AST","U/L",352
+405,"SGPT","ALT","U/L",66
+405,"TBIL","Total Bilirubin","mg/dL",4
+405,"WBC","WBC","thous/mm3",468
+406,"CREA","Creatinine","mg/dL",14
+406,"PLAT2","Platelet Count","thous/mm3",232
+406,"SGOT","AST","U/L",109
+406,"SGPT","ALT","U/L",109
+406,"TBIL","Total Bilirubin","mg/dL",9
+406,"WBC","WBC","thous/mm3",462
+407,"CREA","Creatinine","mg/dL",11
+407,"PLAT2","Platelet Count","thous/mm3",163
+407,"SGOT","AST","U/L",129
+407,"SGPT","ALT","U/L",55
+407,"TBIL","Total Bilirubin","mg/dL",6
+407,"WBC","WBC","thous/mm3",448
+408,"CREA","Creatinine","mg/dL",9
+408,"PLAT2","Platelet Count","thous/mm3",171
+408,"SGOT","AST","U/L",109
+408,"SGPT","ALT","U/L",195
+408,"TBIL","Total Bilirubin","mg/dL",4
+408,"WBC","WBC","thous/mm3",423
+409,"CREA","Creatinine","mg/dL",8
+409,"PLAT2","Platelet Count","thous/mm3",326
+409,"SGOT","AST","U/L",73
+409,"SGPT","ALT","U/L",73
+409,"TBIL","Total Bilirubin","mg/dL",7
+409,"WBC","WBC","thous/mm3",448
+410,"CREA","Creatinine","mg/dL",14
+410,"PLAT2","Platelet Count","thous/mm3",253
+410,"SGOT","AST","U/L",139
+410,"SGPT","ALT","U/L",267
+410,"TBIL","Total Bilirubin","mg/dL",8
+410,"WBC","WBC","thous/mm3",33
+411,"CREA","Creatinine","mg/dL",8
+411,"PLAT2","Platelet Count","thous/mm3",132
+411,"SGOT","AST","U/L",246
+411,"SGPT","ALT","U/L",60
+411,"TBIL","Total Bilirubin","mg/dL",6
+411,"WBC","WBC","thous/mm3",224
+412,"CREA","Creatinine","mg/dL",11
+412,"PLAT2","Platelet Count","thous/mm3",167
+412,"SGOT","AST","U/L",172
+412,"SGPT","ALT","U/L",290
+412,"TBIL","Total Bilirubin","mg/dL",4
+412,"WBC","WBC","thous/mm3",379
+413,"CREA","Creatinine","mg/dL",8
+413,"PLAT2","Platelet Count","thous/mm3",140
+413,"SGOT","AST","U/L",172
+413,"SGPT","ALT","U/L",129
+413,"TBIL","Total Bilirubin","mg/dL",4
+413,"WBC","WBC","thous/mm3",377
+414,"CREA","Creatinine","mg/dL",9
+414,"PLAT2","Platelet Count","thous/mm3",138
+414,"SGOT","AST","U/L",172
+414,"SGPT","ALT","U/L",66
+414,"TBIL","Total Bilirubin","mg/dL",5
+414,"WBC","WBC","thous/mm3",449
+415,"CREA","Creatinine","mg/dL",6
+415,"PLAT2","Platelet Count","thous/mm3",332
+415,"SGOT","AST","U/L",82
+415,"SGPT","ALT","U/L",139
+415,"TBIL","Total Bilirubin","mg/dL",4
+415,"WBC","WBC","thous/mm3",448
+416,"CREA","Creatinine","mg/dL",8
+416,"PLAT2","Platelet Count","thous/mm3",366
+416,"SGOT","AST","U/L",184
+416,"SGPT","ALT","U/L",82
+416,"TBIL","Total Bilirubin","mg/dL",2
+416,"WBC","WBC","thous/mm3",482
+417,"CREA","Creatinine","mg/dL",11
+417,"PLAT2","Platelet Count","thous/mm3",99
+417,"SGOT","AST","U/L",92
+417,"SGPT","ALT","U/L",333
+417,"TBIL","Total Bilirubin","mg/dL",3
+417,"WBC","WBC","thous/mm3",465
+418,"CREA","Creatinine","mg/dL",6
+418,"PLAT2","Platelet Count","thous/mm3",135
+418,"SGOT","AST","U/L",92
+418,"SGPT","ALT","U/L",32
+418,"TBIL","Total Bilirubin","mg/dL",4
+418,"WBC","WBC","thous/mm3",419
+419,"CREA","Creatinine","mg/dL",11
+419,"PLAT2","Platelet Count","thous/mm3",154
+419,"SGOT","AST","U/L",129
+419,"SGPT","ALT","U/L",66
+419,"TBIL","Total Bilirubin","mg/dL",7
+419,"WBC","WBC","thous/mm3",381
+420,"CREA","Creatinine","mg/dL",8
+420,"PLAT2","Platelet Count","thous/mm3",233
+420,"SGOT","AST","U/L",55
+420,"SGPT","ALT","U/L",161
+420,"TBIL","Total Bilirubin","mg/dL",3
+420,"WBC","WBC","thous/mm3",424
+421,"CREA","Creatinine","mg/dL",9
+421,"PLAT2","Platelet Count","thous/mm3",162
+421,"SGOT","AST","U/L",235
+421,"SGPT","ALT","U/L",82
+421,"TBIL","Total Bilirubin","mg/dL",4
+421,"WBC","WBC","thous/mm3",416
+422,"CREA","Creatinine","mg/dL",11
+422,"PLAT2","Platelet Count","thous/mm3",342
+422,"SGOT","AST","U/L",92
+422,"SGPT","ALT","U/L",361
+422,"TBIL","Total Bilirubin","mg/dL",8
+422,"WBC","WBC","thous/mm3",419
+423,"CREA","Creatinine","mg/dL",11
+423,"PLAT2","Platelet Count","thous/mm3",113
+423,"SGOT","AST","U/L",82
+423,"SGPT","ALT","U/L",60
+423,"TBIL","Total Bilirubin","mg/dL",7
+423,"WBC","WBC","thous/mm3",416
+424,"CREA","Creatinine","mg/dL",8
+424,"PLAT2","Platelet Count","thous/mm3",302
+424,"SGOT","AST","U/L",150
+424,"SGPT","ALT","U/L",246
+424,"TBIL","Total Bilirubin","mg/dL",2
+424,"WBC","WBC","thous/mm3",316
+425,"CREA","Creatinine","mg/dL",10
+425,"PLAT2","Platelet Count","thous/mm3",174
+425,"SGOT","AST","U/L",73
+425,"SGPT","ALT","U/L",225
+425,"TBIL","Total Bilirubin","mg/dL",4
+425,"WBC","WBC","thous/mm3",464
+426,"CREA","Creatinine","mg/dL",11
+426,"PLAT2","Platelet Count","thous/mm3",348
+426,"SGOT","AST","U/L",119
+426,"SGPT","ALT","U/L",73
+426,"TBIL","Total Bilirubin","mg/dL",10
+426,"WBC","WBC","thous/mm3",478
+427,"CREA","Creatinine","mg/dL",9
+427,"PLAT2","Platelet Count","thous/mm3",211
+427,"SGOT","AST","U/L",184
+427,"SGPT","ALT","U/L",267
+427,"TBIL","Total Bilirubin","mg/dL",4
+427,"WBC","WBC","thous/mm3",375
+428,"CREA","Creatinine","mg/dL",16
+428,"PLAT2","Platelet Count","thous/mm3",48
+428,"SGOT","AST","U/L",109
+428,"SGPT","ALT","U/L",184
+428,"TBIL","Total Bilirubin","mg/dL",9
+428,"WBC","WBC","thous/mm3",375
+429,"CREA","Creatinine","mg/dL",9
+429,"PLAT2","Platelet Count","thous/mm3",147
+429,"SGOT","AST","U/L",129
+429,"SGPT","ALT","U/L",267
+429,"TBIL","Total Bilirubin","mg/dL",6
+429,"WBC","WBC","thous/mm3",421
+430,"CREA","Creatinine","mg/dL",8
+430,"PLAT2","Platelet Count","thous/mm3",390
+430,"SGOT","AST","U/L",82
+430,"SGPT","ALT","U/L",184
+430,"TBIL","Total Bilirubin","mg/dL",5
+430,"WBC","WBC","thous/mm3",447
+431,"CREA","Creatinine","mg/dL",12
+431,"PLAT2","Platelet Count","thous/mm3",144
+431,"SGOT","AST","U/L",60
+431,"SGPT","ALT","U/L",60
+431,"TBIL","Total Bilirubin","mg/dL",9
+431,"WBC","WBC","thous/mm3",120
+432,"CREA","Creatinine","mg/dL",16
+432,"PLAT2","Platelet Count","thous/mm3",227
+432,"SGOT","AST","U/L",60
+432,"SGPT","ALT","U/L",60
+432,"TBIL","Total Bilirubin","mg/dL",3
+432,"WBC","WBC","thous/mm3",480
+433,"CREA","Creatinine","mg/dL",11
+433,"PLAT2","Platelet Count","thous/mm3",138
+433,"SGOT","AST","U/L",60
+433,"SGPT","ALT","U/L",139
+433,"TBIL","Total Bilirubin","mg/dL",5
+433,"WBC","WBC","thous/mm3",379
+434,"CREA","Creatinine","mg/dL",12
+434,"PLAT2","Platelet Count","thous/mm3",268
+434,"SGOT","AST","U/L",92
+434,"SGPT","ALT","U/L",474
+434,"TBIL","Total Bilirubin","mg/dL",4
+434,"WBC","WBC","thous/mm3",32
+435,"CREA","Creatinine","mg/dL",8
+435,"PLAT2","Platelet Count","thous/mm3",236
+435,"SGOT","AST","U/L",55
+435,"SGPT","ALT","U/L",119
+435,"TBIL","Total Bilirubin","mg/dL",4
+435,"WBC","WBC","thous/mm3",442
+436,"CREA","Creatinine","mg/dL",12
+436,"PLAT2","Platelet Count","thous/mm3",145
+436,"SGOT","AST","U/L",195
+436,"SGPT","ALT","U/L",109
+436,"TBIL","Total Bilirubin","mg/dL",5
+436,"WBC","WBC","thous/mm3",379
+437,"CREA","Creatinine","mg/dL",7
+437,"PLAT2","Platelet Count","thous/mm3",232
+437,"SGOT","AST","U/L",150
+437,"SGPT","ALT","U/L",150
+437,"TBIL","Total Bilirubin","mg/dL",7
+437,"WBC","WBC","thous/mm3",424
+438,"CREA","Creatinine","mg/dL",11
+438,"PLAT2","Platelet Count","thous/mm3",385
+438,"SGOT","AST","U/L",225
+438,"SGPT","ALT","U/L",459
+438,"TBIL","Total Bilirubin","mg/dL",6
+438,"WBC","WBC","thous/mm3",51
+439,"CREA","Creatinine","mg/dL",10
+439,"PLAT2","Platelet Count","thous/mm3",205
+439,"SGOT","AST","U/L",66
+439,"SGPT","ALT","U/L",300
+439,"TBIL","Total Bilirubin","mg/dL",7
+439,"WBC","WBC","thous/mm3",415
+440,"CREA","Creatinine","mg/dL",13
+440,"PLAT2","Platelet Count","thous/mm3",166
+440,"SGOT","AST","U/L",109
+440,"SGPT","ALT","U/L",172
+440,"TBIL","Total Bilirubin","mg/dL",10
+440,"WBC","WBC","thous/mm3",420
+441,"CREA","Creatinine","mg/dL",9
+441,"PLAT2","Platelet Count","thous/mm3",176
+441,"SGOT","AST","U/L",161
+441,"SGPT","ALT","U/L",66
+441,"TBIL","Total Bilirubin","mg/dL",4
+441,"WBC","WBC","thous/mm3",379
+442,"CREA","Creatinine","mg/dL",11
+442,"PLAT2","Platelet Count","thous/mm3",125
+442,"SGOT","AST","U/L",150
+442,"SGPT","ALT","U/L",333
+442,"TBIL","Total Bilirubin","mg/dL",4
+442,"WBC","WBC","thous/mm3",420
+443,"CREA","Creatinine","mg/dL",10
+443,"PLAT2","Platelet Count","thous/mm3",182
+443,"SGOT","AST","U/L",150
+443,"SGPT","ALT","U/L",55
+443,"TBIL","Total Bilirubin","mg/dL",5
+443,"WBC","WBC","thous/mm3",308
+444,"CREA","Creatinine","mg/dL",6
+444,"PLAT2","Platelet Count","thous/mm3",98
+444,"SGOT","AST","U/L",82
+444,"SGPT","ALT","U/L",82
+444,"TBIL","Total Bilirubin","mg/dL",459
+444,"WBC","WBC","thous/mm3",314
+445,"CREA","Creatinine","mg/dL",10
+445,"PLAT2","Platelet Count","thous/mm3",357
+445,"SGOT","AST","U/L",82
+445,"SGPT","ALT","U/L",41
+445,"TBIL","Total Bilirubin","mg/dL",4
+445,"WBC","WBC","thous/mm3",375
+446,"CREA","Creatinine","mg/dL",7
+446,"PLAT2","Platelet Count","thous/mm3",116
+446,"SGOT","AST","U/L",172
+446,"SGPT","ALT","U/L",55
+446,"TBIL","Total Bilirubin","mg/dL",5
+446,"WBC","WBC","thous/mm3",476
+447,"CREA","Creatinine","mg/dL",10
+447,"PLAT2","Platelet Count","thous/mm3",136
+447,"SGOT","AST","U/L",391
+447,"SGPT","ALT","U/L",235
+447,"TBIL","Total Bilirubin","mg/dL",6
+447,"WBC","WBC","thous/mm3",422
+448,"CREA","Creatinine","mg/dL",6
+448,"PLAT2","Platelet Count","thous/mm3",227
+448,"SGOT","AST","U/L",66
+448,"SGPT","ALT","U/L",161
+448,"TBIL","Total Bilirubin","mg/dL",5
+448,"WBC","WBC","thous/mm3",380
+449,"CREA","Creatinine","mg/dL",7
+449,"PLAT2","Platelet Count","thous/mm3",127
+449,"SGOT","AST","U/L",109
+449,"SGPT","ALT","U/L",129
+449,"TBIL","Total Bilirubin","mg/dL",5
+449,"WBC","WBC","thous/mm3",417
+450,"CREA","Creatinine","mg/dL",10
+450,"PLAT2","Platelet Count","thous/mm3",260
+450,"SGOT","AST","U/L",55
+450,"SGPT","ALT","U/L",150
+450,"TBIL","Total Bilirubin","mg/dL",5
+450,"WBC","WBC","thous/mm3",381
+451,"CREA","Creatinine","mg/dL",12
+451,"PLAT2","Platelet Count","thous/mm3",144
+451,"SGOT","AST","U/L",235
+451,"SGPT","ALT","U/L",341
+451,"TBIL","Total Bilirubin","mg/dL",6
+451,"WBC","WBC","thous/mm3",464
+452,"CREA","Creatinine","mg/dL",10
+452,"PLAT2","Platelet Count","thous/mm3",156
+452,"SGOT","AST","U/L",129
+452,"SGPT","ALT","U/L",382
+452,"TBIL","Total Bilirubin","mg/dL",12
+452,"WBC","WBC","thous/mm3",50
+453,"CREA","Creatinine","mg/dL",12
+453,"PLAT2","Platelet Count","thous/mm3",248
+453,"SGOT","AST","U/L",150
+453,"SGPT","ALT","U/L",317
+453,"TBIL","Total Bilirubin","mg/dL",5
+453,"WBC","WBC","thous/mm3",415
+454,"CREA","Creatinine","mg/dL",12
+454,"PLAT2","Platelet Count","thous/mm3",124
+454,"SGOT","AST","U/L",129
+454,"SGPT","ALT","U/L",476
+454,"TBIL","Total Bilirubin","mg/dL",9
+454,"WBC","WBC","thous/mm3",423
+455,"CREA","Creatinine","mg/dL",10
+455,"PLAT2","Platelet Count","thous/mm3",199
+455,"SGOT","AST","U/L",32
+455,"SGPT","ALT","U/L",41
+455,"TBIL","Total Bilirubin","mg/dL",3
+455,"WBC","WBC","thous/mm3",422
+456,"CREA","Creatinine","mg/dL",7
+456,"PLAT2","Platelet Count","thous/mm3",189
+456,"SGOT","AST","U/L",92
+456,"SGPT","ALT","U/L",129
+456,"TBIL","Total Bilirubin","mg/dL",5
+456,"WBC","WBC","thous/mm3",467
+457,"CREA","Creatinine","mg/dL",6
+457,"PLAT2","Platelet Count","thous/mm3",167
+457,"SGOT","AST","U/L",49
+457,"SGPT","ALT","U/L",325
+457,"TBIL","Total Bilirubin","mg/dL",7
+457,"WBC","WBC","thous/mm3",421
+458,"CREA","Creatinine","mg/dL",7
+458,"PLAT2","Platelet Count","thous/mm3",171
+458,"SGOT","AST","U/L",109
+458,"SGPT","ALT","U/L",119
+458,"TBIL","Total Bilirubin","mg/dL",7
+458,"WBC","WBC","thous/mm3",449
+459,"CREA","Creatinine","mg/dL",9
+459,"PLAT2","Platelet Count","thous/mm3",141
+459,"SGOT","AST","U/L",92
+459,"SGPT","ALT","U/L",290
+459,"TBIL","Total Bilirubin","mg/dL",4
+459,"WBC","WBC","thous/mm3",419
+460,"CREA","Creatinine","mg/dL",17
+460,"PLAT2","Platelet Count","thous/mm3",192
+460,"SGOT","AST","U/L",172
+460,"SGPT","ALT","U/L",235
+460,"TBIL","Total Bilirubin","mg/dL",7
+460,"WBC","WBC","thous/mm3",28
+461,"CREA","Creatinine","mg/dL",10
+461,"PLAT2","Platelet Count","thous/mm3",207
+461,"SGOT","AST","U/L",60
+461,"SGPT","ALT","U/L",367
+461,"TBIL","Total Bilirubin","mg/dL",8
+461,"WBC","WBC","thous/mm3",419
+462,"CREA","Creatinine","mg/dL",10
+462,"PLAT2","Platelet Count","thous/mm3",182
+462,"SGOT","AST","U/L",440
+462,"SGPT","ALT","U/L",276
+462,"TBIL","Total Bilirubin","mg/dL",5
+462,"WBC","WBC","thous/mm3",24
+463,"CREA","Creatinine","mg/dL",10
+463,"PLAT2","Platelet Count","thous/mm3",194
+463,"SGOT","AST","U/L",129
+463,"SGPT","ALT","U/L",267
+463,"TBIL","Total Bilirubin","mg/dL",5
+463,"WBC","WBC","thous/mm3",372
+464,"CREA","Creatinine","mg/dL",12
+464,"PLAT2","Platelet Count","thous/mm3",240
+464,"SGOT","AST","U/L",172
+464,"SGPT","ALT","U/L",267
+464,"TBIL","Total Bilirubin","mg/dL",5
+464,"WBC","WBC","thous/mm3",424
+465,"CREA","Creatinine","mg/dL",9
+465,"PLAT2","Platelet Count","thous/mm3",230
+465,"SGOT","AST","U/L",139
+465,"SGPT","ALT","U/L",139
+465,"TBIL","Total Bilirubin","mg/dL",6
+465,"WBC","WBC","thous/mm3",422
+466,"CREA","Creatinine","mg/dL",7
+466,"PLAT2","Platelet Count","thous/mm3",226
+466,"SGOT","AST","U/L",256
+466,"SGPT","ALT","U/L",66
+466,"TBIL","Total Bilirubin","mg/dL",7
+466,"WBC","WBC","thous/mm3",449
+467,"CREA","Creatinine","mg/dL",9
+467,"PLAT2","Platelet Count","thous/mm3",249
+467,"SGOT","AST","U/L",195
+467,"SGPT","ALT","U/L",195
+467,"TBIL","Total Bilirubin","mg/dL",9
+467,"WBC","WBC","thous/mm3",450
+468,"CREA","Creatinine","mg/dL",8
+468,"PLAT2","Platelet Count","thous/mm3",138
+468,"SGOT","AST","U/L",119
+468,"SGPT","ALT","U/L",66
+468,"TBIL","Total Bilirubin","mg/dL",3
+468,"WBC","WBC","thous/mm3",33
+469,"CREA","Creatinine","mg/dL",12
+469,"PLAT2","Platelet Count","thous/mm3",198
+469,"SGOT","AST","U/L",150
+469,"SGPT","ALT","U/L",92
+469,"TBIL","Total Bilirubin","mg/dL",6
+469,"WBC","WBC","thous/mm3",381
+470,"CREA","Creatinine","mg/dL",8
+470,"PLAT2","Platelet Count","thous/mm3",114
+470,"SGOT","AST","U/L",73
+470,"SGPT","ALT","U/L",49
+470,"TBIL","Total Bilirubin","mg/dL",8
+470,"WBC","WBC","thous/mm3",415
+471,"CREA","Creatinine","mg/dL",6
+471,"PLAT2","Platelet Count","thous/mm3",200
+471,"SGOT","AST","U/L",129
+471,"SGPT","ALT","U/L",139
+471,"TBIL","Total Bilirubin","mg/dL",4
+471,"WBC","WBC","thous/mm3",423
+472,"CREA","Creatinine","mg/dL",8
+472,"PLAT2","Platelet Count","thous/mm3",359
+472,"SGOT","AST","U/L",139
+472,"SGPT","ALT","U/L",119
+472,"TBIL","Total Bilirubin","mg/dL",5
+472,"WBC","WBC","thous/mm3",478
+473,"CREA","Creatinine","mg/dL",9
+473,"PLAT2","Platelet Count","thous/mm3",125
+473,"SGOT","AST","U/L",109
+473,"SGPT","ALT","U/L",55
+473,"TBIL","Total Bilirubin","mg/dL",12
+473,"WBC","WBC","thous/mm3",448
+474,"CREA","Creatinine","mg/dL",9
+474,"PLAT2","Platelet Count","thous/mm3",128
+474,"SGOT","AST","U/L",139
+474,"SGPT","ALT","U/L",66
+474,"TBIL","Total Bilirubin","mg/dL",6
+474,"WBC","WBC","thous/mm3",316
+475,"CREA","Creatinine","mg/dL",9
+475,"PLAT2","Platelet Count","thous/mm3",260
+475,"SGOT","AST","U/L",119
+475,"SGPT","ALT","U/L",92
+475,"TBIL","Total Bilirubin","mg/dL",5
+475,"WBC","WBC","thous/mm3",464
+476,"CREA","Creatinine","mg/dL",9
+476,"PLAT2","Platelet Count","thous/mm3",177
+476,"SGOT","AST","U/L",317
+476,"SGPT","ALT","U/L",49
+476,"TBIL","Total Bilirubin","mg/dL",6
+476,"WBC","WBC","thous/mm3",314
+477,"CREA","Creatinine","mg/dL",10
+477,"PLAT2","Platelet Count","thous/mm3",188
+477,"SGOT","AST","U/L",119
+477,"SGPT","ALT","U/L",361
+477,"TBIL","Total Bilirubin","mg/dL",6
+477,"WBC","WBC","thous/mm3",377
+478,"CREA","Creatinine","mg/dL",14
+478,"PLAT2","Platelet Count","thous/mm3",116
+478,"SGOT","AST","U/L",82
+478,"SGPT","ALT","U/L",109
+478,"TBIL","Total Bilirubin","mg/dL",6
+478,"WBC","WBC","thous/mm3",373
+479,"CREA","Creatinine","mg/dL",11
+479,"PLAT2","Platelet Count","thous/mm3",81
+479,"SGOT","AST","U/L",235
+479,"SGPT","ALT","U/L",66
+479,"TBIL","Total Bilirubin","mg/dL",20
+479,"WBC","WBC","thous/mm3",416
+480,"CREA","Creatinine","mg/dL",8
+480,"PLAT2","Platelet Count","thous/mm3",368
+480,"SGOT","AST","U/L",139
+480,"SGPT","ALT","U/L",225
+480,"TBIL","Total Bilirubin","mg/dL",4
+480,"WBC","WBC","thous/mm3",422
+481,"CREA","Creatinine","mg/dL",10
+481,"PLAT2","Platelet Count","thous/mm3",141
+481,"SGOT","AST","U/L",49
+481,"SGPT","ALT","U/L",119
+481,"TBIL","Total Bilirubin","mg/dL",3
+481,"WBC","WBC","thous/mm3",448
+482,"CREA","Creatinine","mg/dL",10
+482,"PLAT2","Platelet Count","thous/mm3",253
+482,"SGOT","AST","U/L",437
+482,"SGPT","ALT","U/L",195
+482,"TBIL","Total Bilirubin","mg/dL",8
+482,"WBC","WBC","thous/mm3",24
+483,"CREA","Creatinine","mg/dL",9
+483,"PLAT2","Platelet Count","thous/mm3",157
+483,"SGOT","AST","U/L",172
+483,"SGPT","ALT","U/L",352
+483,"TBIL","Total Bilirubin","mg/dL",12
+483,"WBC","WBC","thous/mm3",375
+484,"CREA","Creatinine","mg/dL",11
+484,"PLAT2","Platelet Count","thous/mm3",152
+484,"SGOT","AST","U/L",206
+484,"SGPT","ALT","U/L",66
+484,"TBIL","Total Bilirubin","mg/dL",6
+484,"WBC","WBC","thous/mm3",447
+485,"CREA","Creatinine","mg/dL",12
+485,"PLAT2","Platelet Count","thous/mm3",90
+485,"SGOT","AST","U/L",172
+485,"SGPT","ALT","U/L",49
+485,"TBIL","Total Bilirubin","mg/dL",15
+485,"WBC","WBC","thous/mm3",373
+486,"CREA","Creatinine","mg/dL",10
+486,"PLAT2","Platelet Count","thous/mm3",113
+486,"SGOT","AST","U/L",206
+486,"SGPT","ALT","U/L",73
+486,"TBIL","Total Bilirubin","mg/dL",13
+486,"WBC","WBC","thous/mm3",379
+487,"CREA","Creatinine","mg/dL",6
+487,"PLAT2","Platelet Count","thous/mm3",181
+487,"SGOT","AST","U/L",129
+487,"SGPT","ALT","U/L",129
+487,"TBIL","Total Bilirubin","mg/dL",6
+487,"WBC","WBC","thous/mm3",380
+488,"CREA","Creatinine","mg/dL",8
+488,"PLAT2","Platelet Count","thous/mm3",186
+488,"SGOT","AST","U/L",49
+488,"SGPT","ALT","U/L",60
+488,"TBIL","Total Bilirubin","mg/dL",4
+488,"WBC","WBC","thous/mm3",376
+489,"CREA","Creatinine","mg/dL",10
+489,"PLAT2","Platelet Count","thous/mm3",332
+489,"SGOT","AST","U/L",60
+489,"SGPT","ALT","U/L",49
+489,"TBIL","Total Bilirubin","mg/dL",6
+489,"WBC","WBC","thous/mm3",442
+490,"CREA","Creatinine","mg/dL",9
+490,"PLAT2","Platelet Count","thous/mm3",135
+490,"SGOT","AST","U/L",172
+490,"SGPT","ALT","U/L",66
+490,"TBIL","Total Bilirubin","mg/dL",9
+490,"WBC","WBC","thous/mm3",420
+491,"CREA","Creatinine","mg/dL",13
+491,"PLAT2","Platelet Count","thous/mm3",199
+491,"SGOT","AST","U/L",161
+491,"SGPT","ALT","U/L",49
+491,"TBIL","Total Bilirubin","mg/dL",5
+491,"WBC","WBC","thous/mm3",373
+492,"CREA","Creatinine","mg/dL",7
+492,"PLAT2","Platelet Count","thous/mm3",368
+492,"SGOT","AST","U/L",139
+492,"SGPT","ALT","U/L",195
+492,"TBIL","Total Bilirubin","mg/dL",3
+492,"WBC","WBC","thous/mm3",373
+493,"CREA","Creatinine","mg/dL",10
+493,"PLAT2","Platelet Count","thous/mm3",190
+493,"SGOT","AST","U/L",129
+493,"SGPT","ALT","U/L",310
+493,"TBIL","Total Bilirubin","mg/dL",4
+493,"WBC","WBC","thous/mm3",309
+494,"CREA","Creatinine","mg/dL",13
+494,"PLAT2","Platelet Count","thous/mm3",68
+494,"SGOT","AST","U/L",425
+494,"SGPT","ALT","U/L",66
+494,"TBIL","Total Bilirubin","mg/dL",13
+494,"WBC","WBC","thous/mm3",33
+495,"CREA","Creatinine","mg/dL",15
+495,"PLAT2","Platelet Count","thous/mm3",134
+495,"SGOT","AST","U/L",55
+495,"SGPT","ALT","U/L",92
+495,"TBIL","Total Bilirubin","mg/dL",5
+495,"WBC","WBC","thous/mm3",420
+496,"CREA","Creatinine","mg/dL",11
+496,"PLAT2","Platelet Count","thous/mm3",58
+496,"SGOT","AST","U/L",92
+496,"SGPT","ALT","U/L",66
+496,"TBIL","Total Bilirubin","mg/dL",8
+496,"WBC","WBC","thous/mm3",309
+497,"CREA","Creatinine","mg/dL",11
+497,"PLAT2","Platelet Count","thous/mm3",207
+497,"SGOT","AST","U/L",82
+497,"SGPT","ALT","U/L",129
+497,"TBIL","Total Bilirubin","mg/dL",3
+497,"WBC","WBC","thous/mm3",419
+498,"CREA","Creatinine","mg/dL",7
+498,"PLAT2","Platelet Count","thous/mm3",236
+498,"SGOT","AST","U/L",109
+498,"SGPT","ALT","U/L",139
+498,"TBIL","Total Bilirubin","mg/dL",6
+498,"WBC","WBC","thous/mm3",307
+499,"CREA","Creatinine","mg/dL",12
+499,"PLAT2","Platelet Count","thous/mm3",351
+499,"SGOT","AST","U/L",92
+499,"SGPT","ALT","U/L",341
+499,"TBIL","Total Bilirubin","mg/dL",6
+499,"WBC","WBC","thous/mm3",315
+500,"CREA","Creatinine","mg/dL",10
+500,"PLAT2","Platelet Count","thous/mm3",98
+500,"SGOT","AST","U/L",66
+500,"SGPT","ALT","U/L",82
+500,"TBIL","Total Bilirubin","mg/dL",4
+500,"WBC","WBC","thous/mm3",310
+501,"CREA","Creatinine","mg/dL",8
+501,"PLAT2","Platelet Count","thous/mm3",349
+501,"SGOT","AST","U/L",92
+501,"SGPT","ALT","U/L",235
+501,"TBIL","Total Bilirubin","mg/dL",7
+501,"WBC","WBC","thous/mm3",450
+502,"CREA","Creatinine","mg/dL",9
+502,"PLAT2","Platelet Count","thous/mm3",194
+502,"SGOT","AST","U/L",73
+502,"SGPT","ALT","U/L",129
+502,"TBIL","Total Bilirubin","mg/dL",4
+502,"WBC","WBC","thous/mm3",444
+503,"CREA","Creatinine","mg/dL",15
+503,"PLAT2","Platelet Count","thous/mm3",321
+503,"SGOT","AST","U/L",82
+503,"SGPT","ALT","U/L",66
+503,"TBIL","Total Bilirubin","mg/dL",7
+503,"WBC","WBC","thous/mm3",466
+504,"CREA","Creatinine","mg/dL",7
+504,"PLAT2","Platelet Count","thous/mm3",189
+504,"SGOT","AST","U/L",129
+504,"SGPT","ALT","U/L",66
+504,"TBIL","Total Bilirubin","mg/dL",4
+504,"WBC","WBC","thous/mm3",377
+505,"CREA","Creatinine","mg/dL",11
+505,"PLAT2","Platelet Count","thous/mm3",128
+505,"SGOT","AST","U/L",290
+505,"SGPT","ALT","U/L",361
+505,"TBIL","Total Bilirubin","mg/dL",5
+505,"WBC","WBC","thous/mm3",446
+506,"CREA","Creatinine","mg/dL",10
+506,"PLAT2","Platelet Count","thous/mm3",136
+506,"SGOT","AST","U/L",195
+506,"SGPT","ALT","U/L",41
+506,"TBIL","Total Bilirubin","mg/dL",6
+506,"WBC","WBC","thous/mm3",33
+507,"CREA","Creatinine","mg/dL",7
+507,"PLAT2","Platelet Count","thous/mm3",318
+507,"SGOT","AST","U/L",21
+507,"SGPT","ALT","U/L",49
+507,"TBIL","Total Bilirubin","mg/dL",7
+507,"WBC","WBC","thous/mm3",372
+508,"CREA","Creatinine","mg/dL",10
+508,"PLAT2","Platelet Count","thous/mm3",174
+508,"SGOT","AST","U/L",55
+508,"SGPT","ALT","U/L",276
+508,"TBIL","Total Bilirubin","mg/dL",4
+508,"WBC","WBC","thous/mm3",462
+509,"CREA","Creatinine","mg/dL",10
+509,"PLAT2","Platelet Count","thous/mm3",302
+509,"SGOT","AST","U/L",150
+509,"SGPT","ALT","U/L",361
+509,"TBIL","Total Bilirubin","mg/dL",5
+509,"WBC","WBC","thous/mm3",30
+510,"CREA","Creatinine","mg/dL",8
+510,"PLAT2","Platelet Count","thous/mm3",167
+510,"SGOT","AST","U/L",404
+510,"SGPT","ALT","U/L",109
+510,"TBIL","Total Bilirubin","mg/dL",7
+510,"WBC","WBC","thous/mm3",445
+511,"CREA","Creatinine","mg/dL",10
+511,"PLAT2","Platelet Count","thous/mm3",231
+511,"SGOT","AST","U/L",276
+511,"SGPT","ALT","U/L",225
+511,"TBIL","Total Bilirubin","mg/dL",4
+511,"WBC","WBC","thous/mm3",374
+512,"CREA","Creatinine","mg/dL",4
+512,"PLAT2","Platelet Count","thous/mm3",167
+512,"SGOT","AST","U/L",256
+512,"SGPT","ALT","U/L",60
+512,"TBIL","Total Bilirubin","mg/dL",7
+512,"WBC","WBC","thous/mm3",315
+513,"CREA","Creatinine","mg/dL",10
+513,"PLAT2","Platelet Count","thous/mm3",99
+513,"SGOT","AST","U/L",139
+513,"SGPT","ALT","U/L",92
+513,"TBIL","Total Bilirubin","mg/dL",12
+513,"WBC","WBC","thous/mm3",379
+514,"CREA","Creatinine","mg/dL",7
+514,"PLAT2","Platelet Count","thous/mm3",176
+514,"SGOT","AST","U/L",92
+514,"SGPT","ALT","U/L",474
+514,"TBIL","Total Bilirubin","mg/dL",4
+514,"WBC","WBC","thous/mm3",37
+515,"CREA","Creatinine","mg/dL",12
+515,"PLAT2","Platelet Count","thous/mm3",174
+515,"SGOT","AST","U/L",139
+515,"SGPT","ALT","U/L",119
+515,"TBIL","Total Bilirubin","mg/dL",4
+515,"WBC","WBC","thous/mm3",33
+516,"CREA","Creatinine","mg/dL",8
+516,"PLAT2","Platelet Count","thous/mm3",392
+516,"SGOT","AST","U/L",66
+516,"SGPT","ALT","U/L",82
+516,"TBIL","Total Bilirubin","mg/dL",4
+516,"WBC","WBC","thous/mm3",444
+517,"CREA","Creatinine","mg/dL",9
+517,"PLAT2","Platelet Count","thous/mm3",232
+517,"SGOT","AST","U/L",129
+517,"SGPT","ALT","U/L",82
+517,"TBIL","Total Bilirubin","mg/dL",3
+517,"WBC","WBC","thous/mm3",460
+518,"CREA","Creatinine","mg/dL",10
+518,"PLAT2","Platelet Count","thous/mm3",187
+518,"SGOT","AST","U/L",82
+518,"SGPT","ALT","U/L",60
+518,"TBIL","Total Bilirubin","mg/dL",7
+518,"WBC","WBC","thous/mm3",314
+519,"CREA","Creatinine","mg/dL",9
+519,"PLAT2","Platelet Count","thous/mm3",78
+519,"SGOT","AST","U/L",82
+519,"SGPT","ALT","U/L",267
+519,"TBIL","Total Bilirubin","mg/dL",8
+519,"WBC","WBC","thous/mm3",378
+520,"CREA","Creatinine","mg/dL",9
+520,"PLAT2","Platelet Count","thous/mm3",159
+520,"SGOT","AST","U/L",60
+520,"SGPT","ALT","U/L",NA
+520,"TBIL","Total Bilirubin","mg/dL",14
+520,"WBC","WBC","thous/mm3",380
+521,"CREA","Creatinine","mg/dL",10
+521,"PLAT2","Platelet Count","thous/mm3",127
+521,"SGOT","AST","U/L",92
+521,"SGPT","ALT","U/L",246
+521,"TBIL","Total Bilirubin","mg/dL",8
+521,"WBC","WBC","thous/mm3",308
+522,"CREA","Creatinine","mg/dL",10
+522,"PLAT2","Platelet Count","thous/mm3",144
+522,"SGOT","AST","U/L",129
+522,"SGPT","ALT","U/L",60
+522,"TBIL","Total Bilirubin","mg/dL",4
+522,"WBC","WBC","thous/mm3",373
+523,"CREA","Creatinine","mg/dL",8
+523,"PLAT2","Platelet Count","thous/mm3",178
+523,"SGOT","AST","U/L",66
+523,"SGPT","ALT","U/L",139
+523,"TBIL","Total Bilirubin","mg/dL",3
+523,"WBC","WBC","thous/mm3",423
+524,"CREA","Creatinine","mg/dL",12
+524,"PLAT2","Platelet Count","thous/mm3",166
+524,"SGOT","AST","U/L",409
+524,"SGPT","ALT","U/L",92
+524,"TBIL","Total Bilirubin","mg/dL",5
+524,"WBC","WBC","thous/mm3",311
+525,"CREA","Creatinine","mg/dL",11
+525,"PLAT2","Platelet Count","thous/mm3",197
+525,"SGOT","AST","U/L",66
+525,"SGPT","ALT","U/L",428
+525,"TBIL","Total Bilirubin","mg/dL",8
+525,"WBC","WBC","thous/mm3",381
+526,"CREA","Creatinine","mg/dL",10
+526,"PLAT2","Platelet Count","thous/mm3",137
+526,"SGOT","AST","U/L",60
+526,"SGPT","ALT","U/L",55
+526,"TBIL","Total Bilirubin","mg/dL",4
+526,"WBC","WBC","thous/mm3",312
+527,"CREA","Creatinine","mg/dL",8
+527,"PLAT2","Platelet Count","thous/mm3",268
+527,"SGOT","AST","U/L",150
+527,"SGPT","ALT","U/L",60
+527,"TBIL","Total Bilirubin","mg/dL",11
+527,"WBC","WBC","thous/mm3",308
+528,"CREA","Creatinine","mg/dL",12
+528,"PLAT2","Platelet Count","thous/mm3",255
+528,"SGOT","AST","U/L",225
+528,"SGPT","ALT","U/L",139
+528,"TBIL","Total Bilirubin","mg/dL",3
+528,"WBC","WBC","thous/mm3",418
+529,"CREA","Creatinine","mg/dL",12
+529,"PLAT2","Platelet Count","thous/mm3",245
+529,"SGOT","AST","U/L",150
+529,"SGPT","ALT","U/L",16
+529,"TBIL","Total Bilirubin","mg/dL",7
+529,"WBC","WBC","thous/mm3",448
+530,"CREA","Creatinine","mg/dL",12
+530,"PLAT2","Platelet Count","thous/mm3",95
+530,"SGOT","AST","U/L",184
+530,"SGPT","ALT","U/L",129
+530,"TBIL","Total Bilirubin","mg/dL",13
+530,"WBC","WBC","thous/mm3",449
+531,"CREA","Creatinine","mg/dL",10
+531,"PLAT2","Platelet Count","thous/mm3",170
+531,"SGOT","AST","U/L",172
+531,"SGPT","ALT","U/L",358
+531,"TBIL","Total Bilirubin","mg/dL",3
+531,"WBC","WBC","thous/mm3",423
+532,"CREA","Creatinine","mg/dL",7
+532,"PLAT2","Platelet Count","thous/mm3",202
+532,"SGOT","AST","U/L",195
+532,"SGPT","ALT","U/L",415
+532,"TBIL","Total Bilirubin","mg/dL",4
+532,"WBC","WBC","thous/mm3",43
+533,"CREA","Creatinine","mg/dL",8
+533,"PLAT2","Platelet Count","thous/mm3",116
+533,"SGOT","AST","U/L",66
+533,"SGPT","ALT","U/L",139
+533,"TBIL","Total Bilirubin","mg/dL",4
+533,"WBC","WBC","thous/mm3",418
+534,"CREA","Creatinine","mg/dL",10
+534,"PLAT2","Platelet Count","thous/mm3",140
+534,"SGOT","AST","U/L",161
+534,"SGPT","ALT","U/L",246
+534,"TBIL","Total Bilirubin","mg/dL",9
+534,"WBC","WBC","thous/mm3",478
+535,"CREA","Creatinine","mg/dL",15
+535,"PLAT2","Platelet Count","thous/mm3",147
+535,"SGOT","AST","U/L",82
+535,"SGPT","ALT","U/L",235
+535,"TBIL","Total Bilirubin","mg/dL",4
+535,"WBC","WBC","thous/mm3",313
+536,"CREA","Creatinine","mg/dL",6
+536,"PLAT2","Platelet Count","thous/mm3",241
+536,"SGOT","AST","U/L",150
+536,"SGPT","ALT","U/L",139
+536,"TBIL","Total Bilirubin","mg/dL",8
+536,"WBC","WBC","thous/mm3",416
+537,"CREA","Creatinine","mg/dL",11
+537,"PLAT2","Platelet Count","thous/mm3",148
+537,"SGOT","AST","U/L",82
+537,"SGPT","ALT","U/L",109
+537,"TBIL","Total Bilirubin","mg/dL",4
+537,"WBC","WBC","thous/mm3",421
+538,"CREA","Creatinine","mg/dL",8
+538,"PLAT2","Platelet Count","thous/mm3",411
+538,"SGOT","AST","U/L",49
+538,"SGPT","ALT","U/L",246
+538,"TBIL","Total Bilirubin","mg/dL",4
+538,"WBC","WBC","thous/mm3",42
+539,"CREA","Creatinine","mg/dL",8
+539,"PLAT2","Platelet Count","thous/mm3",191
+539,"SGOT","AST","U/L",82
+539,"SGPT","ALT","U/L",49
+539,"TBIL","Total Bilirubin","mg/dL",6
+539,"WBC","WBC","thous/mm3",307
+540,"CREA","Creatinine","mg/dL",8
+540,"PLAT2","Platelet Count","thous/mm3",268
+540,"SGOT","AST","U/L",235
+540,"SGPT","ALT","U/L",82
+540,"TBIL","Total Bilirubin","mg/dL",8
+540,"WBC","WBC","thous/mm3",381
+541,"CREA","Creatinine","mg/dL",9
+541,"PLAT2","Platelet Count","thous/mm3",111
+541,"SGOT","AST","U/L",82
+541,"SGPT","ALT","U/L",129
+541,"TBIL","Total Bilirubin","mg/dL",8
+541,"WBC","WBC","thous/mm3",421
+542,"CREA","Creatinine","mg/dL",8
+542,"PLAT2","Platelet Count","thous/mm3",399
+542,"SGOT","AST","U/L",66
+542,"SGPT","ALT","U/L",21
+542,"TBIL","Total Bilirubin","mg/dL",11
+542,"WBC","WBC","thous/mm3",420
+543,"CREA","Creatinine","mg/dL",9
+543,"PLAT2","Platelet Count","thous/mm3",295
+543,"SGOT","AST","U/L",82
+543,"SGPT","ALT","U/L",267
+543,"TBIL","Total Bilirubin","mg/dL",7
+543,"WBC","WBC","thous/mm3",316
+544,"CREA","Creatinine","mg/dL",11
+544,"PLAT2","Platelet Count","thous/mm3",407
+544,"SGOT","AST","U/L",119
+544,"SGPT","ALT","U/L",225
+544,"TBIL","Total Bilirubin","mg/dL",7
+544,"WBC","WBC","thous/mm3",41
+545,"CREA","Creatinine","mg/dL",12
+545,"PLAT2","Platelet Count","thous/mm3",259
+545,"SGOT","AST","U/L",55
+545,"SGPT","ALT","U/L",276
+545,"TBIL","Total Bilirubin","mg/dL",4
+545,"WBC","WBC","thous/mm3",460
+546,"CREA","Creatinine","mg/dL",13
+546,"PLAT2","Platelet Count","thous/mm3",197
+546,"SGOT","AST","U/L",NA
+546,"SGPT","ALT","U/L",41
+546,"TBIL","Total Bilirubin","mg/dL",3
+546,"WBC","WBC","thous/mm3",462
+547,"CREA","Creatinine","mg/dL",9
+547,"PLAT2","Platelet Count","thous/mm3",175
+547,"SGOT","AST","U/L",60
+547,"SGPT","ALT","U/L",300
+547,"TBIL","Total Bilirubin","mg/dL",10
+547,"WBC","WBC","thous/mm3",463
+548,"CREA","Creatinine","mg/dL",11
+548,"PLAT2","Platelet Count","thous/mm3",346
+548,"SGOT","AST","U/L",82
+548,"SGPT","ALT","U/L",82
+548,"TBIL","Total Bilirubin","mg/dL",5
+548,"WBC","WBC","thous/mm3",450
+549,"CREA","Creatinine","mg/dL",14
+549,"PLAT2","Platelet Count","thous/mm3",337
+549,"SGOT","AST","U/L",150
+549,"SGPT","ALT","U/L",49
+549,"TBIL","Total Bilirubin","mg/dL",6
+549,"WBC","WBC","thous/mm3",468
+550,"CREA","Creatinine","mg/dL",10
+550,"PLAT2","Platelet Count","thous/mm3",332
+550,"SGOT","AST","U/L",333
+550,"SGPT","ALT","U/L",394
+550,"TBIL","Total Bilirubin","mg/dL",7
+550,"WBC","WBC","thous/mm3",373
+551,"CREA","Creatinine","mg/dL",8
+551,"PLAT2","Platelet Count","thous/mm3",258
+551,"SGOT","AST","U/L",150
+551,"SGPT","ALT","U/L",394
+551,"TBIL","Total Bilirubin","mg/dL",2
+551,"WBC","WBC","thous/mm3",33
+552,"CREA","Creatinine","mg/dL",12
+552,"PLAT2","Platelet Count","thous/mm3",149
+552,"SGOT","AST","U/L",206
+552,"SGPT","ALT","U/L",60
+552,"TBIL","Total Bilirubin","mg/dL",9
+552,"WBC","WBC","thous/mm3",485
+553,"CREA","Creatinine","mg/dL",10
+553,"PLAT2","Platelet Count","thous/mm3",237
+553,"SGOT","AST","U/L",352
+553,"SGPT","ALT","U/L",206
+553,"TBIL","Total Bilirubin","mg/dL",8
+553,"WBC","WBC","thous/mm3",446
+554,"CREA","Creatinine","mg/dL",11
+554,"PLAT2","Platelet Count","thous/mm3",97
+554,"SGOT","AST","U/L",92
+554,"SGPT","ALT","U/L",139
+554,"TBIL","Total Bilirubin","mg/dL",12
+554,"WBC","WBC","thous/mm3",445
+555,"CREA","Creatinine","mg/dL",10
+555,"PLAT2","Platelet Count","thous/mm3",169
+555,"SGOT","AST","U/L",150
+555,"SGPT","ALT","U/L",129
+555,"TBIL","Total Bilirubin","mg/dL",5
+555,"WBC","WBC","thous/mm3",445
+556,"CREA","Creatinine","mg/dL",11
+556,"PLAT2","Platelet Count","thous/mm3",247
+556,"SGOT","AST","U/L",92
+556,"SGPT","ALT","U/L",389
+556,"TBIL","Total Bilirubin","mg/dL",7
+556,"WBC","WBC","thous/mm3",308
+557,"CREA","Creatinine","mg/dL",12
+557,"PLAT2","Platelet Count","thous/mm3",386
+557,"SGOT","AST","U/L",276
+557,"SGPT","ALT","U/L",129
+557,"TBIL","Total Bilirubin","mg/dL",7
+557,"WBC","WBC","thous/mm3",467
+558,"CREA","Creatinine","mg/dL",9
+558,"PLAT2","Platelet Count","thous/mm3",396
+558,"SGOT","AST","U/L",387
+558,"SGPT","ALT","U/L",60
+558,"TBIL","Total Bilirubin","mg/dL",6
+558,"WBC","WBC","thous/mm3",459
+559,"CREA","Creatinine","mg/dL",15
+559,"PLAT2","Platelet Count","thous/mm3",90
+559,"SGOT","AST","U/L",333
+559,"SGPT","ALT","U/L",41
+559,"TBIL","Total Bilirubin","mg/dL",15
+559,"WBC","WBC","thous/mm3",33
+560,"CREA","Creatinine","mg/dL",8
+560,"PLAT2","Platelet Count","thous/mm3",232
+560,"SGOT","AST","U/L",60
+560,"SGPT","ALT","U/L",394
+560,"TBIL","Total Bilirubin","mg/dL",5
+560,"WBC","WBC","thous/mm3",424
+561,"CREA","Creatinine","mg/dL",9
+561,"PLAT2","Platelet Count","thous/mm3",162
+561,"SGOT","AST","U/L",139
+561,"SGPT","ALT","U/L",352
+561,"TBIL","Total Bilirubin","mg/dL",7
+561,"WBC","WBC","thous/mm3",309
+562,"CREA","Creatinine","mg/dL",12
+562,"PLAT2","Platelet Count","thous/mm3",264
+562,"SGOT","AST","U/L",172
+562,"SGPT","ALT","U/L",66
+562,"TBIL","Total Bilirubin","mg/dL",14
+562,"WBC","WBC","thous/mm3",25
+563,"CREA","Creatinine","mg/dL",12
+563,"PLAT2","Platelet Count","thous/mm3",227
+563,"SGOT","AST","U/L",347
+563,"SGPT","ALT","U/L",66
+563,"TBIL","Total Bilirubin","mg/dL",9
+563,"WBC","WBC","thous/mm3",381
+564,"CREA","Creatinine","mg/dL",11
+564,"PLAT2","Platelet Count","thous/mm3",148
+564,"SGOT","AST","U/L",129
+564,"SGPT","ALT","U/L",32
+564,"TBIL","Total Bilirubin","mg/dL",12
+564,"WBC","WBC","thous/mm3",448
+565,"CREA","Creatinine","mg/dL",10
+565,"PLAT2","Platelet Count","thous/mm3",159
+565,"SGOT","AST","U/L",129
+565,"SGPT","ALT","U/L",66
+565,"TBIL","Total Bilirubin","mg/dL",6
+565,"WBC","WBC","thous/mm3",315
+566,"CREA","Creatinine","mg/dL",9
+566,"PLAT2","Platelet Count","thous/mm3",187
+566,"SGOT","AST","U/L",206
+566,"SGPT","ALT","U/L",267
+566,"TBIL","Total Bilirubin","mg/dL",5
+566,"WBC","WBC","thous/mm3",376
+567,"CREA","Creatinine","mg/dL",9
+567,"PLAT2","Platelet Count","thous/mm3",180
+567,"SGOT","AST","U/L",92
+567,"SGPT","ALT","U/L",276
+567,"TBIL","Total Bilirubin","mg/dL",11
+567,"WBC","WBC","thous/mm3",377
+568,"CREA","Creatinine","mg/dL",8
+568,"PLAT2","Platelet Count","thous/mm3",244
+568,"SGOT","AST","U/L",109
+568,"SGPT","ALT","U/L",82
+568,"TBIL","Total Bilirubin","mg/dL",6
+568,"WBC","WBC","thous/mm3",378
+569,"CREA","Creatinine","mg/dL",7
+569,"PLAT2","Platelet Count","thous/mm3",209
+569,"SGOT","AST","U/L",276
+569,"SGPT","ALT","U/L",60
+569,"TBIL","Total Bilirubin","mg/dL",10
+569,"WBC","WBC","thous/mm3",23
+570,"CREA","Creatinine","mg/dL",7
+570,"PLAT2","Platelet Count","thous/mm3",185
+570,"SGOT","AST","U/L",109
+570,"SGPT","ALT","U/L",66
+570,"TBIL","Total Bilirubin","mg/dL",7
+570,"WBC","WBC","thous/mm3",445
+571,"CREA","Creatinine","mg/dL",11
+571,"PLAT2","Platelet Count","thous/mm3",187
+571,"SGOT","AST","U/L",82
+571,"SGPT","ALT","U/L",21
+571,"TBIL","Total Bilirubin","mg/dL",6
+571,"WBC","WBC","thous/mm3",421
+572,"CREA","Creatinine","mg/dL",8
+572,"PLAT2","Platelet Count","thous/mm3",117
+572,"SGOT","AST","U/L",139
+572,"SGPT","ALT","U/L",235
+572,"TBIL","Total Bilirubin","mg/dL",3
+572,"WBC","WBC","thous/mm3",423
+573,"CREA","Creatinine","mg/dL",11
+573,"PLAT2","Platelet Count","thous/mm3",247
+573,"SGOT","AST","U/L",60
+573,"SGPT","ALT","U/L",109
+573,"TBIL","Total Bilirubin","mg/dL",7
+573,"WBC","WBC","thous/mm3",446
+574,"CREA","Creatinine","mg/dL",9
+574,"PLAT2","Platelet Count","thous/mm3",154
+574,"SGOT","AST","U/L",184
+574,"SGPT","ALT","U/L",66
+574,"TBIL","Total Bilirubin","mg/dL",4
+574,"WBC","WBC","thous/mm3",45
+575,"CREA","Creatinine","mg/dL",12
+575,"PLAT2","Platelet Count","thous/mm3",143
+575,"SGOT","AST","U/L",73
+575,"SGPT","ALT","U/L",73
+575,"TBIL","Total Bilirubin","mg/dL",3
+575,"WBC","WBC","thous/mm3",421
+576,"CREA","Creatinine","mg/dL",12
+576,"PLAT2","Platelet Count","thous/mm3",117
+576,"SGOT","AST","U/L",73
+576,"SGPT","ALT","U/L",66
+576,"TBIL","Total Bilirubin","mg/dL",12
+576,"WBC","WBC","thous/mm3",416
+577,"CREA","Creatinine","mg/dL",9
+577,"PLAT2","Platelet Count","thous/mm3",158
+577,"SGOT","AST","U/L",92
+577,"SGPT","ALT","U/L",317
+577,"TBIL","Total Bilirubin","mg/dL",5
+577,"WBC","WBC","thous/mm3",36
+578,"CREA","Creatinine","mg/dL",9
+578,"PLAT2","Platelet Count","thous/mm3",268
+578,"SGOT","AST","U/L",172
+578,"SGPT","ALT","U/L",41
+578,"TBIL","Total Bilirubin","mg/dL",11
+578,"WBC","WBC","thous/mm3",83
+579,"CREA","Creatinine","mg/dL",12
+579,"PLAT2","Platelet Count","thous/mm3",211
+579,"SGOT","AST","U/L",82
+579,"SGPT","ALT","U/L",21
+579,"TBIL","Total Bilirubin","mg/dL",10
+579,"WBC","WBC","thous/mm3",418
+580,"CREA","Creatinine","mg/dL",12
+580,"PLAT2","Platelet Count","thous/mm3",77
+580,"SGOT","AST","U/L",150
+580,"SGPT","ALT","U/L",184
+580,"TBIL","Total Bilirubin","mg/dL",6
+580,"WBC","WBC","thous/mm3",448
+581,"CREA","Creatinine","mg/dL",10
+581,"PLAT2","Platelet Count","thous/mm3",71
+581,"SGOT","AST","U/L",440
+581,"SGPT","ALT","U/L",325
+581,"TBIL","Total Bilirubin","mg/dL",9
+581,"WBC","WBC","thous/mm3",442
+582,"CREA","Creatinine","mg/dL",9
+582,"PLAT2","Platelet Count","thous/mm3",157
+582,"SGOT","AST","U/L",184
+582,"SGPT","ALT","U/L",66
+582,"TBIL","Total Bilirubin","mg/dL",10
+582,"WBC","WBC","thous/mm3",443
+583,"CREA","Creatinine","mg/dL",9
+583,"PLAT2","Platelet Count","thous/mm3",140
+583,"SGOT","AST","U/L",60
+583,"SGPT","ALT","U/L",184
+583,"TBIL","Total Bilirubin","mg/dL",5
+583,"WBC","WBC","thous/mm3",417
+584,"CREA","Creatinine","mg/dL",10
+584,"PLAT2","Platelet Count","thous/mm3",167
+584,"SGOT","AST","U/L",82
+584,"SGPT","ALT","U/L",161
+584,"TBIL","Total Bilirubin","mg/dL",8
+584,"WBC","WBC","thous/mm3",478
+585,"CREA","Creatinine","mg/dL",9
+585,"PLAT2","Platelet Count","thous/mm3",170
+585,"SGOT","AST","U/L",49
+585,"SGPT","ALT","U/L",55
+585,"TBIL","Total Bilirubin","mg/dL",8
+585,"WBC","WBC","thous/mm3",443
+586,"CREA","Creatinine","mg/dL",11
+586,"PLAT2","Platelet Count","thous/mm3",205
+586,"SGOT","AST","U/L",129
+586,"SGPT","ALT","U/L",49
+586,"TBIL","Total Bilirubin","mg/dL",7
+586,"WBC","WBC","thous/mm3",459
+587,"CREA","Creatinine","mg/dL",9
+587,"PLAT2","Platelet Count","thous/mm3",164
+587,"SGOT","AST","U/L",109
+587,"SGPT","ALT","U/L",454
+587,"TBIL","Total Bilirubin","mg/dL",5
+587,"WBC","WBC","thous/mm3",377
+588,"CREA","Creatinine","mg/dL",11
+588,"PLAT2","Platelet Count","thous/mm3",147
+588,"SGOT","AST","U/L",267
+588,"SGPT","ALT","U/L",161
+588,"TBIL","Total Bilirubin","mg/dL",7
+588,"WBC","WBC","thous/mm3",376
+589,"CREA","Creatinine","mg/dL",8
+589,"PLAT2","Platelet Count","thous/mm3",302
+589,"SGOT","AST","U/L",92
+589,"SGPT","ALT","U/L",459
+589,"TBIL","Total Bilirubin","mg/dL",5
+589,"WBC","WBC","thous/mm3",444
+590,"CREA","Creatinine","mg/dL",9
+590,"PLAT2","Platelet Count","thous/mm3",134
+590,"SGOT","AST","U/L",391
+590,"SGPT","ALT","U/L",NA
+590,"TBIL","Total Bilirubin","mg/dL",4
+590,"WBC","WBC","thous/mm3",21
+591,"CREA","Creatinine","mg/dL",6
+591,"PLAT2","Platelet Count","thous/mm3",336
+591,"SGOT","AST","U/L",195
+591,"SGPT","ALT","U/L",341
+591,"TBIL","Total Bilirubin","mg/dL",4
+591,"WBC","WBC","thous/mm3",445
+592,"CREA","Creatinine","mg/dL",9
+592,"PLAT2","Platelet Count","thous/mm3",147
+592,"SGOT","AST","U/L",150
+592,"SGPT","ALT","U/L",21
+592,"TBIL","Total Bilirubin","mg/dL",10
+592,"WBC","WBC","thous/mm3",374
+593,"CREA","Creatinine","mg/dL",13
+593,"PLAT2","Platelet Count","thous/mm3",162
+593,"SGOT","AST","U/L",172
+593,"SGPT","ALT","U/L",225
+593,"TBIL","Total Bilirubin","mg/dL",11
+593,"WBC","WBC","thous/mm3",311
+594,"CREA","Creatinine","mg/dL",10
+594,"PLAT2","Platelet Count","thous/mm3",255
+594,"SGOT","AST","U/L",109
+594,"SGPT","ALT","U/L",184
+594,"TBIL","Total Bilirubin","mg/dL",9
+594,"WBC","WBC","thous/mm3",464
+595,"CREA","Creatinine","mg/dL",7
+595,"PLAT2","Platelet Count","thous/mm3",138
+595,"SGOT","AST","U/L",66
+595,"SGPT","ALT","U/L",474
+595,"TBIL","Total Bilirubin","mg/dL",3
+595,"WBC","WBC","thous/mm3",482
+596,"CREA","Creatinine","mg/dL",10
+596,"PLAT2","Platelet Count","thous/mm3",196
+596,"SGOT","AST","U/L",109
+596,"SGPT","ALT","U/L",267
+596,"TBIL","Total Bilirubin","mg/dL",7
+596,"WBC","WBC","thous/mm3",442
+597,"CREA","Creatinine","mg/dL",7
+597,"PLAT2","Platelet Count","thous/mm3",261
+597,"SGOT","AST","U/L",129
+597,"SGPT","ALT","U/L",55
+597,"TBIL","Total Bilirubin","mg/dL",5
+597,"WBC","WBC","thous/mm3",315
+598,"CREA","Creatinine","mg/dL",11
+598,"PLAT2","Platelet Count","thous/mm3",152
+598,"SGOT","AST","U/L",129
+598,"SGPT","ALT","U/L",428
+598,"TBIL","Total Bilirubin","mg/dL",6
+598,"WBC","WBC","thous/mm3",445
+599,"CREA","Creatinine","mg/dL",6
+599,"PLAT2","Platelet Count","thous/mm3",298
+599,"SGOT","AST","U/L",82
+599,"SGPT","ALT","U/L",150
+599,"TBIL","Total Bilirubin","mg/dL",8
+599,"WBC","WBC","thous/mm3",424
+600,"CREA","Creatinine","mg/dL",9
+600,"PLAT2","Platelet Count","thous/mm3",305
+600,"SGOT","AST","U/L",172
+600,"SGPT","ALT","U/L",129
+600,"TBIL","Total Bilirubin","mg/dL",5
+600,"WBC","WBC","thous/mm3",25
+601,"CREA","Creatinine","mg/dL",8
+601,"PLAT2","Platelet Count","thous/mm3",121
+601,"SGOT","AST","U/L",41
+601,"SGPT","ALT","U/L",246
+601,"TBIL","Total Bilirubin","mg/dL",3
+601,"WBC","WBC","thous/mm3",308
+602,"CREA","Creatinine","mg/dL",10
+602,"PLAT2","Platelet Count","thous/mm3",263
+602,"SGOT","AST","U/L",21
+602,"SGPT","ALT","U/L",256
+602,"TBIL","Total Bilirubin","mg/dL",5
+602,"WBC","WBC","thous/mm3",223
+603,"CREA","Creatinine","mg/dL",9
+603,"PLAT2","Platelet Count","thous/mm3",135
+603,"SGOT","AST","U/L",150
+603,"SGPT","ALT","U/L",66
+603,"TBIL","Total Bilirubin","mg/dL",8
+603,"WBC","WBC","thous/mm3",311
+604,"CREA","Creatinine","mg/dL",11
+604,"PLAT2","Platelet Count","thous/mm3",59
+604,"SGOT","AST","U/L",109
+604,"SGPT","ALT","U/L",325
+604,"TBIL","Total Bilirubin","mg/dL",9
+604,"WBC","WBC","thous/mm3",309
+605,"CREA","Creatinine","mg/dL",8
+605,"PLAT2","Platelet Count","thous/mm3",191
+605,"SGOT","AST","U/L",206
+605,"SGPT","ALT","U/L",109
+605,"TBIL","Total Bilirubin","mg/dL",4
+605,"WBC","WBC","thous/mm3",377
+606,"CREA","Creatinine","mg/dL",10
+606,"PLAT2","Platelet Count","thous/mm3",287
+606,"SGOT","AST","U/L",66
+606,"SGPT","ALT","U/L",60
+606,"TBIL","Total Bilirubin","mg/dL",3
+606,"WBC","WBC","thous/mm3",316
+607,"CREA","Creatinine","mg/dL",7
+607,"PLAT2","Platelet Count","thous/mm3",232
+607,"SGOT","AST","U/L",409
+607,"SGPT","ALT","U/L",82
+607,"TBIL","Total Bilirubin","mg/dL",8
+607,"WBC","WBC","thous/mm3",421
+608,"CREA","Creatinine","mg/dL",7
+608,"PLAT2","Platelet Count","thous/mm3",318
+608,"SGOT","AST","U/L",119
+608,"SGPT","ALT","U/L",119
+608,"TBIL","Total Bilirubin","mg/dL",3
+608,"WBC","WBC","thous/mm3",424
+609,"CREA","Creatinine","mg/dL",10
+609,"PLAT2","Platelet Count","thous/mm3",363
+609,"SGOT","AST","U/L",119
+609,"SGPT","ALT","U/L",66
+609,"TBIL","Total Bilirubin","mg/dL",4
+609,"WBC","WBC","thous/mm3",482
+610,"CREA","Creatinine","mg/dL",9
+610,"PLAT2","Platelet Count","thous/mm3",332
+610,"SGOT","AST","U/L",109
+610,"SGPT","ALT","U/L",119
+610,"TBIL","Total Bilirubin","mg/dL",6
+610,"WBC","WBC","thous/mm3",442
+611,"CREA","Creatinine","mg/dL",10
+611,"PLAT2","Platelet Count","thous/mm3",167
+611,"SGOT","AST","U/L",92
+611,"SGPT","ALT","U/L",404
+611,"TBIL","Total Bilirubin","mg/dL",9
+611,"WBC","WBC","thous/mm3",450
+612,"CREA","Creatinine","mg/dL",14
+612,"PLAT2","Platelet Count","thous/mm3",48
+612,"SGOT","AST","U/L",119
+612,"SGPT","ALT","U/L",225
+612,"TBIL","Total Bilirubin","mg/dL",7
+612,"WBC","WBC","thous/mm3",373
+613,"CREA","Creatinine","mg/dL",12
+613,"PLAT2","Platelet Count","thous/mm3",98
+613,"SGOT","AST","U/L",92
+613,"SGPT","ALT","U/L",341
+613,"TBIL","Total Bilirubin","mg/dL",7
+613,"WBC","WBC","thous/mm3",442
+614,"CREA","Creatinine","mg/dL",10
+614,"PLAT2","Platelet Count","thous/mm3",324
+614,"SGOT","AST","U/L",109
+614,"SGPT","ALT","U/L",235
+614,"TBIL","Total Bilirubin","mg/dL",5
+614,"WBC","WBC","thous/mm3",313
+615,"CREA","Creatinine","mg/dL",10
+615,"PLAT2","Platelet Count","thous/mm3",414
+615,"SGOT","AST","U/L",225
+615,"SGPT","ALT","U/L",172
+615,"TBIL","Total Bilirubin","mg/dL",4
+615,"WBC","WBC","thous/mm3",451
+616,"CREA","Creatinine","mg/dL",11
+616,"PLAT2","Platelet Count","thous/mm3",240
+616,"SGOT","AST","U/L",82
+616,"SGPT","ALT","U/L",60
+616,"TBIL","Total Bilirubin","mg/dL",11
+616,"WBC","WBC","thous/mm3",308
+617,"CREA","Creatinine","mg/dL",8
+617,"PLAT2","Platelet Count","thous/mm3",396
+617,"SGOT","AST","U/L",55
+617,"SGPT","ALT","U/L",246
+617,"TBIL","Total Bilirubin","mg/dL",4
+617,"WBC","WBC","thous/mm3",447
+618,"CREA","Creatinine","mg/dL",12
+618,"PLAT2","Platelet Count","thous/mm3",136
+618,"SGOT","AST","U/L",109
+618,"SGPT","ALT","U/L",161
+618,"TBIL","Total Bilirubin","mg/dL",5
+618,"WBC","WBC","thous/mm3",415
+619,"CREA","Creatinine","mg/dL",8
+619,"PLAT2","Platelet Count","thous/mm3",194
+619,"SGOT","AST","U/L",150
+619,"SGPT","ALT","U/L",41
+619,"TBIL","Total Bilirubin","mg/dL",4
+619,"WBC","WBC","thous/mm3",419
+620,"CREA","Creatinine","mg/dL",11
+620,"PLAT2","Platelet Count","thous/mm3",112
+620,"SGOT","AST","U/L",172
+620,"SGPT","ALT","U/L",161
+620,"TBIL","Total Bilirubin","mg/dL",5
+620,"WBC","WBC","thous/mm3",418
+621,"CREA","Creatinine","mg/dL",11
+621,"PLAT2","Platelet Count","thous/mm3",199
+621,"SGOT","AST","U/L",317
+621,"SGPT","ALT","U/L",290
+621,"TBIL","Total Bilirubin","mg/dL",10
+621,"WBC","WBC","thous/mm3",374
+622,"CREA","Creatinine","mg/dL",10
+622,"PLAT2","Platelet Count","thous/mm3",175
+622,"SGOT","AST","U/L",150
+622,"SGPT","ALT","U/L",161
+622,"TBIL","Total Bilirubin","mg/dL",4
+622,"WBC","WBC","thous/mm3",450
+623,"CREA","Creatinine","mg/dL",11
+623,"PLAT2","Platelet Count","thous/mm3",112
+623,"SGOT","AST","U/L",129
+623,"SGPT","ALT","U/L",55
+623,"TBIL","Total Bilirubin","mg/dL",7
+623,"WBC","WBC","thous/mm3",443
+624,"CREA","Creatinine","mg/dL",10
+624,"PLAT2","Platelet Count","thous/mm3",186
+624,"SGOT","AST","U/L",92
+624,"SGPT","ALT","U/L",66
+624,"TBIL","Total Bilirubin","mg/dL",6
+624,"WBC","WBC","thous/mm3",419
+625,"CREA","Creatinine","mg/dL",10
+625,"PLAT2","Platelet Count","thous/mm3",98
+625,"SGOT","AST","U/L",119
+625,"SGPT","ALT","U/L",473
+625,"TBIL","Total Bilirubin","mg/dL",9
+625,"WBC","WBC","thous/mm3",37
+626,"CREA","Creatinine","mg/dL",11
+626,"PLAT2","Platelet Count","thous/mm3",268
+626,"SGOT","AST","U/L",32
+626,"SGPT","ALT","U/L",66
+626,"TBIL","Total Bilirubin","mg/dL",6
+626,"WBC","WBC","thous/mm3",43
+627,"CREA","Creatinine","mg/dL",10
+627,"PLAT2","Platelet Count","thous/mm3",63
+627,"SGOT","AST","U/L",119
+627,"SGPT","ALT","U/L",225
+627,"TBIL","Total Bilirubin","mg/dL",9
+627,"WBC","WBC","thous/mm3",378
+628,"CREA","Creatinine","mg/dL",12
+628,"PLAT2","Platelet Count","thous/mm3",207
+628,"SGOT","AST","U/L",109
+628,"SGPT","ALT","U/L",92
+628,"TBIL","Total Bilirubin","mg/dL",4
+628,"WBC","WBC","thous/mm3",422
+629,"CREA","Creatinine","mg/dL",10
+629,"PLAT2","Platelet Count","thous/mm3",145
+629,"SGOT","AST","U/L",66
+629,"SGPT","ALT","U/L",172
+629,"TBIL","Total Bilirubin","mg/dL",4
+629,"WBC","WBC","thous/mm3",310
+630,"CREA","Creatinine","mg/dL",8
+630,"PLAT2","Platelet Count","thous/mm3",263
+630,"SGOT","AST","U/L",66
+630,"SGPT","ALT","U/L",195
+630,"TBIL","Total Bilirubin","mg/dL",9
+630,"WBC","WBC","thous/mm3",445
+631,"CREA","Creatinine","mg/dL",9
+631,"PLAT2","Platelet Count","thous/mm3",108
+631,"SGOT","AST","U/L",73
+631,"SGPT","ALT","U/L",317
+631,"TBIL","Total Bilirubin","mg/dL",5
+631,"WBC","WBC","thous/mm3",380
+632,"CREA","Creatinine","mg/dL",11
+632,"PLAT2","Platelet Count","thous/mm3",188
+632,"SGOT","AST","U/L",49
+632,"SGPT","ALT","U/L",235
+632,"TBIL","Total Bilirubin","mg/dL",3
+632,"WBC","WBC","thous/mm3",375
+633,"CREA","Creatinine","mg/dL",12
+633,"PLAT2","Platelet Count","thous/mm3",236
+633,"SGOT","AST","U/L",139
+633,"SGPT","ALT","U/L",341
+633,"TBIL","Total Bilirubin","mg/dL",5
+633,"WBC","WBC","thous/mm3",421
+634,"CREA","Creatinine","mg/dL",11
+634,"PLAT2","Platelet Count","thous/mm3",240
+634,"SGOT","AST","U/L",92
+634,"SGPT","ALT","U/L",184
+634,"TBIL","Total Bilirubin","mg/dL",5
+634,"WBC","WBC","thous/mm3",442
+635,"CREA","Creatinine","mg/dL",8
+635,"PLAT2","Platelet Count","thous/mm3",402
+635,"SGOT","AST","U/L",66
+635,"SGPT","ALT","U/L",73
+635,"TBIL","Total Bilirubin","mg/dL",5
+635,"WBC","WBC","thous/mm3",422
+636,"CREA","Creatinine","mg/dL",9
+636,"PLAT2","Platelet Count","thous/mm3",138
+636,"SGOT","AST","U/L",184
+636,"SGPT","ALT","U/L",66
+636,"TBIL","Total Bilirubin","mg/dL",6
+636,"WBC","WBC","thous/mm3",376
+637,"CREA","Creatinine","mg/dL",9
+637,"PLAT2","Platelet Count","thous/mm3",128
+637,"SGOT","AST","U/L",109
+637,"SGPT","ALT","U/L",459
+637,"TBIL","Total Bilirubin","mg/dL",6
+637,"WBC","WBC","thous/mm3",416
+638,"CREA","Creatinine","mg/dL",9
+638,"PLAT2","Platelet Count","thous/mm3",140
+638,"SGOT","AST","U/L",172
+638,"SGPT","ALT","U/L",184
+638,"TBIL","Total Bilirubin","mg/dL",5
+638,"WBC","WBC","thous/mm3",444
+639,"CREA","Creatinine","mg/dL",7
+639,"PLAT2","Platelet Count","thous/mm3",196
+639,"SGOT","AST","U/L",82
+639,"SGPT","ALT","U/L",32
+639,"TBIL","Total Bilirubin","mg/dL",10
+639,"WBC","WBC","thous/mm3",375
+640,"CREA","Creatinine","mg/dL",10
+640,"PLAT2","Platelet Count","thous/mm3",71
+640,"SGOT","AST","U/L",184
+640,"SGPT","ALT","U/L",184
+640,"TBIL","Total Bilirubin","mg/dL",7
+640,"WBC","WBC","thous/mm3",482
+641,"CREA","Creatinine","mg/dL",8
+641,"PLAT2","Platelet Count","thous/mm3",148
+641,"SGOT","AST","U/L",60
+641,"SGPT","ALT","U/L",32
+641,"TBIL","Total Bilirubin","mg/dL",5
+641,"WBC","WBC","thous/mm3",381
+642,"CREA","Creatinine","mg/dL",8
+642,"PLAT2","Platelet Count","thous/mm3",187
+642,"SGOT","AST","U/L",73
+642,"SGPT","ALT","U/L",66
+642,"TBIL","Total Bilirubin","mg/dL",7
+642,"WBC","WBC","thous/mm3",416
+643,"CREA","Creatinine","mg/dL",15
+643,"PLAT2","Platelet Count","thous/mm3",95
+643,"SGOT","AST","U/L",73
+643,"SGPT","ALT","U/L",317
+643,"TBIL","Total Bilirubin","mg/dL",3
+643,"WBC","WBC","thous/mm3",415
+644,"CREA","Creatinine","mg/dL",11
+644,"PLAT2","Platelet Count","thous/mm3",NA
+644,"SGOT","AST","U/L",82
+644,"SGPT","ALT","U/L",73
+644,"TBIL","Total Bilirubin","mg/dL",9
+644,"WBC","WBC","thous/mm3",378
+645,"CREA","Creatinine","mg/dL",13
+645,"PLAT2","Platelet Count","thous/mm3",173
+645,"SGOT","AST","U/L",486
+645,"SGPT","ALT","U/L",139
+645,"TBIL","Total Bilirubin","mg/dL",6
+645,"WBC","WBC","thous/mm3",459
+646,"CREA","Creatinine","mg/dL",9
+646,"PLAT2","Platelet Count","thous/mm3",260
+646,"SGOT","AST","U/L",195
+646,"SGPT","ALT","U/L",290
+646,"TBIL","Total Bilirubin","mg/dL",6
+646,"WBC","WBC","thous/mm3",462
+647,"CREA","Creatinine","mg/dL",9
+647,"PLAT2","Platelet Count","thous/mm3",337
+647,"SGOT","AST","U/L",195
+647,"SGPT","ALT","U/L",32
+647,"TBIL","Total Bilirubin","mg/dL",2
+647,"WBC","WBC","thous/mm3",381
+648,"CREA","Creatinine","mg/dL",9
+648,"PLAT2","Platelet Count","thous/mm3",133
+648,"SGOT","AST","U/L",55
+648,"SGPT","ALT","U/L",109
+648,"TBIL","Total Bilirubin","mg/dL",7
+648,"WBC","WBC","thous/mm3",418
+649,"CREA","Creatinine","mg/dL",10
+649,"PLAT2","Platelet Count","thous/mm3",141
+649,"SGOT","AST","U/L",82
+649,"SGPT","ALT","U/L",49
+649,"TBIL","Total Bilirubin","mg/dL",6
+649,"WBC","WBC","thous/mm3",418
+650,"CREA","Creatinine","mg/dL",14
+650,"PLAT2","Platelet Count","thous/mm3",151
+650,"SGOT","AST","U/L",82
+650,"SGPT","ALT","U/L",267
+650,"TBIL","Total Bilirubin","mg/dL",6
+650,"WBC","WBC","thous/mm3",221
+651,"CREA","Creatinine","mg/dL",9
+651,"PLAT2","Platelet Count","thous/mm3",113
+651,"SGOT","AST","U/L",184
+651,"SGPT","ALT","U/L",317
+651,"TBIL","Total Bilirubin","mg/dL",10
+651,"WBC","WBC","thous/mm3",419
+652,"CREA","Creatinine","mg/dL",12
+652,"PLAT2","Platelet Count","thous/mm3",151
+652,"SGOT","AST","U/L",41
+652,"SGPT","ALT","U/L",41
+652,"TBIL","Total Bilirubin","mg/dL",3
+652,"WBC","WBC","thous/mm3",314
+653,"CREA","Creatinine","mg/dL",10
+653,"PLAT2","Platelet Count","thous/mm3",332
+653,"SGOT","AST","U/L",129
+653,"SGPT","ALT","U/L",161
+653,"TBIL","Total Bilirubin","mg/dL",11
+653,"WBC","WBC","thous/mm3",416
+654,"CREA","Creatinine","mg/dL",9
+654,"PLAT2","Platelet Count","thous/mm3",237
+654,"SGOT","AST","U/L",119
+654,"SGPT","ALT","U/L",206
+654,"TBIL","Total Bilirubin","mg/dL",9
+654,"WBC","WBC","thous/mm3",449
+655,"CREA","Creatinine","mg/dL",10
+655,"PLAT2","Platelet Count","thous/mm3",89
+655,"SGOT","AST","U/L",92
+655,"SGPT","ALT","U/L",109
+655,"TBIL","Total Bilirubin","mg/dL",7
+655,"WBC","WBC","thous/mm3",464
+656,"CREA","Creatinine","mg/dL",15
+656,"PLAT2","Platelet Count","thous/mm3",39
+656,"SGOT","AST","U/L",184
+656,"SGPT","ALT","U/L",109
+656,"TBIL","Total Bilirubin","mg/dL",15
+656,"WBC","WBC","thous/mm3",310
+657,"CREA","Creatinine","mg/dL",7
+657,"PLAT2","Platelet Count","thous/mm3",165
+657,"SGOT","AST","U/L",82
+657,"SGPT","ALT","U/L",367
+657,"TBIL","Total Bilirubin","mg/dL",5
+657,"WBC","WBC","thous/mm3",29
+658,"CREA","Creatinine","mg/dL",10
+658,"PLAT2","Platelet Count","thous/mm3",232
+658,"SGOT","AST","U/L",372
+658,"SGPT","ALT","U/L",216
+658,"TBIL","Total Bilirubin","mg/dL",4
+658,"WBC","WBC","thous/mm3",22
+659,"CREA","Creatinine","mg/dL",9
+659,"PLAT2","Platelet Count","thous/mm3",197
+659,"SGOT","AST","U/L",150
+659,"SGPT","ALT","U/L",476
+659,"TBIL","Total Bilirubin","mg/dL",4
+659,"WBC","WBC","thous/mm3",424
+660,"CREA","Creatinine","mg/dL",10
+660,"PLAT2","Platelet Count","thous/mm3",323
+660,"SGOT","AST","U/L",394
+660,"SGPT","ALT","U/L",246
+660,"TBIL","Total Bilirubin","mg/dL",7
+660,"WBC","WBC","thous/mm3",465
+661,"CREA","Creatinine","mg/dL",10
+661,"PLAT2","Platelet Count","thous/mm3",190
+661,"SGOT","AST","U/L",66
+661,"SGPT","ALT","U/L",415
+661,"TBIL","Total Bilirubin","mg/dL",4
+661,"WBC","WBC","thous/mm3",417
+662,"CREA","Creatinine","mg/dL",8
+662,"PLAT2","Platelet Count","thous/mm3",196
+662,"SGOT","AST","U/L",119
+662,"SGPT","ALT","U/L",139
+662,"TBIL","Total Bilirubin","mg/dL",6
+662,"WBC","WBC","thous/mm3",444
+663,"CREA","Creatinine","mg/dL",9
+663,"PLAT2","Platelet Count","thous/mm3",31
+663,"SGOT","AST","U/L",92
+663,"SGPT","ALT","U/L",330
+663,"TBIL","Total Bilirubin","mg/dL",7
+663,"WBC","WBC","thous/mm3",380
+664,"CREA","Creatinine","mg/dL",10
+664,"PLAT2","Platelet Count","thous/mm3",213
+664,"SGOT","AST","U/L",195
+664,"SGPT","ALT","U/L",341
+664,"TBIL","Total Bilirubin","mg/dL",4
+664,"WBC","WBC","thous/mm3",375
+665,"CREA","Creatinine","mg/dL",10
+665,"PLAT2","Platelet Count","thous/mm3",125
+665,"SGOT","AST","U/L",195
+665,"SGPT","ALT","U/L",150
+665,"TBIL","Total Bilirubin","mg/dL",7
+665,"WBC","WBC","thous/mm3",423
+666,"CREA","Creatinine","mg/dL",8
+666,"PLAT2","Platelet Count","thous/mm3",299
+666,"SGOT","AST","U/L",92
+666,"SGPT","ALT","U/L",60
+666,"TBIL","Total Bilirubin","mg/dL",4
+666,"WBC","WBC","thous/mm3",422
+667,"CREA","Creatinine","mg/dL",9
+667,"PLAT2","Platelet Count","thous/mm3",128
+667,"SGOT","AST","U/L",82
+667,"SGPT","ALT","U/L",55
+667,"TBIL","Total Bilirubin","mg/dL",4
+667,"WBC","WBC","thous/mm3",418
+668,"CREA","Creatinine","mg/dL",8
+668,"PLAT2","Platelet Count","thous/mm3",138
+668,"SGOT","AST","U/L",119
+668,"SGPT","ALT","U/L",139
+668,"TBIL","Total Bilirubin","mg/dL",7
+668,"WBC","WBC","thous/mm3",379
+669,"CREA","Creatinine","mg/dL",6
+669,"PLAT2","Platelet Count","thous/mm3",388
+669,"SGOT","AST","U/L",435
+669,"SGPT","ALT","U/L",66
+669,"TBIL","Total Bilirubin","mg/dL",11
+669,"WBC","WBC","thous/mm3",444
+670,"CREA","Creatinine","mg/dL",12
+670,"PLAT2","Platelet Count","thous/mm3",152
+670,"SGOT","AST","U/L",150
+670,"SGPT","ALT","U/L",32
+670,"TBIL","Total Bilirubin","mg/dL",9
+670,"WBC","WBC","thous/mm3",314
+671,"CREA","Creatinine","mg/dL",13
+671,"PLAT2","Platelet Count","thous/mm3",297
+671,"SGOT","AST","U/L",333
+671,"SGPT","ALT","U/L",60
+671,"TBIL","Total Bilirubin","mg/dL",7
+671,"WBC","WBC","thous/mm3",316
+672,"CREA","Creatinine","mg/dL",9
+672,"PLAT2","Platelet Count","thous/mm3",255
+672,"SGOT","AST","U/L",172
+672,"SGPT","ALT","U/L",459
+672,"TBIL","Total Bilirubin","mg/dL",5
+672,"WBC","WBC","thous/mm3",30
+673,"CREA","Creatinine","mg/dL",10
+673,"PLAT2","Platelet Count","thous/mm3",165
+673,"SGOT","AST","U/L",440
+673,"SGPT","ALT","U/L",172
+673,"TBIL","Total Bilirubin","mg/dL",5
+673,"WBC","WBC","thous/mm3",24
+674,"CREA","Creatinine","mg/dL",9
+674,"PLAT2","Platelet Count","thous/mm3",113
+674,"SGOT","AST","U/L",225
+674,"SGPT","ALT","U/L",60
+674,"TBIL","Total Bilirubin","mg/dL",9
+674,"WBC","WBC","thous/mm3",312
+675,"CREA","Creatinine","mg/dL",8
+675,"PLAT2","Platelet Count","thous/mm3",226
+675,"SGOT","AST","U/L",82
+675,"SGPT","ALT","U/L",73
+675,"TBIL","Total Bilirubin","mg/dL",6
+675,"WBC","WBC","thous/mm3",482
+676,"CREA","Creatinine","mg/dL",13
+676,"PLAT2","Platelet Count","thous/mm3",166
+676,"SGOT","AST","U/L",119
+676,"SGPT","ALT","U/L",21
+676,"TBIL","Total Bilirubin","mg/dL",7
+676,"WBC","WBC","thous/mm3",32
+677,"CREA","Creatinine","mg/dL",10
+677,"PLAT2","Platelet Count","thous/mm3",166
+677,"SGOT","AST","U/L",82
+677,"SGPT","ALT","U/L",60
+677,"TBIL","Total Bilirubin","mg/dL",5
+677,"WBC","WBC","thous/mm3",476
+678,"CREA","Creatinine","mg/dL",15
+678,"PLAT2","Platelet Count","thous/mm3",46
+678,"SGOT","AST","U/L",150
+678,"SGPT","ALT","U/L",82
+678,"TBIL","Total Bilirubin","mg/dL",11
+678,"WBC","WBC","thous/mm3",378
+679,"CREA","Creatinine","mg/dL",14
+679,"PLAT2","Platelet Count","thous/mm3",146
+679,"SGOT","AST","U/L",139
+679,"SGPT","ALT","U/L",225
+679,"TBIL","Total Bilirubin","mg/dL",6
+679,"WBC","WBC","thous/mm3",375
+680,"CREA","Creatinine","mg/dL",9
+680,"PLAT2","Platelet Count","thous/mm3",174
+680,"SGOT","AST","U/L",161
+680,"SGPT","ALT","U/L",347
+680,"TBIL","Total Bilirubin","mg/dL",5
+680,"WBC","WBC","thous/mm3",443
+681,"CREA","Creatinine","mg/dL",10
+681,"PLAT2","Platelet Count","thous/mm3",292
+681,"SGOT","AST","U/L",92
+681,"SGPT","ALT","U/L",139
+681,"TBIL","Total Bilirubin","mg/dL",14
+681,"WBC","WBC","thous/mm3",478
+682,"CREA","Creatinine","mg/dL",11
+682,"PLAT2","Platelet Count","thous/mm3",112
+682,"SGOT","AST","U/L",161
+682,"SGPT","ALT","U/L",60
+682,"TBIL","Total Bilirubin","mg/dL",13
+682,"WBC","WBC","thous/mm3",219
+683,"CREA","Creatinine","mg/dL",14
+683,"PLAT2","Platelet Count","thous/mm3",229
+683,"SGOT","AST","U/L",139
+683,"SGPT","ALT","U/L",119
+683,"TBIL","Total Bilirubin","mg/dL",5
+683,"WBC","WBC","thous/mm3",22
+684,"CREA","Creatinine","mg/dL",11
+684,"PLAT2","Platelet Count","thous/mm3",144
+684,"SGOT","AST","U/L",129
+684,"SGPT","ALT","U/L",82
+684,"TBIL","Total Bilirubin","mg/dL",5
+684,"WBC","WBC","thous/mm3",421
+685,"CREA","Creatinine","mg/dL",9
+685,"PLAT2","Platelet Count","thous/mm3",396
+685,"SGOT","AST","U/L",225
+685,"SGPT","ALT","U/L",32
+685,"TBIL","Total Bilirubin","mg/dL",5
+685,"WBC","WBC","thous/mm3",459
+686,"CREA","Creatinine","mg/dL",10
+686,"PLAT2","Platelet Count","thous/mm3",197
+686,"SGOT","AST","U/L",92
+686,"SGPT","ALT","U/L",184
+686,"TBIL","Total Bilirubin","mg/dL",4
+686,"WBC","WBC","thous/mm3",476
+687,"CREA","Creatinine","mg/dL",6
+687,"PLAT2","Platelet Count","thous/mm3",110
+687,"SGOT","AST","U/L",184
+687,"SGPT","ALT","U/L",92
+687,"TBIL","Total Bilirubin","mg/dL",6
+687,"WBC","WBC","thous/mm3",446
+688,"CREA","Creatinine","mg/dL",11
+688,"PLAT2","Platelet Count","thous/mm3",232
+688,"SGOT","AST","U/L",225
+688,"SGPT","ALT","U/L",139
+688,"TBIL","Total Bilirubin","mg/dL",4
+688,"WBC","WBC","thous/mm3",442
+689,"CREA","Creatinine","mg/dL",10
+689,"PLAT2","Platelet Count","thous/mm3",182
+689,"SGOT","AST","U/L",172
+689,"SGPT","ALT","U/L",60
+689,"TBIL","Total Bilirubin","mg/dL",7
+689,"WBC","WBC","thous/mm3",372
+690,"CREA","Creatinine","mg/dL",9
+690,"PLAT2","Platelet Count","thous/mm3",207
+690,"SGOT","AST","U/L",92
+690,"SGPT","ALT","U/L",333
+690,"TBIL","Total Bilirubin","mg/dL",4
+690,"WBC","WBC","thous/mm3",443
+691,"CREA","Creatinine","mg/dL",10
+691,"PLAT2","Platelet Count","thous/mm3",140
+691,"SGOT","AST","U/L",119
+691,"SGPT","ALT","U/L",NA
+691,"TBIL","Total Bilirubin","mg/dL",3
+691,"WBC","WBC","thous/mm3",418
+692,"CREA","Creatinine","mg/dL",10
+692,"PLAT2","Platelet Count","thous/mm3",233
+692,"SGOT","AST","U/L",92
+692,"SGPT","ALT","U/L",333
+692,"TBIL","Total Bilirubin","mg/dL",7
+692,"WBC","WBC","thous/mm3",424
+693,"CREA","Creatinine","mg/dL",11
+693,"PLAT2","Platelet Count","thous/mm3",193
+693,"SGOT","AST","U/L",276
+693,"SGPT","ALT","U/L",55
+693,"TBIL","Total Bilirubin","mg/dL",11
+693,"WBC","WBC","thous/mm3",220
+694,"CREA","Creatinine","mg/dL",9
+694,"PLAT2","Platelet Count","thous/mm3",181
+694,"SGOT","AST","U/L",49
+694,"SGPT","ALT","U/L",32
+694,"TBIL","Total Bilirubin","mg/dL",5
+694,"WBC","WBC","thous/mm3",315
+695,"CREA","Creatinine","mg/dL",8
+695,"PLAT2","Platelet Count","thous/mm3",138
+695,"SGOT","AST","U/L",129
+695,"SGPT","ALT","U/L",161
+695,"TBIL","Total Bilirubin","mg/dL",3
+695,"WBC","WBC","thous/mm3",223
+696,"CREA","Creatinine","mg/dL",12
+696,"PLAT2","Platelet Count","thous/mm3",152
+696,"SGOT","AST","U/L",172
+696,"SGPT","ALT","U/L",330
+696,"TBIL","Total Bilirubin","mg/dL",12
+696,"WBC","WBC","thous/mm3",221
+697,"CREA","Creatinine","mg/dL",11
+697,"PLAT2","Platelet Count","thous/mm3",145
+697,"SGOT","AST","U/L",256
+697,"SGPT","ALT","U/L",49
+697,"TBIL","Total Bilirubin","mg/dL",8
+697,"WBC","WBC","thous/mm3",381
+698,"CREA","Creatinine","mg/dL",8
+698,"PLAT2","Platelet Count","thous/mm3",232
+698,"SGOT","AST","U/L",18
+698,"SGPT","ALT","U/L",66
+698,"TBIL","Total Bilirubin","mg/dL",4
+698,"WBC","WBC","thous/mm3",423
+699,"CREA","Creatinine","mg/dL",9
+699,"PLAT2","Platelet Count","thous/mm3",178
+699,"SGOT","AST","U/L",49
+699,"SGPT","ALT","U/L",129
+699,"TBIL","Total Bilirubin","mg/dL",4
+699,"WBC","WBC","thous/mm3",373
+700,"CREA","Creatinine","mg/dL",10
+700,"PLAT2","Platelet Count","thous/mm3",198
+700,"SGOT","AST","U/L",129
+700,"SGPT","ALT","U/L",32
+700,"TBIL","Total Bilirubin","mg/dL",8
+700,"WBC","WBC","thous/mm3",417
+701,"CREA","Creatinine","mg/dL",8
+701,"PLAT2","Platelet Count","thous/mm3",201
+701,"SGOT","AST","U/L",82
+701,"SGPT","ALT","U/L",267
+701,"TBIL","Total Bilirubin","mg/dL",7
+701,"WBC","WBC","thous/mm3",315
+702,"CREA","Creatinine","mg/dL",10
+702,"PLAT2","Platelet Count","thous/mm3",118
+702,"SGOT","AST","U/L",82
+702,"SGPT","ALT","U/L",139
+702,"TBIL","Total Bilirubin","mg/dL",12
+702,"WBC","WBC","thous/mm3",421
+703,"CREA","Creatinine","mg/dL",9
+703,"PLAT2","Platelet Count","thous/mm3",94
+703,"SGOT","AST","U/L",184
+703,"SGPT","ALT","U/L",129
+703,"TBIL","Total Bilirubin","mg/dL",5
+703,"WBC","WBC","thous/mm3",443
+704,"CREA","Creatinine","mg/dL",8
+704,"PLAT2","Platelet Count","thous/mm3",148
+704,"SGOT","AST","U/L",73
+704,"SGPT","ALT","U/L",119
+704,"TBIL","Total Bilirubin","mg/dL",5
+704,"WBC","WBC","thous/mm3",420
+705,"CREA","Creatinine","mg/dL",14
+705,"PLAT2","Platelet Count","thous/mm3",226
+705,"SGOT","AST","U/L",73
+705,"SGPT","ALT","U/L",225
+705,"TBIL","Total Bilirubin","mg/dL",4
+705,"WBC","WBC","thous/mm3",419
+706,"CREA","Creatinine","mg/dL",17
+706,"PLAT2","Platelet Count","thous/mm3",151
+706,"SGOT","AST","U/L",73
+706,"SGPT","ALT","U/L",276
+706,"TBIL","Total Bilirubin","mg/dL",3
+706,"WBC","WBC","thous/mm3",381
+707,"CREA","Creatinine","mg/dL",11
+707,"PLAT2","Platelet Count","thous/mm3",111
+707,"SGOT","AST","U/L",73
+707,"SGPT","ALT","U/L",92
+707,"TBIL","Total Bilirubin","mg/dL",9
+707,"WBC","WBC","thous/mm3",379
+708,"CREA","Creatinine","mg/dL",8
+708,"PLAT2","Platelet Count","thous/mm3",209
+708,"SGOT","AST","U/L",129
+708,"SGPT","ALT","U/L",225
+708,"TBIL","Total Bilirubin","mg/dL",2
+708,"WBC","WBC","thous/mm3",417
+709,"CREA","Creatinine","mg/dL",10
+709,"PLAT2","Platelet Count","thous/mm3",250
+709,"SGOT","AST","U/L",66
+709,"SGPT","ALT","U/L",60
+709,"TBIL","Total Bilirubin","mg/dL",6
+709,"WBC","WBC","thous/mm3",448
+710,"CREA","Creatinine","mg/dL",15
+710,"PLAT2","Platelet Count","thous/mm3",169
+710,"SGOT","AST","U/L",367
+710,"SGPT","ALT","U/L",60
+710,"TBIL","Total Bilirubin","mg/dL",10
+710,"WBC","WBC","thous/mm3",381
+711,"CREA","Creatinine","mg/dL",10
+711,"PLAT2","Platelet Count","thous/mm3",157
+711,"SGOT","AST","U/L",82
+711,"SGPT","ALT","U/L",235
+711,"TBIL","Total Bilirubin","mg/dL",5
+711,"WBC","WBC","thous/mm3",419
+712,"CREA","Creatinine","mg/dL",16
+712,"PLAT2","Platelet Count","thous/mm3",168
+712,"SGOT","AST","U/L",66
+712,"SGPT","ALT","U/L",367
+712,"TBIL","Total Bilirubin","mg/dL",7
+712,"WBC","WBC","thous/mm3",480
+713,"CREA","Creatinine","mg/dL",7
+713,"PLAT2","Platelet Count","thous/mm3",148
+713,"SGOT","AST","U/L",84
+713,"SGPT","ALT","U/L",60
+713,"TBIL","Total Bilirubin","mg/dL",8
+713,"WBC","WBC","thous/mm3",418
+714,"CREA","Creatinine","mg/dL",9
+714,"PLAT2","Platelet Count","thous/mm3",386
+714,"SGOT","AST","U/L",341
+714,"SGPT","ALT","U/L",428
+714,"TBIL","Total Bilirubin","mg/dL",3
+714,"WBC","WBC","thous/mm3",479
+715,"CREA","Creatinine","mg/dL",11
+715,"PLAT2","Platelet Count","thous/mm3",61
+715,"SGOT","AST","U/L",330
+715,"SGPT","ALT","U/L",290
+715,"TBIL","Total Bilirubin","mg/dL",4
+715,"WBC","WBC","thous/mm3",313
+716,"CREA","Creatinine","mg/dL",12
+716,"PLAT2","Platelet Count","thous/mm3",116
+716,"SGOT","AST","U/L",82
+716,"SGPT","ALT","U/L",267
+716,"TBIL","Total Bilirubin","mg/dL",459
+716,"WBC","WBC","thous/mm3",376
+717,"CREA","Creatinine","mg/dL",10
+717,"PLAT2","Platelet Count","thous/mm3",128
+717,"SGOT","AST","U/L",66
+717,"SGPT","ALT","U/L",206
+717,"TBIL","Total Bilirubin","mg/dL",6
+717,"WBC","WBC","thous/mm3",307
+718,"CREA","Creatinine","mg/dL",16
+718,"PLAT2","Platelet Count","thous/mm3",383
+718,"SGOT","AST","U/L",60
+718,"SGPT","ALT","U/L",60
+718,"TBIL","Total Bilirubin","mg/dL",3
+718,"WBC","WBC","thous/mm3",313
+719,"CREA","Creatinine","mg/dL",8
+719,"PLAT2","Platelet Count","thous/mm3",209
+719,"SGOT","AST","U/L",333
+719,"SGPT","ALT","U/L",428
+719,"TBIL","Total Bilirubin","mg/dL",5
+719,"WBC","WBC","thous/mm3",464
+720,"CREA","Creatinine","mg/dL",9
+720,"PLAT2","Platelet Count","thous/mm3",336
+720,"SGOT","AST","U/L",184
+720,"SGPT","ALT","U/L",109
+720,"TBIL","Total Bilirubin","mg/dL",3
+720,"WBC","WBC","thous/mm3",443
+721,"CREA","Creatinine","mg/dL",10
+721,"PLAT2","Platelet Count","thous/mm3",247
+721,"SGOT","AST","U/L",66
+721,"SGPT","ALT","U/L",394
+721,"TBIL","Total Bilirubin","mg/dL",5
+721,"WBC","WBC","thous/mm3",375
+722,"CREA","Creatinine","mg/dL",10
+722,"PLAT2","Platelet Count","thous/mm3",162
+722,"SGOT","AST","U/L",66
+722,"SGPT","ALT","U/L",317
+722,"TBIL","Total Bilirubin","mg/dL",6
+722,"WBC","WBC","thous/mm3",463
+723,"CREA","Creatinine","mg/dL",9
+723,"PLAT2","Platelet Count","thous/mm3",329
+723,"SGOT","AST","U/L",60
+723,"SGPT","ALT","U/L",60
+723,"TBIL","Total Bilirubin","mg/dL",3
+723,"WBC","WBC","thous/mm3",120
+724,"CREA","Creatinine","mg/dL",13
+724,"PLAT2","Platelet Count","thous/mm3",125
+724,"SGOT","AST","U/L",82
+724,"SGPT","ALT","U/L",49
+724,"TBIL","Total Bilirubin","mg/dL",9
+724,"WBC","WBC","thous/mm3",419
+725,"CREA","Creatinine","mg/dL",10
+725,"PLAT2","Platelet Count","thous/mm3",198
+725,"SGOT","AST","U/L",73
+725,"SGPT","ALT","U/L",109
+725,"TBIL","Total Bilirubin","mg/dL",6
+725,"WBC","WBC","thous/mm3",422
+726,"CREA","Creatinine","mg/dL",9
+726,"PLAT2","Platelet Count","thous/mm3",211
+726,"SGOT","AST","U/L",290
+726,"SGPT","ALT","U/L",172
+726,"TBIL","Total Bilirubin","mg/dL",10
+726,"WBC","WBC","thous/mm3",379
+727,"CREA","Creatinine","mg/dL",7
+727,"PLAT2","Platelet Count","thous/mm3",171
+727,"SGOT","AST","U/L",41
+727,"SGPT","ALT","U/L",119
+727,"TBIL","Total Bilirubin","mg/dL",5
+727,"WBC","WBC","thous/mm3",307
+728,"CREA","Creatinine","mg/dL",11
+728,"PLAT2","Platelet Count","thous/mm3",297
+728,"SGOT","AST","U/L",92
+728,"SGPT","ALT","U/L",55
+728,"TBIL","Total Bilirubin","mg/dL",3
+728,"WBC","WBC","thous/mm3",465
+729,"CREA","Creatinine","mg/dL",9
+729,"PLAT2","Platelet Count","thous/mm3",405
+729,"SGOT","AST","U/L",184
+729,"SGPT","ALT","U/L",92
+729,"TBIL","Total Bilirubin","mg/dL",11
+729,"WBC","WBC","thous/mm3",422
+730,"CREA","Creatinine","mg/dL",11
+730,"PLAT2","Platelet Count","thous/mm3",87
+730,"SGOT","AST","U/L",139
+730,"SGPT","ALT","U/L",60
+730,"TBIL","Total Bilirubin","mg/dL",7
+730,"WBC","WBC","thous/mm3",27
+731,"CREA","Creatinine","mg/dL",10
+731,"PLAT2","Platelet Count","thous/mm3",174
+731,"SGOT","AST","U/L",82
+731,"SGPT","ALT","U/L",60
+731,"TBIL","Total Bilirubin","mg/dL",10
+731,"WBC","WBC","thous/mm3",417
+732,"CREA","Creatinine","mg/dL",10
+732,"PLAT2","Platelet Count","thous/mm3",319
+732,"SGOT","AST","U/L",82
+732,"SGPT","ALT","U/L",459
+732,"TBIL","Total Bilirubin","mg/dL",3
+732,"WBC","WBC","thous/mm3",420
+733,"CREA","Creatinine","mg/dL",11
+733,"PLAT2","Platelet Count","thous/mm3",85
+733,"SGOT","AST","U/L",358
+733,"SGPT","ALT","U/L",216
+733,"TBIL","Total Bilirubin","mg/dL",5
+733,"WBC","WBC","thous/mm3",310
+734,"CREA","Creatinine","mg/dL",9
+734,"PLAT2","Platelet Count","thous/mm3",200
+734,"SGOT","AST","U/L",161
+734,"SGPT","ALT","U/L",333
+734,"TBIL","Total Bilirubin","mg/dL",3
+734,"WBC","WBC","thous/mm3",380
+735,"CREA","Creatinine","mg/dL",15
+735,"PLAT2","Platelet Count","thous/mm3",157
+735,"SGOT","AST","U/L",150
+735,"SGPT","ALT","U/L",333
+735,"TBIL","Total Bilirubin","mg/dL",6
+735,"WBC","WBC","thous/mm3",379
+736,"CREA","Creatinine","mg/dL",11
+736,"PLAT2","Platelet Count","thous/mm3",131
+736,"SGOT","AST","U/L",139
+736,"SGPT","ALT","U/L",267
+736,"TBIL","Total Bilirubin","mg/dL",4
+736,"WBC","WBC","thous/mm3",379
+737,"CREA","Creatinine","mg/dL",9
+737,"PLAT2","Platelet Count","thous/mm3",185
+737,"SGOT","AST","U/L",139
+737,"SGPT","ALT","U/L",49
+737,"TBIL","Total Bilirubin","mg/dL",NA
+737,"WBC","WBC","thous/mm3",221
+738,"CREA","Creatinine","mg/dL",8
+738,"PLAT2","Platelet Count","thous/mm3",210
+738,"SGOT","AST","U/L",109
+738,"SGPT","ALT","U/L",459
+738,"TBIL","Total Bilirubin","mg/dL",5
+738,"WBC","WBC","thous/mm3",377
+739,"CREA","Creatinine","mg/dL",9
+739,"PLAT2","Platelet Count","thous/mm3",169
+739,"SGOT","AST","U/L",82
+739,"SGPT","ALT","U/L",49
+739,"TBIL","Total Bilirubin","mg/dL",4
+739,"WBC","WBC","thous/mm3",315
+740,"CREA","Creatinine","mg/dL",11
+740,"PLAT2","Platelet Count","thous/mm3",232
+740,"SGOT","AST","U/L",150
+740,"SGPT","ALT","U/L",333
+740,"TBIL","Total Bilirubin","mg/dL",8
+740,"WBC","WBC","thous/mm3",448
+741,"CREA","Creatinine","mg/dL",11
+741,"PLAT2","Platelet Count","thous/mm3",268
+741,"SGOT","AST","U/L",246
+741,"SGPT","ALT","U/L",66
+741,"TBIL","Total Bilirubin","mg/dL",14
+741,"WBC","WBC","thous/mm3",446
+742,"CREA","Creatinine","mg/dL",8
+742,"PLAT2","Platelet Count","thous/mm3",226
+742,"SGOT","AST","U/L",256
+742,"SGPT","ALT","U/L",246
+742,"TBIL","Total Bilirubin","mg/dL",6
+742,"WBC","WBC","thous/mm3",479
+743,"CREA","Creatinine","mg/dL",16
+743,"PLAT2","Platelet Count","thous/mm3",399
+743,"SGOT","AST","U/L",82
+743,"SGPT","ALT","U/L",66
+743,"TBIL","Total Bilirubin","mg/dL",4
+743,"WBC","WBC","thous/mm3",381
+744,"CREA","Creatinine","mg/dL",8
+744,"PLAT2","Platelet Count","thous/mm3",134
+744,"SGOT","AST","U/L",82
+744,"SGPT","ALT","U/L",139
+744,"TBIL","Total Bilirubin","mg/dL",6
+744,"WBC","WBC","thous/mm3",381
+745,"CREA","Creatinine","mg/dL",9
+745,"PLAT2","Platelet Count","thous/mm3",157
+745,"SGOT","AST","U/L",66
+745,"SGPT","ALT","U/L",32
+745,"TBIL","Total Bilirubin","mg/dL",5
+745,"WBC","WBC","thous/mm3",378
+746,"CREA","Creatinine","mg/dL",14
+746,"PLAT2","Platelet Count","thous/mm3",130
+746,"SGOT","AST","U/L",92
+746,"SGPT","ALT","U/L",206
+746,"TBIL","Total Bilirubin","mg/dL",4
+746,"WBC","WBC","thous/mm3",223
+747,"CREA","Creatinine","mg/dL",7
+747,"PLAT2","Platelet Count","thous/mm3",329
+747,"SGOT","AST","U/L",92
+747,"SGPT","ALT","U/L",150
+747,"TBIL","Total Bilirubin","mg/dL",8
+747,"WBC","WBC","thous/mm3",442
+748,"CREA","Creatinine","mg/dL",7
+748,"PLAT2","Platelet Count","thous/mm3",123
+748,"SGOT","AST","U/L",225
+748,"SGPT","ALT","U/L",139
+748,"TBIL","Total Bilirubin","mg/dL",9
+748,"WBC","WBC","thous/mm3",445
+749,"CREA","Creatinine","mg/dL",10
+749,"PLAT2","Platelet Count","thous/mm3",263
+749,"SGOT","AST","U/L",60
+749,"SGPT","ALT","U/L",60
+749,"TBIL","Total Bilirubin","mg/dL",13
+749,"WBC","WBC","thous/mm3",464
+750,"CREA","Creatinine","mg/dL",8
+750,"PLAT2","Platelet Count","thous/mm3",286
+750,"SGOT","AST","U/L",129
+750,"SGPT","ALT","U/L",347
+750,"TBIL","Total Bilirubin","mg/dL",7
+750,"WBC","WBC","thous/mm3",316
+751,"CREA","Creatinine","mg/dL",13
+751,"PLAT2","Platelet Count","thous/mm3",297
+751,"SGOT","AST","U/L",195
+751,"SGPT","ALT","U/L",41
+751,"TBIL","Total Bilirubin","mg/dL",4
+751,"WBC","WBC","thous/mm3",381
+752,"CREA","Creatinine","mg/dL",10
+752,"PLAT2","Platelet Count","thous/mm3",145
+752,"SGOT","AST","U/L",172
+752,"SGPT","ALT","U/L",290
+752,"TBIL","Total Bilirubin","mg/dL",7
+752,"WBC","WBC","thous/mm3",443
+753,"CREA","Creatinine","mg/dL",8
+753,"PLAT2","Platelet Count","thous/mm3",176
+753,"SGOT","AST","U/L",330
+753,"SGPT","ALT","U/L",129
+753,"TBIL","Total Bilirubin","mg/dL",5
+753,"WBC","WBC","thous/mm3",417
+754,"CREA","Creatinine","mg/dL",7
+754,"PLAT2","Platelet Count","thous/mm3",174
+754,"SGOT","AST","U/L",66
+754,"SGPT","ALT","U/L",129
+754,"TBIL","Total Bilirubin","mg/dL",5
+754,"WBC","WBC","thous/mm3",307
+755,"CREA","Creatinine","mg/dL",15
+755,"PLAT2","Platelet Count","thous/mm3",285
+755,"SGOT","AST","U/L",426
+755,"SGPT","ALT","U/L",66
+755,"TBIL","Total Bilirubin","mg/dL",5
+755,"WBC","WBC","thous/mm3",482
+756,"CREA","Creatinine","mg/dL",7
+756,"PLAT2","Platelet Count","thous/mm3",146
+756,"SGOT","AST","U/L",66
+756,"SGPT","ALT","U/L",41
+756,"TBIL","Total Bilirubin","mg/dL",10
+756,"WBC","WBC","thous/mm3",463
+757,"CREA","Creatinine","mg/dL",11
+757,"PLAT2","Platelet Count","thous/mm3",207
+757,"SGOT","AST","U/L",404
+757,"SGPT","ALT","U/L",246
+757,"TBIL","Total Bilirubin","mg/dL",10
+757,"WBC","WBC","thous/mm3",447
+758,"CREA","Creatinine","mg/dL",12
+758,"PLAT2","Platelet Count","thous/mm3",182
+758,"SGOT","AST","U/L",246
+758,"SGPT","ALT","U/L",21
+758,"TBIL","Total Bilirubin","mg/dL",4
+758,"WBC","WBC","thous/mm3",313
+759,"CREA","Creatinine","mg/dL",10
+759,"PLAT2","Platelet Count","thous/mm3",318
+759,"SGOT","AST","U/L",109
+759,"SGPT","ALT","U/L",129
+759,"TBIL","Total Bilirubin","mg/dL",5
+759,"WBC","WBC","thous/mm3",465
+760,"CREA","Creatinine","mg/dL",13
+760,"PLAT2","Platelet Count","thous/mm3",295
+760,"SGOT","AST","U/L",150
+760,"SGPT","ALT","U/L",41
+760,"TBIL","Total Bilirubin","mg/dL",3
+760,"WBC","WBC","thous/mm3",482
+761,"CREA","Creatinine","mg/dL",9
+761,"PLAT2","Platelet Count","thous/mm3",231
+761,"SGOT","AST","U/L",139
+761,"SGPT","ALT","U/L",129
+761,"TBIL","Total Bilirubin","mg/dL",7
+761,"WBC","WBC","thous/mm3",485
+762,"CREA","Creatinine","mg/dL",12
+762,"PLAT2","Platelet Count","thous/mm3",226
+762,"SGOT","AST","U/L",246
+762,"SGPT","ALT","U/L",276
+762,"TBIL","Total Bilirubin","mg/dL",7
+762,"WBC","WBC","thous/mm3",373
+763,"CREA","Creatinine","mg/dL",10
+763,"PLAT2","Platelet Count","thous/mm3",63
+763,"SGOT","AST","U/L",184
+763,"SGPT","ALT","U/L",119
+763,"TBIL","Total Bilirubin","mg/dL",9
+763,"WBC","WBC","thous/mm3",380
+764,"CREA","Creatinine","mg/dL",14
+764,"PLAT2","Platelet Count","thous/mm3",248
+764,"SGOT","AST","U/L",150
+764,"SGPT","ALT","U/L",476
+764,"TBIL","Total Bilirubin","mg/dL",5
+764,"WBC","WBC","thous/mm3",74
+765,"CREA","Creatinine","mg/dL",8
+765,"PLAT2","Platelet Count","thous/mm3",110
+765,"SGOT","AST","U/L",92
+765,"SGPT","ALT","U/L",276
+765,"TBIL","Total Bilirubin","mg/dL",3
+765,"WBC","WBC","thous/mm3",314
+766,"CREA","Creatinine","mg/dL",11
+766,"PLAT2","Platelet Count","thous/mm3",89
+766,"SGOT","AST","U/L",119
+766,"SGPT","ALT","U/L",60
+766,"TBIL","Total Bilirubin","mg/dL",6
+766,"WBC","WBC","thous/mm3",462
+767,"CREA","Creatinine","mg/dL",8
+767,"PLAT2","Platelet Count","thous/mm3",132
+767,"SGOT","AST","U/L",82
+767,"SGPT","ALT","U/L",195
+767,"TBIL","Total Bilirubin","mg/dL",NA
+767,"WBC","WBC","thous/mm3",312
+768,"CREA","Creatinine","mg/dL",9
+768,"PLAT2","Platelet Count","thous/mm3",130
+768,"SGOT","AST","U/L",139
+768,"SGPT","ALT","U/L",49
+768,"TBIL","Total Bilirubin","mg/dL",11
+768,"WBC","WBC","thous/mm3",316
+769,"CREA","Creatinine","mg/dL",9
+769,"PLAT2","Platelet Count","thous/mm3",147
+769,"SGOT","AST","U/L",82
+769,"SGPT","ALT","U/L",66
+769,"TBIL","Total Bilirubin","mg/dL",4
+769,"WBC","WBC","thous/mm3",445
+770,"CREA","Creatinine","mg/dL",9
+770,"PLAT2","Platelet Count","thous/mm3",141
+770,"SGOT","AST","U/L",60
+770,"SGPT","ALT","U/L",66
+770,"TBIL","Total Bilirubin","mg/dL",6
+770,"WBC","WBC","thous/mm3",372
+771,"CREA","Creatinine","mg/dL",10
+771,"PLAT2","Platelet Count","thous/mm3",148
+771,"SGOT","AST","U/L",139
+771,"SGPT","ALT","U/L",41
+771,"TBIL","Total Bilirubin","mg/dL",6
+771,"WBC","WBC","thous/mm3",376
+772,"CREA","Creatinine","mg/dL",10
+772,"PLAT2","Platelet Count","thous/mm3",168
+772,"SGOT","AST","U/L",92
+772,"SGPT","ALT","U/L",150
+772,"TBIL","Total Bilirubin","mg/dL",6
+772,"WBC","WBC","thous/mm3",483
+773,"CREA","Creatinine","mg/dL",12
+773,"PLAT2","Platelet Count","thous/mm3",285
+773,"SGOT","AST","U/L",184
+773,"SGPT","ALT","U/L",317
+773,"TBIL","Total Bilirubin","mg/dL",10
+773,"WBC","WBC","thous/mm3",376
