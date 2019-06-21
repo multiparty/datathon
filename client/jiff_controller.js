@@ -156,7 +156,7 @@ define(['mpc', 'pki', 'BigNumber', 'jiff', 'jiff_bignumber', 'jiff_restAPI', 'ta
       var T_TIL_DEATH_INDEX = 2;
       var T_SINCE_DGNS_INDEX = 3;
       var T_SINCE_METDIS_INDEX = 4;
-      var DEATH_FLAG_INDEX= 4;
+      var DEATH_FLAG_INDEX= 5;
       /*for(var i = 0; i < patient_data.length; i++) {
       if(patient_data[i][REGION_INDEX] in region){
         region['key_1'][key_1] = patient_data[i][KEY_1_INDEX];
@@ -166,26 +166,33 @@ define(['mpc', 'pki', 'BigNumber', 'jiff', 'jiff_bignumber', 'jiff_restAPI', 'ta
     }*/
       // secret share individual patient data
       for(var i = 0; i < patient_data.length; i++) {
-        jiff.share(patient_data[i][AGE_GROUP_INDEX], null, [1, 's1'], [jiff.id]);
-        jiff.share(patient_data[i][TREATMENT_INDEX], null, [1, 's1'], [jiff.id]);
-        jiff.share(patient_data[i][T_TIL_DEATH_INDEX], null, [1, 's1'], [jiff.id]);
-        jiff.share(patient_data[i][T_SINCE_DGNS_INDEX], null, [1, 's1'], [jiff.id]);
-        jiff.share(patient_data[i][T_SINCE_METDIS_INDEX], null, [1, 's1'], [jiff.id]);
+        if(patient_data[i][DEATH_FLAG_INDEX] == 'Y') {
+          var til_death = patient_data[i][T_TIL_DEATH_INDEX];
+          var since_diagnosis = patient_data[i][T_SINCE_DGNS_INDEX];
+          var since_metastatic = patient_data[i][T_SINCE_METDIS_INDEX];
+          jiff.share(til_death, null, [1, 's1'], [jiff.id]);
+          jiff.share(since_diagnosis, null, [1, 's1'], [jiff.id]);
+          jiff.share(since_metastatic, null, [1, 's1'], [jiff.id]);
 
-        //age group
-        for (var k = 0; k < 6; k++) {
-          // treatment
-          for (var j = 0; j < 2; j++) {
-            var age_range = Math.floor(patient_data[i][AGE_GROUP_INDEX]);
-            var treatment = patient_data[i][TREATMENT_INDEX];
-            var bit = 0;
-            if (age_range == k) {
-              if (treatment == j) {
-                bit = 1;
+          jiff.share(til_death * til_death, null, [1, 's1'], [jiff.id]);
+          jiff.share(since_diagnosis * since_diagnosis, null, [1, 's1'], [jiff.id]);
+          jiff.share(since_metastatic * since_metastatic, null, [1, 's1'], [jiff.id]);
+
+          //age group
+          for (var k = 0; k < 6; k++) {
+            // treatment
+            for (var j = 0; j < 2; j++) {
+              var age_range = Math.floor(patient_data[i][AGE_GROUP_INDEX]);
+              var treatment = patient_data[i][TREATMENT_INDEX];
+              var bit = 0;
+              if (age_range == k) {
+                if (treatment == j) {
+                  bit = 1;
+                }
               }
+              jiff.share(bit, null, [1, 's1'], [jiff.id]);
             }
-            jiff.share(bit, null, [1, 's1'], [jiff.id]);
-        }
+          }
       }
 
       jiff.restFlush();
