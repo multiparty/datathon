@@ -9,6 +9,8 @@ def select(path_to_file, variables, output_path):
     df = df[variables]
     # df = df.applymap(lambda x: ast.literal_eval(x)[0] if x not in ['AGEGR1N', "AVAL", 'TRTAN', "DIAGDUR", "METDDUR", "DTHFL", "SUBJID"] else x)
     df = df.applymap(lambda x: x[1:-1])
+    for var in variables:
+        df = df[df[var] != "nan"]
     df[primary_key] = primary_col
     df.to_csv(output_path, index=False)
 
