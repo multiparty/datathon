@@ -1,9 +1,15 @@
 import pandas as pd
 
-def select(fname, variables):
-    df = pd.read_csv(fname)
+def select(path_to_file, variables, output_path):
+    df = pd.read_csv(path_to_file)
+    # add primary key
+    variables = [list(df)[0]] + variables
     df = df[variables]
-    df.to_csv("../parsed_data/filtered_trail_1.csv")
+    df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
-    filter_df = select("../parsed_data/combined_trail_1.csv", ["SOC_TXT", "AGE_C"])
+    path_to_file = "../parsed_data/combined_trial_1.csv"
+    variables = ["SOC_TXT", "AGE_C"]
+    output_path = "../parsed_data/filtered_trial_1.csv"
+
+    filter_df = select(path_to_file=path_to_file, variables=variables, output_path=output_path)
