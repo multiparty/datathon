@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Vivli Data Upload</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+    integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.css"
+    integrity="sha256-JvdVmxv7Q0LsN1EJo2zc1rACwzatOzkyx11YI4aP9PY=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/AlertifyJS/1.10.0/css/alertify.min.css"
+    integrity="sha256-bNEFYRlNlnu0CH4DIKCXv0F6JVl/DdA2M9XVZn317q0=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/AlertifyJS/1.10.0/css/themes/bootstrap.min.css"
+    integrity="sha256-vt37wNLVK8ICNWGrl+1MLb+pjq33sn6v37Q/7OPgkSU=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/Ladda/1.0.0/ladda-themeless.min.css"
+    integrity="sha256-d7VZTlP9P3ZTCZ3Bkl8aGZ/+Vs4i+bpcOGNfibU7+LU=" crossorigin="anonymous"/>
+
+    <link rel="stylesheet" href="styles/style.css">
+
+    <style>
+    .error {
+        color: #FF0000;
+    }
+    </style>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/lib/sodium.js"></script>
+    <script src="/lib/jiff-client.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-1.11.1.js"></script> -->
+    <script src="/lib/jquery-1.11.1.js"></script>
+
+    <!-- Contains UI Handlers and Input Checks -->
+    <script type="text/javascript" src="./controls.js"></script>
+
+    <!-- Contains the MPC implementation -->
+    <script type="text/javascript" src="./mpc.js"></script>
+</head>
+<body>
+    <header style="height: 100px;">
+        <div class="container">
+            <img src="./logo.png" style="margin-top: 20px; width: 380px;" alt="Vivli" class="desktop">
+        </div>
+    </header>
+    <div id="shadow" style="height: 100px;" class="ss-style-multitriangles"></div>
+    <main id="content" class="container" style="margin-top: 170px">
+        <div class="row">
+            <section id="session-area" class="card col-md-10 col-md-offset-1">
+                <h2 class="text-center" style="margin-top: 10px">Submit Query for Analysis</h2>
+                <hr/>
+                <h3>Program Query</h3>
+                <div class="container">
+                    <div id="btns" class="row">
+                        <textarea style="margin-bottom: 10px; width: 90%; height: 205px;">
+average("time_till_death", "northeast")
+average("time_since_diagnosis", "northeast")
+std("time_since_diagnosis", "northeast")
+correlate("region", "death flag")
+                        </textarea>
+                        <br>
+                        <button style="width: 190px" class="btn btn-primary" id="resetButton" id="connectButton" onclick="connect();">Connect to Data Servers</button>&nbsp;&nbsp;
+                        <button style="width: 100px" class="btn btn-primary" id="compareBtn1"  onclick="submit();" disabled="true">Run Query</button>&nbsp;&nbsp;
+                        <button style="width: 100px" class="btn btn-primary" id="resetButton" onclick="reset();" disabled="true">Disconnect</button>
+                    </div>
+                    <br/>
+                    <div id="btns" class="row">
+                        <h3>Resulting Data</h3>
+                        <div id="output">(waiting for response)</div>
+                        <button style="margin-top: 15px;width: 80px" class="btn btn-primary" id="check" onclick="printProfiles();">Refresh</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br/>
+</main>
+</body>
+</html>
